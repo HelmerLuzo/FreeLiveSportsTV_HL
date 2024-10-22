@@ -1,6 +1,6 @@
 {
     "name": "FreeLiveSportsTV by HL",
-    "author": "Actualizada 22/10/2024 12:21",
+    "author": "Actualizada 23/10/2024 00:21",
     "epg": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/epg/FreeLiveSportsTV.xml.gz",
     "image": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/freelivesports.png",
     "url": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/tv/w3u/FreeLiveSportsTV_tv.w3u",
@@ -511,21 +511,21 @@
                 {
                     "name": "OZ TV",
                     "image": "https://media.unreel.me/prod/freelivesports/logo/affc3666-abe2-48ab-b7f2-7bbd4d5b7423",
-                    "number": "365",
+                    "number": "366",
                     "url": "https://amg13231-actve-amg13231c3-sportstribal-emea-1267.playouts.now.amagi.tv/playlist/amg13231-actvefast-snowboarder-sportstribalemea/playlist.m3u8",
                     "epgId": "6675bb1ce1827c8af5d7a67b"
                 },
                 {
                     "name": "Team Liquid",
                     "image": "https://media.unreel.me/prod/freelivesports/logo/fb8041e6-658e-4d66-bcb6-572c5073b0a6",
-                    "number": "366",
+                    "number": "367",
                     "url": "https://amg13231-actve-amg13231c2-sportstribal-emea-1266.playouts.now.amagi.tv/playlist/amg13231-actvefast-skateboarding-sportstribalemea/playlist.m3u8",
                     "epgId": "6675ba64d6d7787f5ce97012"
                 },
                 {
                     "name": "Documentary+",
                     "image": "https://media.unreel.me/prod/freelivesports/logo/2518434b-1ada-498a-9709-94c472b4b162",
-                    "number": "368",
+                    "number": "369",
                     "url": "https://linear-887.frequency.stream/dist/freelivesports/887/hls/master/playlist.m3u8",
                     "epgId": "670800411a95445e2203071e"
                 }
