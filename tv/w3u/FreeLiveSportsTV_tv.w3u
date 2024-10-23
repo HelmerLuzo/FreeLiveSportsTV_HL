@@ -1,6 +1,6 @@
 {
     "name": "FreeLiveSportsTV by HL",
-    "author": "Actualizada 23/10/2024 12:21",
+    "author": "Actualizada 24/10/2024 00:21",
     "epg": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/epg/FreeLiveSportsTV.xml.gz",
     "image": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/freelivesports.png",
     "url": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/tv/w3u/FreeLiveSportsTV_tv.w3u",
@@ -17,11 +17,25 @@
                     "epgId": "6675b7bda139017a32428e74"
                 },
                 {
+                    "name": "HOOP TV",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/0494aeb1-09fb-4bc7-b189-608208347e2f",
+                    "number": "102",
+                    "url": "https://amg00585-amg00585c9-sportstribal-emea-5518.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-hooptv-sportstribalemea/playlist.m3u8",
+                    "epgId": "6719351a9127383bf1afb7a0"
+                },
+                {
                     "name": "Goal TV",
                     "image": "https://media.unreel.me/prod/freelivesports/logo/3b9ff291-5825-4cd3-b8f0-5d03a3f1e3c1",
-                    "number": "102",
+                    "number": "105",
                     "url": "https://amg00585-sportstribal-amg00585c1-sportstribal-emea-2175.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-goaltv-sportstribalemea/playlist.m3u8",
                     "epgId": "66b0eaeefee09b4f89618a72"
+                },
+                {
+                    "name": "ACE TV",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/afbfcdcd-24f2-4538-aaac-227d797d6f9a",
+                    "number": "106",
+                    "url": "https://amg00585-amg00585c10-sportstribal-emea-5519.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-acetv-sportstribalemea/playlist.m3u8",
+                    "epgId": "671936aee4b561864c211127"
                 }
             ]
         },
@@ -306,28 +320,28 @@
                 {
                     "name": "Perfect Game TV",
                     "image": "https://media.unreel.me/prod/sportsplus/logo/9f28b472-3256-49bc-b27e-32638ceff5ce",
-                    "number": "261",
+                    "number": "263",
                     "url": "https://92c86304984e4d4696e9840cf8a46537.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/SportsTribal-eu_PerfectGameTV/playlist.m3u8",
                     "epgId": "6675b8bb2916d97ce3c66c0f"
                 },
                 {
                     "name": "Lacrosse Channel",
                     "image": "https://media.unreel.me/prod/sportsplus/logo/49f28445-430e-4e7e-bd41-797c55bec694",
-                    "number": "262",
+                    "number": "267",
                     "url": "https://e9f5db0f59d6470c81af59545905e4e5.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SportsTribal-LacrosseChannel/LSN_SCTE.m3u8",
                     "epgId": "6675c0bb7f512eb266c46f0f"
                 },
                 {
                     "name": "Cornhole TV",
                     "image": "https://media.unreel.me/prod/sportsplus/logo/47355675-c7fe-49b7-943a-507b3fa938e4",
-                    "number": "263",
+                    "number": "268",
                     "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00585-sportstribaltv-cornholetv-sportstribal/playlist.m3u8",
                     "epgId": "6675b85a7620a64769e3a926"
                 },
                 {
                     "name": "Foosball TV",
                     "image": "https://media.unreel.me/prod/sportsplus/logo/d3788f01-fb30-4115-b199-6cd822680176",
-                    "number": "264",
+                    "number": "269",
                     "url": "https://amg00585-sportstribal-amg00585c2-sportstribal-emea-2176.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-foosballtv-sportstribalemea/playlist.m3u8",
                     "epgId": "6675c17f073469c082cb2b03"
                 }
