@@ -1,6 +1,6 @@
 {
     "name": "FreeLiveSportsTV by HL",
-    "author": "Actualizada 31/10/2024 12:17",
+    "author": "Actualizada 01/11/2024 00:17",
     "epg": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/epg/FreeLiveSportsTV.xml.gz",
     "image": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/freelivesports.png",
     "url": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/tv/w3u/FreeLiveSportsTV_tv.w3u",
@@ -291,18 +291,18 @@
             "image": "",
             "stations": [
                 {
-                    "name": "FUEL TV",
-                    "image": "https://media.unreel.me/prod/sportsplus/logo/a88c79a7-4f11-451e-a62b-f295efb375f4",
+                    "name": "Surfer",
+                    "image": "https://media.unreel.me/prod/sportsplus/logo/86347516-2719-4b39-b62b-128eb95d2cd6",
                     "number": "240",
-                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvemeaen-sportstribal/playlist.m3u8",
-                    "epgId": "6675ba23a139017a32428faa"
+                    "url": "https://amg13231-actve-amg13231c4-sportstribal-emea-1268.playouts.now.amagi.tv/playlist/amg13231-actvefast-surfer-sportstribalemea/playlist.m3u8",
+                    "epgId": "66631a6b68357e70058f62ca"
                 },
                 {
-                    "name": "Powder",
-                    "image": "https://media.unreel.me/prod/sportsplus/logo/c5e73c76-626d-401e-9c00-64d1a89d3a44",
+                    "name": "FUEL TV",
+                    "image": "https://media.unreel.me/prod/sportsplus/logo/a88c79a7-4f11-451e-a62b-f295efb375f4",
                     "number": "241",
-                    "url": "https://amg13231-actve-amg13231c5-sportstribal-emea-1269.playouts.now.amagi.tv/playlist/amg13231-actvefast-powder-sportstribalemea/playlist.m3u8",
-                    "epgId": "6675bde91de4405de4d48712"
+                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvemeaen-sportstribal/playlist.m3u8",
+                    "epgId": "6675ba23a139017a32428faa"
                 },
                 {
                     "name": "World of Freesports",
@@ -310,13 +310,6 @@
                     "number": "242",
                     "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01866-mainstreammedia-freesportsinc-sportstribal/playlist.m3u8",
                     "epgId": "6675bbd47620a64769e3aaa7"
-                },
-                {
-                    "name": "Surfer",
-                    "image": "https://media.unreel.me/prod/sportsplus/logo/86347516-2719-4b39-b62b-128eb95d2cd6",
-                    "number": "243",
-                    "url": "https://amg13231-actve-amg13231c4-sportstribal-emea-1268.playouts.now.amagi.tv/playlist/amg13231-actvefast-surfer-sportstribalemea/playlist.m3u8",
-                    "epgId": "66631a6b68357e70058f62ca"
                 }
             ]
         },
@@ -563,6 +556,13 @@
                     "number": "372",
                     "url": "https://linear-887.frequency.stream/dist/freelivesports/887/hls/master/playlist.m3u8",
                     "epgId": "670800411a95445e2203071e"
+                },
+                {
+                    "name": "Popular Science",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/ff607bfd-e338-4aab-8df8-5e3b7b0e82b5",
+                    "number": "375",
+                    "url": "https://amg13231-actve-amg13231c5-sportstribal-emea-1269.playouts.now.amagi.tv/playlist/amg13231-actvefast-powder-sportstribalemea/playlist.m3u8",
+                    "epgId": "6675bde91de4405de4d48712"
                 }
             ]
         }
