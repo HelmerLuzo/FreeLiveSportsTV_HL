@@ -1,6 +1,6 @@
 {
     "name": "FreeLiveSportsTV by HL",
-    "author": "Actualizada 05/11/2024 12:17",
+    "author": "Actualizada 06/11/2024 00:17",
     "epg": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/epg/FreeLiveSportsTV.xml.gz",
     "image": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/freelivesports.png",
     "url": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/tv/w3u/FreeLiveSportsTV_tv.w3u",
@@ -22,6 +22,13 @@
                     "number": "102",
                     "url": "https://amg00585-amg00585c9-sportstribal-emea-5518.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-hooptv-sportstribalemea/playlist.m3u8",
                     "epgId": "6719351a9127383bf1afb7a0"
+                },
+                {
+                    "name": "HOMERUN TV",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/d61161f8-a090-4ae8-8e13-f953f159a1e2",
+                    "number": "103",
+                    "url": "https://amg00585-amg00585c11-sportstribal-emea-5520.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-homeruntv-sportstribalemea/playlist.m3u8",
+                    "epgId": "672a6848fd1ed5975d61a3b7"
                 },
                 {
                     "name": "Goal TV",
@@ -470,21 +477,21 @@
                 {
                     "name": "Hunt Fish TV",
                     "image": "https://media.unreel.me/prod/sportsplus/logo/3b03051b-d5ae-4e42-b41d-b2d338db5a91",
-                    "number": "343",
+                    "number": "344",
                     "url": "https://amg00585-sportstribal-amg00585c3-sportstribal-emea-2177.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-huntfishtv-sportstribalemea/playlist.m3u8",
                     "epgId": "6675c1ce0485604f67e34409"
                 },
                 {
                     "name": "Pursuit UP",
                     "image": "https://media.unreel.me/prod/sportsplus/logo/9d1e572a-01e1-47ab-9fce-7172476db225",
-                    "number": "344",
+                    "number": "346",
                     "url": "https://linear-205.frequency.stream/dist/sportstribaltv/205/hls/master/playlist.m3u8",
                     "epgId": "6675be9aa139017a3242925e"
                 },
                 {
                     "name": "H20 TV",
                     "image": "https://media.unreel.me/prod/freelivesports/logo/59987eb6-cbd7-4a38-b59f-597fc0f8ca45",
-                    "number": "345",
+                    "number": "347",
                     "url": "https://linear-738.frequency.stream/dist/sportstribaltv/738/hls/master/playlist.m3u8",
                     "epgId": "66b0ebd5cd7808e59b6f35d6"
                 }
