@@ -1,6 +1,6 @@
 {
     "name": "FreeLiveSportsTV by HL",
-    "author": "Actualizada 06/11/2024 00:17",
+    "author": "Actualizada 06/11/2024 12:17",
     "epg": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/epg/FreeLiveSportsTV.xml.gz",
     "image": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/freelivesports.png",
     "url": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/tv/w3u/FreeLiveSportsTV_tv.w3u",
@@ -332,6 +332,13 @@
                     "epgId": "6675b8bb2916d97ce3c66c0f"
                 },
                 {
+                    "name": "Moonball Sports TV",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/2dc20455-86cc-42dc-b358-aad1bc6ab601",
+                    "number": "265",
+                    "url": "https://amg18572-amg18572c1-freelivesports-emea-5549.playouts.now.amagi.tv/playlist/amg18572-moonballtv-moonballsportstv-freelivesportsemea/playlist.m3u8",
+                    "epgId": "672a6a6a8e0fe64b11198015"
+                },
+                {
                     "name": "Lacrosse Channel",
                     "image": "https://media.unreel.me/prod/sportsplus/logo/49f28445-430e-4e7e-bd41-797c55bec694",
                     "number": "267",
@@ -482,6 +489,13 @@
                     "epgId": "6675c1ce0485604f67e34409"
                 },
                 {
+                    "name": "Sports Fishing",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/14381755-3fff-4d9b-abe7-718441b14a71",
+                    "number": "345",
+                    "url": "https://amg00585-amg00585c12-sportstribal-emea-5521.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-sportsfishing-sportstribalemea/playlist.m3u8",
+                    "epgId": "672a69a5873afb52c5fc1497"
+                },
+                {
                     "name": "Pursuit UP",
                     "image": "https://media.unreel.me/prod/sportsplus/logo/9d1e572a-01e1-47ab-9fce-7172476db225",
                     "number": "346",
@@ -549,6 +563,13 @@
                     "number": "367",
                     "url": "https://amg13231-actve-amg13231c2-sportstribal-emea-1266.playouts.now.amagi.tv/playlist/amg13231-actvefast-skateboarding-sportstribalemea/playlist.m3u8",
                     "epgId": "6675ba64d6d7787f5ce97012"
+                },
+                {
+                    "name": "Escape TV",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/bda4617f-7059-4e24-ab4b-befb6ef4aa50",
+                    "number": "369",
+                    "url": "https://amg00585-amg00585c13-sportstribal-emea-5522.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-escapetv-sportstribalemea/playlist.m3u8",
+                    "epgId": "672a67138e0fe64b11195701"
                 },
                 {
                     "name": "Chive TV",
