@@ -1,6 +1,6 @@
 {
     "name": "FreeLiveSportsTV by HL",
-    "author": "Actualizada 14/11/2024 12:17",
+    "author": "Actualizada 15/11/2024 00:17",
     "epg": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/epg/FreeLiveSportsTV.xml.gz",
     "image": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/freelivesports.png",
     "url": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/tv/w3u/FreeLiveSportsTV_tv.w3u",
@@ -378,6 +378,13 @@
                     "number": "281",
                     "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00585-sportstribaltv-sportstak-sportstribal/playlist.m3u8",
                     "epgId": "6675b8137c95176b1d3a75bd"
+                },
+                {
+                    "name": "Kozoom",
+                    "image": "https://media.unreel.me/prod/sportsplus/logo/3a13474e-b983-41c1-9ef1-0e11524eee06",
+                    "number": "282",
+                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01743-sportstribal-kozoom-sportstribal/playlist.m3u8",
+                    "epgId": "6675bf6cb464f958050c8dcc"
                 }
             ]
         },
@@ -475,6 +482,13 @@
                     "epgId": "670feba51434e5a44440b81f"
                 },
                 {
+                    "name": "Hunt Fish TV",
+                    "image": "https://media.unreel.me/prod/sportsplus/logo/3b03051b-d5ae-4e42-b41d-b2d338db5a91",
+                    "number": "344",
+                    "url": "https://amg00585-sportstribal-amg00585c3-sportstribal-emea-2177.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-huntfishtv-sportstribalemea/playlist.m3u8",
+                    "epgId": "6675c1ce0485604f67e34409"
+                },
+                {
                     "name": "Sports Fishing",
                     "image": "https://media.unreel.me/prod/freelivesports/logo/14381755-3fff-4d9b-abe7-718441b14a71",
                     "number": "345",
@@ -549,6 +563,13 @@
                     "number": "367",
                     "url": "https://amg13231-actve-amg13231c2-sportstribal-emea-1266.playouts.now.amagi.tv/playlist/amg13231-actvefast-skateboarding-sportstribalemea/playlist.m3u8",
                     "epgId": "6675ba64d6d7787f5ce97012"
+                },
+                {
+                    "name": "Escape TV",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/bda4617f-7059-4e24-ab4b-befb6ef4aa50",
+                    "number": "369",
+                    "url": "https://amg00585-amg00585c13-sportstribal-emea-5522.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-escapetv-sportstribalemea/playlist.m3u8",
+                    "epgId": "672a67138e0fe64b11195701"
                 },
                 {
                     "name": "Chive TV",
