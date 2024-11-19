@@ -1,6 +1,6 @@
 {
     "name": "FreeLiveSportsTV by HL",
-    "author": "Actualizada 19/11/2024 00:17",
+    "author": "Actualizada 19/11/2024 12:17",
     "epg": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/epg/FreeLiveSportsTV.xml.gz",
     "image": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/freelivesports.png",
     "url": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/tv/w3u/FreeLiveSportsTV_tv.w3u",
@@ -15,6 +15,13 @@
                     "number": "101",
                     "url": "https://sportsgrid-tribal.amagi.tv/hls/amagi_hls_data_sportstri-sportsgrid-sportstribal/CDN/playlist.m3u8",
                     "epgId": "6675b7bda139017a32428e74"
+                },
+                {
+                    "name": "GFN Soccer TV",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/6f6381b3-547a-4f33-8136-168cd5942c43",
+                    "number": "102",
+                    "url": "https://583956ed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X0dsb2JhbEZhbk5ldHdvcmtfSExT/playlist.m3u8",
+                    "epgId": "673b69a49d8c78e3561485b3"
                 },
                 {
                     "name": "Golf News Network",
@@ -535,6 +542,13 @@
                     "number": "363",
                     "url": "https://tracetv-tracesportstar-sportstribal.amagi.tv/hls/amagi_hls_data_tracetvAA-trace-sportstars-sportstribal/CDN/playlist.m3u8",
                     "epgId": "6675bad59db1ef77befe9837"
+                },
+                {
+                    "name": "The Boat Show",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/e7dac27b-cf23-472d-b190-4eecaa3b79d1",
+                    "number": "365",
+                    "url": "https://b74b2c1067794724b288f2e6996c2dad.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_TheBoatShow/playlist.m3u8",
+                    "epgId": "673b785252254eb082e18520"
                 },
                 {
                     "name": "Greatest Sports Legends & Laughs",

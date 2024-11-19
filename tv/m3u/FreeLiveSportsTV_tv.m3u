@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-id="6675b7bda139017a32428e74" tvg-name="6675b7bda139017a32428e74" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/71403161-8f04-41b0-87dc-cd47d12767f2" group-title="Sports News" tvg-chno="101", SportsGrid
 https://sportsgrid-tribal.amagi.tv/hls/amagi_hls_data_sportstri-sportsgrid-sportstribal/CDN/playlist.m3u8
 
+#EXTINF:-1 tvg-id="673b69a49d8c78e3561485b3" tvg-name="673b69a49d8c78e3561485b3" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/6f6381b3-547a-4f33-8136-168cd5942c43" group-title="Sports News" tvg-chno="102", GFN Soccer TV
+https://583956ed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X0dsb2JhbEZhbk5ldHdvcmtfSExT/playlist.m3u8
+
 #EXTINF:-1 tvg-id="67194fc6034005e8aa716e3b" tvg-name="67194fc6034005e8aa716e3b" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/bb2e0680-cde2-47b2-8334-0b2548da9518" group-title="Sports News" tvg-chno="103", Golf News Network
 https://amg18570-amg18570c1-golfnewsnetwork-us-5165.playouts.now.amagi.tv/playlist/amg18570-golfnewsnetwork-golfnewsnet-golfnewsnetworkus/playlist.m3u8
 
@@ -193,6 +196,9 @@ https://amg00348-amg00348c2-sportstribal-emea-3159.playouts.now.amagi.tv/playlis
 
 #EXTINF:-1 tvg-id="6675bad59db1ef77befe9837" tvg-name="6675bad59db1ef77befe9837" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/234a42b4-2768-4c10-99e8-454ef31031da" group-title="Lifestyle" tvg-chno="363", TRACE Sport Stars
 https://tracetv-tracesportstar-sportstribal.amagi.tv/hls/amagi_hls_data_tracetvAA-trace-sportstars-sportstribal/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="673b785252254eb082e18520" tvg-name="673b785252254eb082e18520" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/e7dac27b-cf23-472d-b190-4eecaa3b79d1" group-title="Lifestyle" tvg-chno="365", The Boat Show
+https://b74b2c1067794724b288f2e6996c2dad.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_TheBoatShow/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6717da0636dc92fb49346e64" tvg-name="6717da0636dc92fb49346e64" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/b69331b3-e5c6-488c-abc7-a3add90b136b" group-title="Lifestyle" tvg-chno="366", Greatest Sports Legends & Laughs
 https://3db084d1dd6f49ecbf809a40d8a446b2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_GreatestSportsLegendsandLaughs/playlist.m3u8
