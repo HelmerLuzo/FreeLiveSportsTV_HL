@@ -1,6 +1,6 @@
 {
     "name": "FreeLiveSportsTV by HL",
-    "author": "Actualizada 20/11/2024 12:17",
+    "author": "Actualizada 21/11/2024 00:17",
     "epg": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/epg/FreeLiveSportsTV.xml.gz",
     "image": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/freelivesports.png",
     "url": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/tv/w3u/FreeLiveSportsTV_tv.w3u",
@@ -278,8 +278,8 @@
                     "epgId": "6675bb6c1de4405de4d485a3"
                 },
                 {
-                    "name": "The Grappling Network",
-                    "image": "https://media.unreel.me/prod/sportsplus/logo/cbbb39a9-4b25-4073-b498-456f23454952",
+                    "name": "MVMT Culture",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/509ae695-37b3-4caa-a48c-9c5ad6741626",
                     "number": "219",
                     "url": "https://d15g7z5n3epv7t.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/TheGrapplingNetwork-SportsTribal/236.m3u8",
                     "epgId": "6675bb584629276717291b17"
