@@ -227,3 +227,6 @@ https://linear-887.frequency.stream/dist/freelivesports/887/hls/master/playlist.
 #EXTINF:-1 tvg-id="6675bde91de4405de4d48712" tvg-name="6675bde91de4405de4d48712" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/ff607bfd-e338-4aab-8df8-5e3b7b0e82b5" group-title="Lifestyle" tvg-chno="376", Popular Science
 https://amg13231-actve-amg13231c5-sportstribal-emea-1269.playouts.now.amagi.tv/playlist/amg13231-actvefast-powder-sportstribalemea/playlist.m3u8
 
+#EXTINF:-1 tvg-id="6746497202b68a9b5d23a744" tvg-name="6746497202b68a9b5d23a744" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/1cdca0c0-31ab-411c-b736-ceff255f1482" group-title="Lifestyle" tvg-chno="377", Commune
+https://a20175b009d34c77a248b4f695c8915f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_Commune/playlist.m3u8
+
