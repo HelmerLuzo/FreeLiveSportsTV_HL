@@ -200,33 +200,33 @@ https://linear-11.frequency.stream/dist/sportstribaltv/11/hls/master/playlist.m3
 #EXTINF:-1 tvg-id="6675b93433d0e31efc120124" tvg-name="6675b93433d0e31efc120124" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/c4708210-a3aa-41d8-b77d-456f3e52f7d2" group-title="Lifestyle" tvg-chno="362", Omstars TV
 https://amg00348-amg00348c2-sportstribal-emea-3159.playouts.now.amagi.tv/playlist/amg00348-dooyamediagroupinc-omstars-sportstribalemea/playlist.m3u8
 
-#EXTINF:-1 tvg-id="6675bad59db1ef77befe9837" tvg-name="6675bad59db1ef77befe9837" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/234a42b4-2768-4c10-99e8-454ef31031da" group-title="Lifestyle" tvg-chno="363", TRACE Sport Stars
+#EXTINF:-1 tvg-id="6746497202b68a9b5d23a744" tvg-name="6746497202b68a9b5d23a744" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/1cdca0c0-31ab-411c-b736-ceff255f1482" group-title="Lifestyle" tvg-chno="363", Commune
+https://a20175b009d34c77a248b4f695c8915f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_Commune/playlist.m3u8
+
+#EXTINF:-1 tvg-id="6675bad59db1ef77befe9837" tvg-name="6675bad59db1ef77befe9837" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/234a42b4-2768-4c10-99e8-454ef31031da" group-title="Lifestyle" tvg-chno="364", TRACE Sport Stars
 https://tracetv-tracesportstar-sportstribal.amagi.tv/hls/amagi_hls_data_tracetvAA-trace-sportstars-sportstribal/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="673b785252254eb082e18520" tvg-name="673b785252254eb082e18520" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/e7dac27b-cf23-472d-b190-4eecaa3b79d1" group-title="Lifestyle" tvg-chno="365", The Boat Show
+#EXTINF:-1 tvg-id="673b785252254eb082e18520" tvg-name="673b785252254eb082e18520" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/e7dac27b-cf23-472d-b190-4eecaa3b79d1" group-title="Lifestyle" tvg-chno="366", The Boat Show
 https://b74b2c1067794724b288f2e6996c2dad.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_TheBoatShow/playlist.m3u8
 
-#EXTINF:-1 tvg-id="6717da0636dc92fb49346e64" tvg-name="6717da0636dc92fb49346e64" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/b69331b3-e5c6-488c-abc7-a3add90b136b" group-title="Lifestyle" tvg-chno="366", Greatest Sports Legends & Laughs
+#EXTINF:-1 tvg-id="6717da0636dc92fb49346e64" tvg-name="6717da0636dc92fb49346e64" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/b69331b3-e5c6-488c-abc7-a3add90b136b" group-title="Lifestyle" tvg-chno="367", Greatest Sports Legends & Laughs
 https://3db084d1dd6f49ecbf809a40d8a446b2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_GreatestSportsLegendsandLaughs/playlist.m3u8
 
-#EXTINF:-1 tvg-id="6675bb1ce1827c8af5d7a67b" tvg-name="6675bb1ce1827c8af5d7a67b" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/affc3666-abe2-48ab-b7f2-7bbd4d5b7423" group-title="Lifestyle" tvg-chno="367", OZ TV
+#EXTINF:-1 tvg-id="6675bb1ce1827c8af5d7a67b" tvg-name="6675bb1ce1827c8af5d7a67b" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/affc3666-abe2-48ab-b7f2-7bbd4d5b7423" group-title="Lifestyle" tvg-chno="368", OZ TV
 https://amg13231-actve-amg13231c3-sportstribal-emea-1267.playouts.now.amagi.tv/playlist/amg13231-actvefast-snowboarder-sportstribalemea/playlist.m3u8
 
-#EXTINF:-1 tvg-id="6675ba64d6d7787f5ce97012" tvg-name="6675ba64d6d7787f5ce97012" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/fb8041e6-658e-4d66-bcb6-572c5073b0a6" group-title="Lifestyle" tvg-chno="368", Team Liquid
+#EXTINF:-1 tvg-id="6675ba64d6d7787f5ce97012" tvg-name="6675ba64d6d7787f5ce97012" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/fb8041e6-658e-4d66-bcb6-572c5073b0a6" group-title="Lifestyle" tvg-chno="369", Team Liquid
 https://amg13231-actve-amg13231c2-sportstribal-emea-1266.playouts.now.amagi.tv/playlist/amg13231-actvefast-skateboarding-sportstribalemea/playlist.m3u8
 
-#EXTINF:-1 tvg-id="672a67138e0fe64b11195701" tvg-name="672a67138e0fe64b11195701" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/bda4617f-7059-4e24-ab4b-befb6ef4aa50" group-title="Lifestyle" tvg-chno="370", Escape TV
+#EXTINF:-1 tvg-id="672a67138e0fe64b11195701" tvg-name="672a67138e0fe64b11195701" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/bda4617f-7059-4e24-ab4b-befb6ef4aa50" group-title="Lifestyle" tvg-chno="371", Escape TV
 https://amg00585-amg00585c13-sportstribal-emea-5522.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-escapetv-sportstribalemea/playlist.m3u8
 
-#EXTINF:-1 tvg-id="671993d69b42884100de0f89" tvg-name="671993d69b42884100de0f89" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/dde9f6ff-5277-4081-94ad-aeab88a46b7f" group-title="Lifestyle" tvg-chno="371", Chive TV
+#EXTINF:-1 tvg-id="671993d69b42884100de0f89" tvg-name="671993d69b42884100de0f89" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/dde9f6ff-5277-4081-94ad-aeab88a46b7f" group-title="Lifestyle" tvg-chno="372", Chive TV
 https://linear-941.frequency.stream/dist/freelivesports/941/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="670800411a95445e2203071e" tvg-name="670800411a95445e2203071e" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/2518434b-1ada-498a-9709-94c472b4b162" group-title="Lifestyle" tvg-chno="373", Documentary+
+#EXTINF:-1 tvg-id="670800411a95445e2203071e" tvg-name="670800411a95445e2203071e" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/2518434b-1ada-498a-9709-94c472b4b162" group-title="Lifestyle" tvg-chno="374", Documentary+
 https://linear-887.frequency.stream/dist/freelivesports/887/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="6675bde91de4405de4d48712" tvg-name="6675bde91de4405de4d48712" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/ff607bfd-e338-4aab-8df8-5e3b7b0e82b5" group-title="Lifestyle" tvg-chno="376", Popular Science
+#EXTINF:-1 tvg-id="6675bde91de4405de4d48712" tvg-name="6675bde91de4405de4d48712" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/ff607bfd-e338-4aab-8df8-5e3b7b0e82b5" group-title="Lifestyle" tvg-chno="377", Popular Science
 https://amg13231-actve-amg13231c5-sportstribal-emea-1269.playouts.now.amagi.tv/playlist/amg13231-actvefast-powder-sportstribalemea/playlist.m3u8
-
-#EXTINF:-1 tvg-id="6746497202b68a9b5d23a744" tvg-name="6746497202b68a9b5d23a744" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/1cdca0c0-31ab-411c-b736-ceff255f1482" group-title="Lifestyle" tvg-chno="377", Commune
-https://a20175b009d34c77a248b4f695c8915f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_Commune/playlist.m3u8
 
