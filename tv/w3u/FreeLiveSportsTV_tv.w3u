@@ -1,6 +1,6 @@
 {
     "name": "FreeLiveSportsTV by HL",
-    "author": "Actualizada 18/12/2024 00:17",
+    "author": "Actualizada 18/12/2024 12:17",
     "epg": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/epg/FreeLiveSportsTV.xml.gz",
     "image": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/freelivesports.png",
     "url": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/tv/w3u/FreeLiveSportsTV_tv.w3u",
@@ -331,6 +331,13 @@
                     "number": "242",
                     "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01866-mainstreammedia-freesportsinc-sportstribal/playlist.m3u8",
                     "epgId": "6675bbd47620a64769e3aaa7"
+                },
+                {
+                    "name": "Teton Gravity Research TV",
+                    "image": "https://media.unreel.me/prod/sportsplus/logo/20db3e4a-3ce4-4394-9e16-cc7a76076e6c",
+                    "number": "303",
+                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00585-sportstribaltv-tgrtetongravi-sportstribal/playlist.m3u8",
+                    "epgId": "6675bf48a2823e9a829edad2"
                 }
             ]
         },
@@ -433,13 +440,6 @@
                     "number": "302",
                     "url": "https://d1j5f4s4o1u3r4.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/ExtremePlus-Dooya-SportsTribal/276.m3u8",
                     "epgId": "6675bd8b7f512eb266c46d5a"
-                },
-                {
-                    "name": "Teton Gravity Research TV",
-                    "image": "https://media.unreel.me/prod/sportsplus/logo/20db3e4a-3ce4-4394-9e16-cc7a76076e6c",
-                    "number": "303",
-                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00585-sportstribaltv-tgrtetongravi-sportstribal/playlist.m3u8",
-                    "epgId": "6675bf48a2823e9a829edad2"
                 },
                 {
                     "name": "Adventure Sports TV",
