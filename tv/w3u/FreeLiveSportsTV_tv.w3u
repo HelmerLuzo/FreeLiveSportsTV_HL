@@ -1,6 +1,6 @@
 {
     "name": "FreeLiveSportsTV by HL",
-    "author": "Actualizada 18/12/2024 12:17",
+    "author": "Actualizada 19/12/2024 00:17",
     "epg": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/epg/FreeLiveSportsTV.xml.gz",
     "image": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/freelivesports.png",
     "url": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/tv/w3u/FreeLiveSportsTV_tv.w3u",
@@ -335,7 +335,7 @@
                 {
                     "name": "Teton Gravity Research TV",
                     "image": "https://media.unreel.me/prod/sportsplus/logo/20db3e4a-3ce4-4394-9e16-cc7a76076e6c",
-                    "number": "303",
+                    "number": "246",
                     "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00585-sportstribaltv-tgrtetongravi-sportstribal/playlist.m3u8",
                     "epgId": "6675bf48a2823e9a829edad2"
                 }
@@ -565,72 +565,79 @@
                     "epgId": "6675b93433d0e31efc120124"
                 },
                 {
+                    "name": "MORE U",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/3b481cab-640c-404a-b09a-fd13887d1267",
+                    "number": "363",
+                    "url": "https://114933112aa649148b22f46d7798c6ce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_MoreU/playlist.m3u8",
+                    "epgId": "6761eb6e560259210963313e"
+                },
+                {
                     "name": "Commune",
                     "image": "https://media.unreel.me/prod/freelivesports/logo/1cdca0c0-31ab-411c-b736-ceff255f1482",
-                    "number": "363",
+                    "number": "364",
                     "url": "https://a20175b009d34c77a248b4f695c8915f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_Commune/playlist.m3u8",
                     "epgId": "6746497202b68a9b5d23a744"
                 },
                 {
                     "name": "TRACE Sport Stars",
                     "image": "https://media.unreel.me/prod/sportsplus/logo/234a42b4-2768-4c10-99e8-454ef31031da",
-                    "number": "364",
+                    "number": "365",
                     "url": "https://tracetv-tracesportstar-sportstribal.amagi.tv/hls/amagi_hls_data_tracetvAA-trace-sportstars-sportstribal/CDN/playlist.m3u8",
                     "epgId": "6675bad59db1ef77befe9837"
                 },
                 {
                     "name": "The Boat Show",
                     "image": "https://media.unreel.me/prod/freelivesports/logo/e7dac27b-cf23-472d-b190-4eecaa3b79d1",
-                    "number": "366",
+                    "number": "367",
                     "url": "https://b74b2c1067794724b288f2e6996c2dad.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_TheBoatShow/playlist.m3u8",
                     "epgId": "673b785252254eb082e18520"
                 },
                 {
                     "name": "Greatest Sports Legends & Laughs",
                     "image": "https://media.unreel.me/prod/freelivesports/logo/b69331b3-e5c6-488c-abc7-a3add90b136b",
-                    "number": "367",
+                    "number": "368",
                     "url": "https://3db084d1dd6f49ecbf809a40d8a446b2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_GreatestSportsLegendsandLaughs/playlist.m3u8",
                     "epgId": "6717da0636dc92fb49346e64"
                 },
                 {
                     "name": "OZ TV",
                     "image": "https://media.unreel.me/prod/freelivesports/logo/affc3666-abe2-48ab-b7f2-7bbd4d5b7423",
-                    "number": "368",
+                    "number": "369",
                     "url": "https://amg13231-actve-amg13231c3-sportstribal-emea-1267.playouts.now.amagi.tv/playlist/amg13231-actvefast-snowboarder-sportstribalemea/playlist.m3u8",
                     "epgId": "6675bb1ce1827c8af5d7a67b"
                 },
                 {
                     "name": "Team Liquid",
                     "image": "https://media.unreel.me/prod/freelivesports/logo/fb8041e6-658e-4d66-bcb6-572c5073b0a6",
-                    "number": "369",
+                    "number": "371",
                     "url": "https://amg13231-actve-amg13231c2-sportstribal-emea-1266.playouts.now.amagi.tv/playlist/amg13231-actvefast-skateboarding-sportstribalemea/playlist.m3u8",
                     "epgId": "6675ba64d6d7787f5ce97012"
                 },
                 {
                     "name": "Escape TV",
                     "image": "https://media.unreel.me/prod/freelivesports/logo/bda4617f-7059-4e24-ab4b-befb6ef4aa50",
-                    "number": "371",
+                    "number": "372",
                     "url": "https://amg00585-amg00585c13-sportstribal-emea-5522.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-escapetv-sportstribalemea/playlist.m3u8",
                     "epgId": "672a67138e0fe64b11195701"
                 },
                 {
                     "name": "Chive TV",
                     "image": "https://media.unreel.me/prod/freelivesports/logo/dde9f6ff-5277-4081-94ad-aeab88a46b7f",
-                    "number": "372",
+                    "number": "373",
                     "url": "https://905e04af149043eeb2a5b7b38b663e0b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-941-CHIVETV-FREELIVESPORTS/mt/freelivesports/941/hls/master/playlist.m3u8",
                     "epgId": "671993d69b42884100de0f89"
                 },
                 {
                     "name": "Documentary+",
                     "image": "https://media.unreel.me/prod/freelivesports/logo/2518434b-1ada-498a-9709-94c472b4b162",
-                    "number": "374",
+                    "number": "375",
                     "url": "https://a38d899367d24b1197db60dedfa80262.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-FREELIVESPORTS/mt/freelivesports/887/hls/master/playlist.m3u8",
                     "epgId": "670800411a95445e2203071e"
                 },
                 {
                     "name": "Popular Science",
                     "image": "https://media.unreel.me/prod/freelivesports/logo/ff607bfd-e338-4aab-8df8-5e3b7b0e82b5",
-                    "number": "377",
+                    "number": "378",
                     "url": "https://amg13231-actve-amg13231c5-sportstribal-emea-1269.playouts.now.amagi.tv/playlist/amg13231-actvefast-powder-sportstribalemea/playlist.m3u8",
                     "epgId": "6675bde91de4405de4d48712"
                 }
