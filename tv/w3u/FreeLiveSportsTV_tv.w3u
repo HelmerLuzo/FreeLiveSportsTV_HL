@@ -1,6 +1,6 @@
 {
     "name": "FreeLiveSportsTV by HL",
-    "author": "Actualizada 02/01/2025 12:17",
+    "author": "Actualizada 03/01/2025 00:17",
     "epg": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/epg/FreeLiveSportsTV.xml.gz",
     "image": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/freelivesports.png",
     "url": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/tv/w3u/FreeLiveSportsTV_tv.w3u",
@@ -153,13 +153,6 @@
                     "number": "151",
                     "url": "https://b01bd331ff0249b5a62e52ff0cd4104a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-627-COURT-SPORTS-NETWORK-SPORTSTRIBALTV/mt/sportstribaltv/627/hls/master/playlist.m3u8",
                     "epgId": "6675bc9450bec7ad1dd144e8"
-                },
-                {
-                    "name": "Padel Time TV",
-                    "image": "https://media.unreel.me/prod/sportsplus/logo/b816746d-ea8f-4472-94a3-252c7b607d5a",
-                    "number": "152",
-                    "url": "https://amg02712-fasttv-amg02712c1-sportstribal-emea-2381.playouts.now.amagi.tv/playlist/amg02712-fasttvchannel-padeltimetv-sportstribalemea/playlist.m3u8",
-                    "epgId": "6675bfc47620a64769e3ad08"
                 }
             ]
         },
