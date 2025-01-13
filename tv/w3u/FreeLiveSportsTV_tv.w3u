@@ -1,6 +1,6 @@
 {
     "name": "FreeLiveSportsTV by HL",
-    "author": "Actualizada 13/01/2025 12:17",
+    "author": "Actualizada 14/01/2025 00:17",
     "epg": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/epg/FreeLiveSportsTV.xml.gz",
     "image": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/freelivesports.png",
     "url": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/tv/w3u/FreeLiveSportsTV_tv.w3u",
@@ -153,6 +153,13 @@
                     "number": "151",
                     "url": "https://b01bd331ff0249b5a62e52ff0cd4104a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-627-COURT-SPORTS-NETWORK-SPORTSTRIBALTV/mt/sportstribaltv/627/hls/master/playlist.m3u8",
                     "epgId": "6675bc9450bec7ad1dd144e8"
+                },
+                {
+                    "name": "Pickle TV",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/b8b90cc1-f20c-4c73-a2a8-07403d0d7bf9",
+                    "number": "152",
+                    "url": "https://fce26776.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X1BpY2tsZVRWX0hMUw/playlist.m3u8",
+                    "epgId": "6761ec319b691191bc706e39"
                 }
             ]
         },
@@ -342,7 +349,7 @@
                     "name": "Perfect Game TV",
                     "image": "https://media.unreel.me/prod/sportsplus/logo/9f28b472-3256-49bc-b27e-32638ceff5ce",
                     "number": "263",
-                    "url": "https://92c86304984e4d4696e9840cf8a46537.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/SportsTribal-eu_PerfectGameTV/playlist.m3u8",
+                    "url": "https://6ebc93db.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X1BlcmZlY3RHYW1lVFZfSExT/playlist.m3u8",
                     "epgId": "6675b8bb2916d97ce3c66c0f"
                 },
                 {
@@ -568,7 +575,7 @@
                     "name": "Commune",
                     "image": "https://media.unreel.me/prod/freelivesports/logo/1cdca0c0-31ab-411c-b736-ceff255f1482",
                     "number": "364",
-                    "url": "https://a20175b009d34c77a248b4f695c8915f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_Commune/playlist.m3u8",
+                    "url": "https://44aeb69a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X0NvbW11bmVfSExT/playlist.m3u8",
                     "epgId": "6746497202b68a9b5d23a744"
                 },
                 {
