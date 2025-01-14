@@ -1,6 +1,6 @@
 {
     "name": "FreeLiveSportsTV by HL",
-    "author": "Actualizada 14/01/2025 00:17",
+    "author": "Actualizada 14/01/2025 12:17",
     "epg": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/epg/FreeLiveSportsTV.xml.gz",
     "image": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/freelivesports.png",
     "url": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/tv/w3u/FreeLiveSportsTV_tv.w3u",
@@ -314,28 +314,28 @@
                 {
                     "name": "Surfer",
                     "image": "https://media.unreel.me/prod/sportsplus/logo/86347516-2719-4b39-b62b-128eb95d2cd6",
-                    "number": "240",
+                    "number": "241",
                     "url": "https://amg13231-actve-amg13231c4-sportstribal-emea-1268.playouts.now.amagi.tv/playlist/amg13231-actvefast-surfer-sportstribalemea/playlist.m3u8",
                     "epgId": "66631a6b68357e70058f62ca"
                 },
                 {
                     "name": "FUEL TV",
                     "image": "https://media.unreel.me/prod/sportsplus/logo/a88c79a7-4f11-451e-a62b-f295efb375f4",
-                    "number": "241",
+                    "number": "242",
                     "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvemeaen-sportstribal/playlist.m3u8",
                     "epgId": "6675ba23a139017a32428faa"
                 },
                 {
                     "name": "World of Freesports",
                     "image": "https://media.unreel.me/prod/sportsplus/logo/ef4c576d-49fb-4997-afe1-55f0b11d7982",
-                    "number": "242",
+                    "number": "243",
                     "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01866-mainstreammedia-freesportsinc-sportstribal/playlist.m3u8",
                     "epgId": "6675bbd47620a64769e3aaa7"
                 },
                 {
                     "name": "Teton Gravity Research TV",
                     "image": "https://media.unreel.me/prod/sportsplus/logo/20db3e4a-3ce4-4394-9e16-cc7a76076e6c",
-                    "number": "246",
+                    "number": "244",
                     "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00585-sportstribaltv-tgrtetongravi-sportstribal/playlist.m3u8",
                     "epgId": "6675bf48a2823e9a829edad2"
                 }
