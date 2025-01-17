@@ -1,6 +1,6 @@
 {
     "name": "FreeLiveSportsTV by HL",
-    "author": "Actualizada 17/01/2025 12:17",
+    "author": "Actualizada 18/01/2025 00:17",
     "epg": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/epg/FreeLiveSportsTV.xml.gz",
     "image": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/freelivesports.png",
     "url": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/tv/w3u/FreeLiveSportsTV_tv.w3u",
@@ -235,6 +235,13 @@
             "name": "Combat Sports",
             "image": "",
             "stations": [
+                {
+                    "name": "UK Wrestling: LIVE - SAT 18 JAN",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/b1b8fc52-7c8d-4010-b84d-671211fe868d",
+                    "number": "200",
+                    "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/41371f6a-3105-4172-acff-ea9e3879175c/index.m3u8",
+                    "epgId": "6789669c4e3c82d765843499"
+                },
                 {
                     "name": "PFL",
                     "image": "https://media.unreel.me/prod/sportsplus/logo/2c4caee9-e20d-4a88-adea-6dc9c3c78c41",
