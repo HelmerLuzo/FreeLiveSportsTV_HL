@@ -125,6 +125,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01866-mainstreammedia-freesportsinc
 #EXTINF:-1 tvg-id="6675bf48a2823e9a829edad2" tvg-name="6675bf48a2823e9a829edad2" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/20db3e4a-3ce4-4394-9e16-cc7a76076e6c" group-title="Action Sports" tvg-chno="244", Teton Gravity Research TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00585-sportstribaltv-tgrtetongravi-sportstribal/playlist.m3u8
 
+#EXTINF:-1 tvg-id="678e91e01015d600b3917403" tvg-name="678e91e01015d600b3917403" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/76402909-4b3f-4657-808a-5774882a9c1c" group-title="Action Sports" tvg-chno="248", Adventure Zone Sports Network
+https://ott-studio.telos.indicue.com/stream.m3u8
+
 #EXTINF:-1 tvg-id="6675b8bb2916d97ce3c66c0f" tvg-name="6675b8bb2916d97ce3c66c0f" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/9f28b472-3256-49bc-b27e-32638ceff5ce" group-title="Team Sports" tvg-chno="263", Perfect Game TV
 https://6ebc93db.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X1BlcmZlY3RHYW1lVFZfSExT/playlist.m3u8
 
