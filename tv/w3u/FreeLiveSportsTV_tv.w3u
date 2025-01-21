@@ -1,6 +1,6 @@
 {
     "name": "FreeLiveSportsTV by HL",
-    "author": "Actualizada 21/01/2025 12:17",
+    "author": "Actualizada 22/01/2025 00:17",
     "epg": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/epg/FreeLiveSportsTV.xml.gz",
     "image": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/freelivesports.png",
     "url": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/tv/w3u/FreeLiveSportsTV_tv.w3u",
@@ -338,13 +338,6 @@
                     "number": "244",
                     "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00585-sportstribaltv-tgrtetongravi-sportstribal/playlist.m3u8",
                     "epgId": "6675bf48a2823e9a829edad2"
-                },
-                {
-                    "name": "Adventure Zone Sports Network",
-                    "image": "https://media.unreel.me/prod/freelivesports/logo/76402909-4b3f-4657-808a-5774882a9c1c",
-                    "number": "248",
-                    "url": "https://ott-studio.telos.indicue.com/stream.m3u8",
-                    "epgId": "678e91e01015d600b3917403"
                 }
             ]
         },
