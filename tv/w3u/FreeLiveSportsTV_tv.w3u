@@ -1,6 +1,6 @@
 {
     "name": "FreeLiveSportsTV by HL",
-    "author": "Actualizada 05/02/2025 00:17",
+    "author": "Actualizada 05/02/2025 12:17",
     "epg": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/epg/FreeLiveSportsTV.xml.gz",
     "image": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/freelivesports.png",
     "url": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/tv/w3u/FreeLiveSportsTV_tv.w3u",
@@ -359,6 +359,13 @@
             "name": "Extreme",
             "image": "",
             "stations": [
+                {
+                    "name": "World Chase Tag",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/f085410c-b942-4fa8-b794-58d6d61b1ed7",
+                    "number": "300",
+                    "url": "https://ott-studio.telos.indicue.com/stream.m3u8",
+                    "epgId": "6791791920266258e85e39a1"
+                },
                 {
                     "name": "Strongman Champions League",
                     "image": "https://media.unreel.me/prod/sportsplus/logo/3cf9a158-a2c6-449b-8c16-cb61daa5ea2e",
