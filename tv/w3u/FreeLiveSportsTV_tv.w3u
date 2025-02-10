@@ -1,6 +1,6 @@
 {
     "name": "FreeLiveSportsTV by HL",
-    "author": "Actualizada 10/02/2025 12:17",
+    "author": "Actualizada 11/02/2025 00:17",
     "epg": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/epg/FreeLiveSportsTV.xml.gz",
     "image": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/freelivesports.png",
     "url": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/tv/w3u/FreeLiveSportsTV_tv.w3u",
@@ -92,18 +92,18 @@
             "image": "",
             "stations": [
                 {
-                    "name": "MTRSPT1",
-                    "image": "https://media.unreel.me/prod/sportsplus/logo/c8a648c2-8962-4965-a4e7-603dc5df3add",
-                    "number": "1",
-                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-sportstribal/playlist.m3u8",
-                    "epgId": "6675bc0089524b38dbf58292"
-                },
-                {
                     "name": "MAVTV International",
                     "image": "https://media.unreel.me/prod/freelivesports/logo/cce59742-3aa6-4bc6-8280-910f0e32713f",
                     "number": "120",
                     "url": "https://amg00378-mavtv-amg00378c3-sportstribal-emea-1325.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetworkint-sportstribalemea/playlist.m3u8",
                     "epgId": "6675bbb3a139017a3242909e"
+                },
+                {
+                    "name": "MTRSPT1",
+                    "image": "https://media.unreel.me/prod/sportsplus/logo/c8a648c2-8962-4965-a4e7-603dc5df3add",
+                    "number": "121",
+                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-sportstribal/playlist.m3u8",
+                    "epgId": "6675bc0089524b38dbf58292"
                 },
                 {
                     "name": "Motorsport.tv",
@@ -175,18 +175,18 @@
             "image": "",
             "stations": [
                 {
+                    "name": "TNA Wrestling Channel",
+                    "image": "https://media.unreel.me/prod/sportsplus/logo/67c2dd14-d8c7-47fa-99e5-452f2715e404",
+                    "number": "6",
+                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00585-sportstribaltv-impactwrestling-sportstribal/playlist.m3u8",
+                    "epgId": "6675bb562916d97ce3c66d67"
+                },
+                {
                     "name": "PFL",
                     "image": "https://media.unreel.me/prod/sportsplus/logo/2c4caee9-e20d-4a88-adea-6dc9c3c78c41",
                     "number": "8",
                     "url": "https://d856dff4.wurl.com/U3BvcnRzVHJpYmFsLWdiX1BGTE1NQV9ITFM/playlist.m3u8",
                     "epgId": "66631956055826f5809baa95"
-                },
-                {
-                    "name": "TNA Wrestling Channel",
-                    "image": "https://media.unreel.me/prod/sportsplus/logo/67c2dd14-d8c7-47fa-99e5-452f2715e404",
-                    "number": "211",
-                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00585-sportstribaltv-impactwrestling-sportstribal/playlist.m3u8",
-                    "epgId": "6675bb562916d97ce3c66d67"
                 },
                 {
                     "name": "GLORY Kickboxing",
