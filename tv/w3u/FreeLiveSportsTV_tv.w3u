@@ -1,6 +1,6 @@
 {
     "name": "FreeLiveSportsTV by HL",
-    "author": "Actualizada 12/02/2025 12:17",
+    "author": "Actualizada 13/02/2025 00:17",
     "epg": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/epg/FreeLiveSportsTV.xml.gz",
     "image": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/freelivesports.png",
     "url": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/tv/w3u/FreeLiveSportsTV_tv.w3u",
@@ -243,6 +243,13 @@
                     "number": "220",
                     "url": "https://amg00348-amg00348c1-sportstribal-emea-4192.playouts.now.amagi.tv/playlist/amg00348-dooyamediagroupinc-fite24x7-sportstribalemea/playlist.m3u8",
                     "epgId": "6675bfec4c09eba5ff39e479"
+                },
+                {
+                    "name": "MMA TV",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/ec57e316-04a4-457f-9da3-d3eedbaea319",
+                    "number": "221",
+                    "url": "https://streams2.sofast.tv/ptnr-sportstrible/title-MMA_Sportstrible/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/f6b049e4-885e-4551-85ac-8eef0b33d3a2/playlist.m3u8",
+                    "epgId": "67acd478af7d4a4aef9c3354"
                 },
                 {
                     "name": "Inside Arm Wrestling",
