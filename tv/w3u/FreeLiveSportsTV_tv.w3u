@@ -1,6 +1,6 @@
 {
     "name": "FreeLiveSportsTV by HL",
-    "author": "Actualizada 13/02/2025 12:17",
+    "author": "Actualizada 14/02/2025 00:17",
     "epg": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/epg/FreeLiveSportsTV.xml.gz",
     "image": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/freelivesports.png",
     "url": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/tv/w3u/FreeLiveSportsTV_tv.w3u",
@@ -379,6 +379,13 @@
                     "number": "7",
                     "url": "https://ott-studio.telos.indicue.com/stream.m3u8",
                     "epgId": "6791791920266258e85e39a1"
+                },
+                {
+                    "name": "GoPro",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/e6199791-2fe2-4290-8518-62d245a1476f",
+                    "number": "300",
+                    "url": "https://3a1b4d927c02473b806350cc162d271f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-891-GOPRO-FREELIVESPORTS/mt/freelivesports/891/hls/master/playlist.m3u8",
+                    "epgId": "67ad38735451dfa36d3d3d1a"
                 },
                 {
                     "name": "Strongman Champions League",
