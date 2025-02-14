@@ -1,6 +1,6 @@
 {
     "name": "FreeLiveSportsTV by HL",
-    "author": "Actualizada 14/02/2025 12:17",
+    "author": "Actualizada 15/02/2025 00:17",
     "epg": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/epg/FreeLiveSportsTV.xml.gz",
     "image": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/freelivesports.png",
     "url": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/tv/w3u/FreeLiveSportsTV_tv.w3u",
@@ -184,7 +184,7 @@
                 {
                     "name": "PFL",
                     "image": "https://media.unreel.me/prod/sportsplus/logo/2c4caee9-e20d-4a88-adea-6dc9c3c78c41",
-                    "number": "8",
+                    "number": "9",
                     "url": "https://d856dff4.wurl.com/U3BvcnRzVHJpYmFsLWdiX1BGTE1NQV9ITFM/playlist.m3u8",
                     "epgId": "66631956055826f5809baa95"
                 },
@@ -267,7 +267,7 @@
                 {
                     "name": "Moonball Sports TV",
                     "image": "https://media.unreel.me/prod/freelivesports/logo/2d1a84ea-05f7-420b-b6d0-1cd169d657da",
-                    "number": "10",
+                    "number": "11",
                     "url": "https://amg18572-amg18572c1-freelivesports-emea-5549.playouts.now.amagi.tv/playlist/amg18572-moonballtv-moonballsportstv-freelivesportsemea/playlist.m3u8",
                     "epgId": "672a6a6a8e0fe64b11198015"
                 },
@@ -374,18 +374,18 @@
             "image": "",
             "stations": [
                 {
-                    "name": "World Chase Tag",
-                    "image": "https://media.unreel.me/prod/freelivesports/logo/f085410c-b942-4fa8-b794-58d6d61b1ed7",
-                    "number": "7",
-                    "url": "https://ott-studio.telos.indicue.com/stream.m3u8",
-                    "epgId": "6791791920266258e85e39a1"
-                },
-                {
                     "name": "GoPro",
                     "image": "https://media.unreel.me/prod/freelivesports/logo/e6199791-2fe2-4290-8518-62d245a1476f",
-                    "number": "300",
+                    "number": "7",
                     "url": "https://3a1b4d927c02473b806350cc162d271f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-891-GOPRO-FREELIVESPORTS/mt/freelivesports/891/hls/master/playlist.m3u8",
                     "epgId": "67ad38735451dfa36d3d3d1a"
+                },
+                {
+                    "name": "World Chase Tag",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/f085410c-b942-4fa8-b794-58d6d61b1ed7",
+                    "number": "8",
+                    "url": "https://ott-studio.telos.indicue.com/stream.m3u8",
+                    "epgId": "6791791920266258e85e39a1"
                 },
                 {
                     "name": "Strongman Champions League",
