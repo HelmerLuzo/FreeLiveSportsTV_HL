@@ -1,10 +1,15 @@
 {
     "name": "FreeLiveSportsTV by HL",
-    "author": "Actualizada 15/02/2025 12:17",
+    "author": "Actualizada 16/02/2025 00:17",
     "epg": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/epg/FreeLiveSportsTV.xml.gz",
     "image": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/freelivesports.png",
     "url": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/tv/w3u/FreeLiveSportsTV_tv.w3u",
     "groups": [
+        {
+            "name": "Featured",
+            "image": "",
+            "stations": []
+        },
         {
             "name": "College",
             "image": "",
@@ -568,40 +573,6 @@
             ]
         },
         {
-            "name": "Wellness",
-            "image": "",
-            "stations": [
-                {
-                    "name": "Omstars TV",
-                    "image": "https://media.unreel.me/prod/sportsplus/logo/c4708210-a3aa-41d8-b77d-456f3e52f7d2",
-                    "number": "362",
-                    "url": "https://amg00348-amg00348c2-sportstribal-emea-3159.playouts.now.amagi.tv/playlist/amg00348-dooyamediagroupinc-omstars-sportstribalemea/playlist.m3u8",
-                    "epgId": "6675b93433d0e31efc120124"
-                },
-                {
-                    "name": "MORE U",
-                    "image": "https://media.unreel.me/prod/freelivesports/logo/3b481cab-640c-404a-b09a-fd13887d1267",
-                    "number": "363",
-                    "url": "https://114933112aa649148b22f46d7798c6ce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_MoreU/playlist.m3u8",
-                    "epgId": "6761eb6e560259210963313e"
-                },
-                {
-                    "name": "Commune",
-                    "image": "https://media.unreel.me/prod/freelivesports/logo/1cdca0c0-31ab-411c-b736-ceff255f1482",
-                    "number": "364",
-                    "url": "https://44aeb69a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X0NvbW11bmVfSExT/playlist.m3u8",
-                    "epgId": "6746497202b68a9b5d23a744"
-                },
-                {
-                    "name": "OZ TV",
-                    "image": "https://media.unreel.me/prod/freelivesports/logo/affc3666-abe2-48ab-b7f2-7bbd4d5b7423",
-                    "number": "369",
-                    "url": "https://amg13231-actve-amg13231c3-sportstribal-emea-1267.playouts.now.amagi.tv/playlist/amg13231-actvefast-snowboarder-sportstribalemea/playlist.m3u8",
-                    "epgId": "6675bb1ce1827c8af5d7a67b"
-                }
-            ]
-        },
-        {
             "name": "Lifestyle",
             "image": "",
             "stations": [
@@ -674,6 +645,40 @@
                     "number": "378",
                     "url": "https://amg13231-actve-amg13231c5-sportstribal-emea-1269.playouts.now.amagi.tv/playlist/amg13231-actvefast-powder-sportstribalemea/playlist.m3u8",
                     "epgId": "6675bde91de4405de4d48712"
+                }
+            ]
+        },
+        {
+            "name": "Wellness",
+            "image": "",
+            "stations": [
+                {
+                    "name": "Omstars TV",
+                    "image": "https://media.unreel.me/prod/sportsplus/logo/c4708210-a3aa-41d8-b77d-456f3e52f7d2",
+                    "number": "362",
+                    "url": "https://amg00348-amg00348c2-sportstribal-emea-3159.playouts.now.amagi.tv/playlist/amg00348-dooyamediagroupinc-omstars-sportstribalemea/playlist.m3u8",
+                    "epgId": "6675b93433d0e31efc120124"
+                },
+                {
+                    "name": "MORE U",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/3b481cab-640c-404a-b09a-fd13887d1267",
+                    "number": "363",
+                    "url": "https://114933112aa649148b22f46d7798c6ce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_MoreU/playlist.m3u8",
+                    "epgId": "6761eb6e560259210963313e"
+                },
+                {
+                    "name": "Commune",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/1cdca0c0-31ab-411c-b736-ceff255f1482",
+                    "number": "364",
+                    "url": "https://44aeb69a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X0NvbW11bmVfSExT/playlist.m3u8",
+                    "epgId": "6746497202b68a9b5d23a744"
+                },
+                {
+                    "name": "OZ TV",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/affc3666-abe2-48ab-b7f2-7bbd4d5b7423",
+                    "number": "369",
+                    "url": "https://amg13231-actve-amg13231c3-sportstribal-emea-1267.playouts.now.amagi.tv/playlist/amg13231-actvefast-snowboarder-sportstribalemea/playlist.m3u8",
+                    "epgId": "6675bb1ce1827c8af5d7a67b"
                 }
             ]
         }
