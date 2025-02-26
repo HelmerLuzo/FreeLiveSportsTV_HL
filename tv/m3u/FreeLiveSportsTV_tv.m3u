@@ -251,3 +251,12 @@ https://a38d899367d24b1197db60dedfa80262.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="6675bde91de4405de4d48712" tvg-name="6675bde91de4405de4d48712" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/ff607bfd-e338-4aab-8df8-5e3b7b0e82b5" group-title="Lifestyle" tvg-chno="378", Popular Science
 https://amg13231-actve-amg13231c5-sportstribal-emea-1269.playouts.now.amagi.tv/playlist/amg13231-actvefast-powder-sportstribalemea/playlist.m3u8
 
+#EXTINF:-1 tvg-id="67b79781eab92d6624ee0a33" tvg-name="67b79781eab92d6624ee0a33" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/1bd6aed2-80a3-4a73-8b69-d6f8458701ca" group-title="Team Sports" tvg-chno="1101", European Football League
+https://elf-stream-2.makalu.live/elf-2/elf-uk-hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="67b7c8b1f4706c72766e6e70" tvg-name="67b7c8b1f4706c72766e6e70" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/fea24832-2fe8-4e4f-bd71-67ad678b94ef" group-title="News" tvg-chno="1103", AYM Sports
+https://api-ott.aymsports.com.mx/loggingmediaurlpassthrough/a.m3u8
+
+#EXTINF:-1 tvg-id="67b7c9a0d9391b69ebb03e1a" tvg-name="67b7c9a0d9391b69ebb03e1a" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/4e9f2337-0fc3-46a0-8010-cd6330ca1f0b" group-title="Extreme" tvg-chno="1104", Teton Ridge TV
+https://amg17292-amg17292c1-freelivesports-emea-6961.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-freelivesportsemea/playlist.m3u8
+
