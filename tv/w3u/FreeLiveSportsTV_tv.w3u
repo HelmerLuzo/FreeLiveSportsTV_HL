@@ -1,6 +1,6 @@
 {
     "name": "FreeLiveSportsTV by HL",
-    "author": "Actualizada 03/03/2025 12:17",
+    "author": "Actualizada 04/03/2025 00:17",
     "epg": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/epg/FreeLiveSportsTV.xml.gz",
     "image": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/freelivesports.png",
     "url": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/tv/w3u/FreeLiveSportsTV_tv.w3u",
@@ -99,6 +99,13 @@
             "image": "",
             "stations": [
                 {
+                    "name": "Nitro Circus TV",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/a1df54a3-e23a-4b0c-bf5e-158e7c02609e",
+                    "number": "3",
+                    "url": "https://amg13231-actve-amg13231c1-sportstribal-emea-1265.playouts.now.amagi.tv/playlist/amg13231-actvefast-bike-sportstribalemea/playlist.m3u8",
+                    "epgId": "6675b898581c77d305af1545"
+                },
+                {
                     "name": "MAVTV International",
                     "image": "https://media.unreel.me/prod/freelivesports/logo/cce59742-3aa6-4bc6-8280-910f0e32713f",
                     "number": "120",
@@ -121,7 +128,7 @@
                 },
                 {
                     "name": "SPEEDVISION",
-                    "image": "https://media.unreel.me/prod/freelivesports/logo/8fd77757-f8e9-4a40-a2fd-99ee566c2805",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/08d6a1c5-fafe-44a3-8cf0-41e4963f3005",
                     "number": "123",
                     "url": "https://2b5e9aec.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X1NwZWVkdmlzaW9uX0hMUw/playlist.m3u8",
                     "epgId": "675c767406563ac6560ae104"
@@ -167,13 +174,6 @@
                     "number": "130",
                     "url": "https://api-ott.motorvision.tv/loggingmediaurlpassthrough/a.m3u8",
                     "epgId": "6675bed4a2823e9a829eda97"
-                },
-                {
-                    "name": "Nitro Circus TV",
-                    "image": "https://media.unreel.me/prod/freelivesports/logo/a1df54a3-e23a-4b0c-bf5e-158e7c02609e",
-                    "number": "131",
-                    "url": "https://amg13231-actve-amg13231c1-sportstribal-emea-1265.playouts.now.amagi.tv/playlist/amg13231-actvefast-bike-sportstribalemea/playlist.m3u8",
-                    "epgId": "6675b898581c77d305af1545"
                 }
             ]
         },
@@ -239,7 +239,7 @@
                 },
                 {
                     "name": "MVMT Culture",
-                    "image": "https://media.unreel.me/prod/freelivesports/logo/509ae695-37b3-4caa-a48c-9c5ad6741626",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/91fa9dad-618e-4400-893d-35dfc0e34843",
                     "number": "219",
                     "url": "https://d15g7z5n3epv7t.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/TheGrapplingNetwork-SportsTribal/236.m3u8",
                     "epgId": "6675bb584629276717291b17"
@@ -260,7 +260,7 @@
                 },
                 {
                     "name": "Inside Arm Wrestling",
-                    "image": "https://media.unreel.me/prod/freelivesports/logo/caca0bef-f520-4fa1-8244-0aee0558ecb8",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/41f4b10d-95da-4a41-944f-bd540d9a6137",
                     "number": "224",
                     "url": "https://ott-studio.telos.indicue.com/stream.m3u8",
                     "epgId": "6791796ab9c17f9469346be6"
@@ -335,7 +335,7 @@
                 },
                 {
                     "name": "Pickle TV",
-                    "image": "https://media.unreel.me/prod/freelivesports/logo/b8b90cc1-f20c-4c73-a2a8-07403d0d7bf9",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/5d95b93e-e05d-4bd7-86b9-b79d0c41bd5f",
                     "number": "152",
                     "url": "https://fce26776.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X1BpY2tsZVRWX0hMUw/playlist.m3u8",
                     "epgId": "6761ec319b691191bc706e39"
@@ -376,7 +376,7 @@
                 },
                 {
                     "name": "Adventure Zone Sports Network",
-                    "image": "https://media.unreel.me/prod/freelivesports/logo/8f5c1fc4-0953-428e-851e-a630a8ae42c1",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/ff01971a-cd73-44df-a2fb-d6b654e0fe87",
                     "number": "248",
                     "url": "https://ott-studio.telos.indicue.com/stream.m3u8",
                     "epgId": "6793f38b28cc86e5b548fd1c"
@@ -390,7 +390,7 @@
                 {
                     "name": "Teton Ridge TV",
                     "image": "https://media.unreel.me/prod/freelivesports/logo/4e9f2337-0fc3-46a0-8010-cd6330ca1f0b",
-                    "number": "3",
+                    "number": "2",
                     "url": "https://amg17292-amg17292c1-freelivesports-emea-6961.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-freelivesportsemea/playlist.m3u8",
                     "epgId": "67b7c9a0d9391b69ebb03e1a"
                 },
@@ -493,7 +493,7 @@
                 {
                     "name": "Billiard TV",
                     "image": "https://media.unreel.me/prod/sportsplus/logo/a7426856-4b2e-401c-b4a6-29086ef9cd5b",
-                    "number": "2",
+                    "number": "280",
                     "url": "https://1b29dd71cd5e4191a3eb26afff631ed3.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SportsTribal-BilliardTV/BILLIARDTV_SCTE.m3u8",
                     "epgId": "6675c105dfa6f735be514aea"
                 },
@@ -615,7 +615,7 @@
                 },
                 {
                     "name": "The Boat Show",
-                    "image": "https://media.unreel.me/prod/freelivesports/logo/e7dac27b-cf23-472d-b190-4eecaa3b79d1",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/0395d76f-8712-4e4c-b33f-cc62bcddcb01",
                     "number": "367",
                     "url": "https://b74b2c1067794724b288f2e6996c2dad.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_TheBoatShow/playlist.m3u8",
                     "epgId": "673b785252254eb082e18520"
@@ -657,7 +657,7 @@
                 },
                 {
                     "name": "Popular Science",
-                    "image": "https://media.unreel.me/prod/freelivesports/logo/ff607bfd-e338-4aab-8df8-5e3b7b0e82b5",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/1a0d18c9-d429-4739-95b8-c172b16ea6dd",
                     "number": "378",
                     "url": "https://amg13231-actve-amg13231c5-sportstribal-emea-1269.playouts.now.amagi.tv/playlist/amg13231-actvefast-powder-sportstribalemea/playlist.m3u8",
                     "epgId": "6675bde91de4405de4d48712"
@@ -677,7 +677,7 @@
                 },
                 {
                     "name": "MORE U",
-                    "image": "https://media.unreel.me/prod/freelivesports/logo/3b481cab-640c-404a-b09a-fd13887d1267",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/74147cf0-42e5-4833-b1a2-69c7d28603fd",
                     "number": "363",
                     "url": "https://114933112aa649148b22f46d7798c6ce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_MoreU/playlist.m3u8",
                     "epgId": "6761eb6e560259210963313e"
