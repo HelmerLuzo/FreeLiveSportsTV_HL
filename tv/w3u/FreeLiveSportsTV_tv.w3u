@@ -1,6 +1,6 @@
 {
     "name": "FreeLiveSportsTV by HL",
-    "author": "Actualizada 12/03/2025 12:17",
+    "author": "Actualizada 13/03/2025 00:17",
     "epg": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/epg/FreeLiveSportsTV.xml.gz",
     "image": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/freelivesports.png",
     "url": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/tv/w3u/FreeLiveSportsTV_tv.w3u",
@@ -343,7 +343,7 @@
             ]
         },
         {
-            "name": "Action",
+            "name": "Action & Extreme",
             "image": "",
             "stations": [
                 {
@@ -361,87 +361,60 @@
                     "epgId": "66631a6b68357e70058f62ca"
                 },
                 {
+                    "name": "GoPro",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/e6199791-2fe2-4290-8518-62d245a1476f",
+                    "number": "243",
+                    "url": "https://3a1b4d927c02473b806350cc162d271f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-891-GOPRO-FREELIVESPORTS/mt/freelivesports/891/hls/master/playlist.m3u8",
+                    "epgId": "67ad38735451dfa36d3d3d1a"
+                },
+                {
+                    "name": "Extreme+",
+                    "image": "https://media.unreel.me/prod/sportsplus/logo/d6f7b3b0-db1f-4ab9-af8c-1e822cbc18e1",
+                    "number": "244",
+                    "url": "https://d1j5f4s4o1u3r4.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/ExtremePlus-Dooya-SportsTribal/276.m3u8",
+                    "epgId": "6675bd8b7f512eb266c46d5a"
+                },
+                {
+                    "name": "InTrouble",
+                    "image": "https://media.unreel.me/prod/sportsplus/logo/be5d5d67-3049-4ab3-829e-eadac9a1c986",
+                    "number": "245",
+                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-introuble-sportstribal/playlist.m3u8",
+                    "epgId": "6675b9974c09eba5ff39e005"
+                },
+                {
                     "name": "World of Freesports",
                     "image": "https://media.unreel.me/prod/sportsplus/logo/ef4c576d-49fb-4997-afe1-55f0b11d7982",
-                    "number": "243",
+                    "number": "246",
                     "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01866-mainstreammedia-freesportsinc-sportstribal/playlist.m3u8",
                     "epgId": "6675bbd47620a64769e3aaa7"
                 },
                 {
                     "name": "Teton Gravity Research TV",
                     "image": "https://media.unreel.me/prod/sportsplus/logo/20db3e4a-3ce4-4394-9e16-cc7a76076e6c",
-                    "number": "244",
+                    "number": "247",
                     "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00585-sportstribaltv-tgrtetongravi-sportstribal/playlist.m3u8",
                     "epgId": "6675bf48a2823e9a829edad2"
                 },
                 {
-                    "name": "Adventure Zone Sports Network",
-                    "image": "https://media.unreel.me/prod/freelivesports/logo/ff01971a-cd73-44df-a2fb-d6b654e0fe87",
-                    "number": "248",
-                    "url": "https://ott-studio.telos.indicue.com/stream.m3u8",
-                    "epgId": "6793f38b28cc86e5b548fd1c"
-                }
-            ]
-        },
-        {
-            "name": "Extreme",
-            "image": "",
-            "stations": [
-                {
-                    "name": "Teton Ridge TV",
-                    "image": "https://media.unreel.me/prod/freelivesports/logo/4e9f2337-0fc3-46a0-8010-cd6330ca1f0b",
-                    "number": "2",
-                    "url": "https://amg17292-amg17292c1-freelivesports-emea-6961.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-freelivesportsemea/playlist.m3u8",
-                    "epgId": "67b7c9a0d9391b69ebb03e1a"
-                },
-                {
-                    "name": "GoPro",
-                    "image": "https://media.unreel.me/prod/freelivesports/logo/e6199791-2fe2-4290-8518-62d245a1476f",
-                    "number": "300",
-                    "url": "https://3a1b4d927c02473b806350cc162d271f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-891-GOPRO-FREELIVESPORTS/mt/freelivesports/891/hls/master/playlist.m3u8",
-                    "epgId": "67ad38735451dfa36d3d3d1a"
-                },
-                {
-                    "name": "World Chase Tag",
-                    "image": "https://media.unreel.me/prod/freelivesports/logo/f085410c-b942-4fa8-b794-58d6d61b1ed7",
-                    "number": "302",
-                    "url": "https://ott-studio.telos.indicue.com/stream.m3u8",
-                    "epgId": "6791791920266258e85e39a1"
-                },
-                {
-                    "name": "Strongman Champions League",
-                    "image": "https://media.unreel.me/prod/sportsplus/logo/3cf9a158-a2c6-449b-8c16-cb61daa5ea2e",
-                    "number": "303",
-                    "url": "https://0864a05b1ca54a4e8fe73805bf810fa4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/SportsTribal-gb_StrongmanChampionsLeague/playlist.m3u8",
-                    "epgId": "6675be6a0485604f67e34186"
-                },
-                {
-                    "name": "InTrouble",
-                    "image": "https://media.unreel.me/prod/sportsplus/logo/be5d5d67-3049-4ab3-829e-eadac9a1c986",
-                    "number": "304",
-                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-introuble-sportstribal/playlist.m3u8",
-                    "epgId": "6675b9974c09eba5ff39e005"
-                },
-                {
-                    "name": "Extreme+",
-                    "image": "https://media.unreel.me/prod/sportsplus/logo/d6f7b3b0-db1f-4ab9-af8c-1e822cbc18e1",
-                    "number": "305",
-                    "url": "https://d1j5f4s4o1u3r4.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/ExtremePlus-Dooya-SportsTribal/276.m3u8",
-                    "epgId": "6675bd8b7f512eb266c46d5a"
-                },
-                {
                     "name": "Adventure Sports TV",
                     "image": "https://media.unreel.me/prod/sportsplus/logo/4d56a95c-9752-400d-8900-c94b900d641c",
-                    "number": "306",
+                    "number": "249",
                     "url": "https://d1ez97pbrsx5ro.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SportsTribal-MuxIP-AdventureSportsTV/438.m3u8",
                     "epgId": "6675bf940b3aa44c6ed5fad9"
                 },
                 {
                     "name": "Unreel",
                     "image": "https://media.unreel.me/prod/sportsplus/logo/0df7beee-d547-48fb-8e71-6d37c6e6ec6f",
-                    "number": "308",
+                    "number": "250",
                     "url": "https://dd95c2f6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X0Nhc3RpZnlVbnJlZWxfSExT/playlist.m3u8",
                     "epgId": "6675ba96b9ab4742a8a8ccb5"
+                },
+                {
+                    "name": "Adventure Zone Sports Network",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/ff01971a-cd73-44df-a2fb-d6b654e0fe87",
+                    "number": "251",
+                    "url": "https://ott-studio.telos.indicue.com/stream.m3u8",
+                    "epgId": "6793f38b28cc86e5b548fd1c"
                 }
             ]
         },
@@ -569,6 +542,54 @@
             ]
         },
         {
+            "name": "Specialist",
+            "image": "",
+            "stations": [
+                {
+                    "name": "World Chase Tag",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/f085410c-b942-4fa8-b794-58d6d61b1ed7",
+                    "number": "302",
+                    "url": "https://ott-studio.telos.indicue.com/stream.m3u8",
+                    "epgId": "6791791920266258e85e39a1"
+                },
+                {
+                    "name": "Strongman Champions League",
+                    "image": "https://media.unreel.me/prod/sportsplus/logo/3cf9a158-a2c6-449b-8c16-cb61daa5ea2e",
+                    "number": "303",
+                    "url": "https://0864a05b1ca54a4e8fe73805bf810fa4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/SportsTribal-gb_StrongmanChampionsLeague/playlist.m3u8",
+                    "epgId": "6675be6a0485604f67e34186"
+                },
+                {
+                    "name": "Chess TV",
+                    "image": "https://media.unreel.me/prod/sportsplus/logo/3a05e712-1133-4b32-b095-488ccef36b99",
+                    "number": "360",
+                    "url": "https://ab9d2b8d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X0NoZXNzVFZfSExT/playlist.m3u8",
+                    "epgId": "6675ba8be1827c8af5d7a63c"
+                },
+                {
+                    "name": "Choppertown",
+                    "image": "https://media.unreel.me/prod/sportsplus/logo/71a84f5d-8c67-4d54-8a82-7854b9227914",
+                    "number": "361",
+                    "url": "https://7d8dc76d676946ec8d372d4ed7b22333.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-11-CHOPPERTOWN-SPORTSTRIBAL/mt/sportstribaltv/11/hls/master/playlist.m3u8",
+                    "epgId": "6675b734a3f2191ee5161c2d"
+                },
+                {
+                    "name": "The Boat Show",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/0395d76f-8712-4e4c-b33f-cc62bcddcb01",
+                    "number": "367",
+                    "url": "https://b74b2c1067794724b288f2e6996c2dad.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_TheBoatShow/playlist.m3u8",
+                    "epgId": "673b785252254eb082e18520"
+                },
+                {
+                    "name": "Team Liquid",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/fb8041e6-658e-4d66-bcb6-572c5073b0a6",
+                    "number": "371",
+                    "url": "https://amg13231-actve-amg13231c2-sportstribal-emea-1266.playouts.now.amagi.tv/playlist/amg13231-actvefast-skateboarding-sportstribalemea/playlist.m3u8",
+                    "epgId": "6675ba64d6d7787f5ce97012"
+                }
+            ]
+        },
+        {
             "name": "Equestrian",
             "image": "",
             "stations": [
@@ -589,23 +610,9 @@
             ]
         },
         {
-            "name": "Lifestyle",
+            "name": "Entertainment",
             "image": "",
             "stations": [
-                {
-                    "name": "Chess TV",
-                    "image": "https://media.unreel.me/prod/sportsplus/logo/3a05e712-1133-4b32-b095-488ccef36b99",
-                    "number": "360",
-                    "url": "https://ab9d2b8d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X0NoZXNzVFZfSExT/playlist.m3u8",
-                    "epgId": "6675ba8be1827c8af5d7a63c"
-                },
-                {
-                    "name": "Choppertown",
-                    "image": "https://media.unreel.me/prod/sportsplus/logo/71a84f5d-8c67-4d54-8a82-7854b9227914",
-                    "number": "361",
-                    "url": "https://7d8dc76d676946ec8d372d4ed7b22333.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-11-CHOPPERTOWN-SPORTSTRIBAL/mt/sportstribaltv/11/hls/master/playlist.m3u8",
-                    "epgId": "6675b734a3f2191ee5161c2d"
-                },
                 {
                     "name": "TRACE Sport Stars",
                     "image": "https://media.unreel.me/prod/sportsplus/logo/234a42b4-2768-4c10-99e8-454ef31031da",
@@ -614,25 +621,11 @@
                     "epgId": "6675bad59db1ef77befe9837"
                 },
                 {
-                    "name": "The Boat Show",
-                    "image": "https://media.unreel.me/prod/freelivesports/logo/0395d76f-8712-4e4c-b33f-cc62bcddcb01",
-                    "number": "367",
-                    "url": "https://b74b2c1067794724b288f2e6996c2dad.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_TheBoatShow/playlist.m3u8",
-                    "epgId": "673b785252254eb082e18520"
-                },
-                {
                     "name": "Greatest Sports Legends & Laughs",
                     "image": "https://media.unreel.me/prod/freelivesports/logo/b69331b3-e5c6-488c-abc7-a3add90b136b",
                     "number": "368",
                     "url": "https://3db084d1dd6f49ecbf809a40d8a446b2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_GreatestSportsLegendsandLaughs/playlist.m3u8",
                     "epgId": "6717da0636dc92fb49346e64"
-                },
-                {
-                    "name": "Team Liquid",
-                    "image": "https://media.unreel.me/prod/freelivesports/logo/fb8041e6-658e-4d66-bcb6-572c5073b0a6",
-                    "number": "371",
-                    "url": "https://amg13231-actve-amg13231c2-sportstribal-emea-1266.playouts.now.amagi.tv/playlist/amg13231-actvefast-skateboarding-sportstribalemea/playlist.m3u8",
-                    "epgId": "6675ba64d6d7787f5ce97012"
                 },
                 {
                     "name": "Escape TV",
