@@ -1,6 +1,6 @@
 {
     "name": "FreeLiveSportsTV by HL",
-    "author": "Actualizada 03/04/2025 12:17",
+    "author": "Actualizada 04/04/2025 00:17",
     "epg": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/epg/FreeLiveSportsTV.xml.gz",
     "image": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/freelivesports.png",
     "url": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/tv/w3u/FreeLiveSportsTV_tv.w3u",
@@ -284,6 +284,13 @@
             "image": "",
             "stations": [
                 {
+                    "name": "Harlem Globetrotters",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/98d20ee6-8bb7-4595-bd2a-5c86dcf52462",
+                    "number": "1",
+                    "url": "https://32d0f0785a2a46d28117199f63ad73ea.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_TheHarlemGlobeTrotters/playlist.m3u8",
+                    "epgId": "67ed0d613db9240ff8487cfe"
+                },
+                {
                     "name": "K-Baseball TV (KBO)",
                     "image": "https://media.unreel.me/prod/freelivesports/logo/fa0433c0-eba1-442e-b42c-1394b0ed1612",
                     "number": "2",
@@ -303,13 +310,6 @@
                     "number": "6",
                     "url": "https://amg00585-amg00585c19-freelivesports-emea-6831.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-elftv-freelivesportsemea/playlist.m3u8",
                     "epgId": "67b79781eab92d6624ee0a33"
-                },
-                {
-                    "name": "Harlem Globetrotters",
-                    "image": "https://media.unreel.me/prod/freelivesports/logo/98d20ee6-8bb7-4595-bd2a-5c86dcf52462",
-                    "number": "260",
-                    "url": "https://32d0f0785a2a46d28117199f63ad73ea.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_TheHarlemGlobeTrotters/playlist.m3u8",
-                    "epgId": "67ed0d613db9240ff8487cfe"
                 },
                 {
                     "name": "Perfect Game TV",

@@ -1,4 +1,7 @@
 #EXTM3U url-tvg="https://helmerluzo.github.io/FreeLiveSportsTV_HL/epg/FreeLiveSportsTV.xml.gz"
+#EXTINF:-1 tvg-id="67ed0d613db9240ff8487cfe" tvg-name="67ed0d613db9240ff8487cfe" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/98d20ee6-8bb7-4595-bd2a-5c86dcf52462" group-title="Team Sports" tvg-chno="1", Harlem Globetrotters
+https://32d0f0785a2a46d28117199f63ad73ea.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_TheHarlemGlobeTrotters/playlist.m3u8
+
 #EXTINF:-1 tvg-id="67daf9a75b812f089f86b42e" tvg-name="67daf9a75b812f089f86b42e" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/fa0433c0-eba1-442e-b42c-1394b0ed1612" group-title="Team Sports" tvg-chno="2", K-Baseball TV (KBO)
 https://amg02040-amg02040c10-freelivesports-emea-7496.playouts.now.amagi.tv/playlist/amg02040-lguplus-kbo-freelivesportsemea/playlist.m3u8
 
@@ -181,9 +184,6 @@ https://dd95c2f6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3Bvcn
 
 #EXTINF:-1 tvg-id="6793f38b28cc86e5b548fd1c" tvg-name="6793f38b28cc86e5b548fd1c" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/ff01971a-cd73-44df-a2fb-d6b654e0fe87" group-title="Action & Extreme" tvg-chno="251", Adventure Zone Sports Network
 https://ott-studio.telos.indicue.com/stream.m3u8
-
-#EXTINF:-1 tvg-id="67ed0d613db9240ff8487cfe" tvg-name="67ed0d613db9240ff8487cfe" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/98d20ee6-8bb7-4595-bd2a-5c86dcf52462" group-title="Team Sports" tvg-chno="260", Harlem Globetrotters
-https://32d0f0785a2a46d28117199f63ad73ea.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_TheHarlemGlobeTrotters/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6675b8bb2916d97ce3c66c0f" tvg-name="6675b8bb2916d97ce3c66c0f" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/9f28b472-3256-49bc-b27e-32638ceff5ce" group-title="Team Sports" tvg-chno="264", Perfect Game TV
 https://6ebc93db.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X1BlcmZlY3RHYW1lVFZfSExT/playlist.m3u8
