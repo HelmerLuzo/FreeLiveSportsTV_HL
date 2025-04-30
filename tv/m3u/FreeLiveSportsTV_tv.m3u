@@ -263,3 +263,6 @@ https://a38d899367d24b1197db60dedfa80262.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="6675bde91de4405de4d48712" tvg-name="6675bde91de4405de4d48712" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/1a0d18c9-d429-4739-95b8-c172b16ea6dd" group-title="Entertainment" tvg-chno="378", Popular Science
 https://amg13231-actve-amg13231c5-sportstribal-emea-1269.playouts.now.amagi.tv/playlist/amg13231-actvefast-powder-sportstribalemea/playlist.m3u8
 
+#EXTINF:-1 tvg-id="68114951dc7bfd176ab1044f" tvg-name="68114951dc7bfd176ab1044f" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/d6890122-68b7-41a1-ae3e-bb937d0e73d9" group-title="Specialist" tvg-chno="10000", GINX TV
+https://amg00348-amg00348c3-freelivesports-emea-7552.playouts.now.amagi.tv/playlist/amg00348-dooyamediagroupinc-ginxtv-freelivesportsemea/playlist.m3u8
+
