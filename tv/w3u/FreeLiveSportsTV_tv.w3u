@@ -1,6 +1,6 @@
 {
     "name": "FreeLiveSportsTV by HL",
-    "author": "Actualizada 01/05/2025 00:17",
+    "author": "Actualizada 01/05/2025 12:17",
     "epg": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/epg/FreeLiveSportsTV.xml.gz",
     "image": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/freelivesports.png",
     "url": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/tv/w3u/FreeLiveSportsTV_tv.w3u",
@@ -42,18 +42,18 @@
             "image": "",
             "stations": [
                 {
-                    "name": "BLEAV Football",
-                    "image": "https://media.unreel.me/prod/sportsplus/logo/e8c966f7-d28c-4bd9-822c-998e85489184",
-                    "number": "6",
-                    "url": "https://139cdd2c07204547aa4c184866d2d662.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/Linear-493-BLEAV-FOOTBALL-SPORTSTRIBALTV/mt/sportstribaltv/493/hls/master/playlist.m3u8",
-                    "epgId": "6675c077b464f958050c8e7b"
-                },
-                {
                     "name": "SportsGrid",
                     "image": "https://media.unreel.me/prod/sportsplus/logo/71403161-8f04-41b0-87dc-cd47d12767f2",
                     "number": "10",
                     "url": "https://sportsgrid-tribal.amagi.tv/hls/amagi_hls_data_sportstri-sportsgrid-sportstribal/CDN/playlist.m3u8",
                     "epgId": "6675b7bda139017a32428e74"
+                },
+                {
+                    "name": "BLEAV Football",
+                    "image": "https://media.unreel.me/prod/sportsplus/logo/e8c966f7-d28c-4bd9-822c-998e85489184",
+                    "number": "104",
+                    "url": "https://139cdd2c07204547aa4c184866d2d662.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/Linear-493-BLEAV-FOOTBALL-SPORTSTRIBALTV/mt/sportstribaltv/493/hls/master/playlist.m3u8",
+                    "epgId": "6675c077b464f958050c8e7b"
                 },
                 {
                     "name": "GFN Soccer TV",
@@ -194,6 +194,13 @@
             "image": "",
             "stations": [
                 {
+                    "name": "Lucha Plus",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/f4c215dc-e13f-4cd8-b800-db6781717d1d",
+                    "number": "6",
+                    "url": "https://amg17334-amg17334c1-freelivesports-emea-7386.playouts.now.amagi.tv/playlist/amg17334-luchalibrefast-luchalibre-freelivesportsemea/playlist.m3u8",
+                    "epgId": "67db1b3d8415591e5e093ef7"
+                },
+                {
                     "name": "GLORY Kickboxing",
                     "image": "https://media.unreel.me/prod/sportsplus/logo/0e0173e2-7dca-4b08-aa63-f0ea4c989405",
                     "number": "21",
@@ -262,13 +269,6 @@
                     "number": "221",
                     "url": "https://streams2.sofast.tv/ptnr-sportstrible/title-MMA_Sportstrible/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/f6b049e4-885e-4551-85ac-8eef0b33d3a2/playlist.m3u8",
                     "epgId": "67acd478af7d4a4aef9c3354"
-                },
-                {
-                    "name": "Lucha Plus",
-                    "image": "https://media.unreel.me/prod/freelivesports/logo/f4c215dc-e13f-4cd8-b800-db6781717d1d",
-                    "number": "222",
-                    "url": "https://amg17334-amg17334c1-freelivesports-emea-7386.playouts.now.amagi.tv/playlist/amg17334-luchalibrefast-luchalibre-freelivesportsemea/playlist.m3u8",
-                    "epgId": "67db1b3d8415591e5e093ef7"
                 },
                 {
                     "name": "Inside Arm Wrestling",
