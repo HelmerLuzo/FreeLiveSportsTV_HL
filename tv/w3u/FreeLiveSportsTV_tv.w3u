@@ -1,6 +1,6 @@
 {
     "name": "FreeLiveSportsTV by HL",
-    "author": "Actualizada 02/05/2025 12:17",
+    "author": "Actualizada 03/05/2025 00:17",
     "epg": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/epg/FreeLiveSportsTV.xml.gz",
     "image": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/freelivesports.png",
     "url": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/tv/w3u/FreeLiveSportsTV_tv.w3u",
@@ -44,7 +44,7 @@
                 {
                     "name": "SportsGrid",
                     "image": "https://media.unreel.me/prod/sportsplus/logo/71403161-8f04-41b0-87dc-cd47d12767f2",
-                    "number": "10",
+                    "number": "103",
                     "url": "https://sportsgrid-tribal.amagi.tv/hls/amagi_hls_data_sportstri-sportsgrid-sportstribal/CDN/playlist.m3u8",
                     "epgId": "6675b7bda139017a32428e74"
                 },
@@ -201,6 +201,13 @@
                     "epgId": "67db1b3d8415591e5e093ef7"
                 },
                 {
+                    "name": "Lights Out Xreme Fighting",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/5d3a2aad-0cbe-4d62-b477-291185ecc4aa",
+                    "number": "9",
+                    "url": "https://api-ott.lightsoutsportstv.com/loggingmediaurlpassthrough/a.m3u8",
+                    "epgId": "67fec250aad8e07622f57570"
+                },
+                {
                     "name": "GLORY Kickboxing",
                     "image": "https://media.unreel.me/prod/sportsplus/logo/0e0173e2-7dca-4b08-aa63-f0ea4c989405",
                     "number": "21",
@@ -276,13 +283,6 @@
                     "number": "224",
                     "url": "https://ott-studio.telos.indicue.com/stream.m3u8",
                     "epgId": "6791796ab9c17f9469346be6"
-                },
-                {
-                    "name": "Lights Out Xreme Fighting",
-                    "image": "https://media.unreel.me/prod/freelivesports/logo/5d3a2aad-0cbe-4d62-b477-291185ecc4aa",
-                    "number": "225",
-                    "url": "https://api-ott.lightsoutsportstv.com/loggingmediaurlpassthrough/a.m3u8",
-                    "epgId": "67fec250aad8e07622f57570"
                 }
             ]
         },
@@ -627,18 +627,18 @@
             "image": "",
             "stations": [
                 {
+                    "name": "Horse & Country",
+                    "image": "https://media.unreel.me/prod/sportsplus/logo/403787aa-0d0a-440c-9056-84226a5c4a82",
+                    "number": "10",
+                    "url": "https://hncfree-sportstribal.amagi.tv/hls/amagi_hls_data_sportstri-hncfree-sportstribal/CDN/playlist.m3u8",
+                    "epgId": "6675b51e33d0e31efc11febd"
+                },
+                {
                     "name": "GCTV",
                     "image": "https://media.unreel.me/prod/sportsplus/logo/03aa563c-92e6-4bcb-8509-8760df887cb2",
                     "number": "23",
                     "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00585-sportstribaltv-gctv-sportstribal/playlist.m3u8",
                     "epgId": "6675ba37b9ab4742a8a8cc85"
-                },
-                {
-                    "name": "Horse & Country",
-                    "image": "https://media.unreel.me/prod/sportsplus/logo/403787aa-0d0a-440c-9056-84226a5c4a82",
-                    "number": "320",
-                    "url": "https://hncfree-sportstribal.amagi.tv/hls/amagi_hls_data_sportstri-hncfree-sportstribal/CDN/playlist.m3u8",
-                    "epgId": "6675b51e33d0e31efc11febd"
                 }
             ]
         },
