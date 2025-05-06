@@ -1,6 +1,6 @@
 {
     "name": "FreeLiveSportsTV by HL",
-    "author": "Actualizada 06/05/2025 12:17",
+    "author": "Actualizada 07/05/2025 00:17",
     "epg": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/epg/FreeLiveSportsTV.xml.gz",
     "image": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/freelivesports.png",
     "url": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/tv/w3u/FreeLiveSportsTV_tv.w3u",
@@ -17,7 +17,7 @@
                 {
                     "name": "Pac 12 Insider",
                     "image": "https://media.unreel.me/prod/freelivesports/logo/ff4cd8ef-eccd-4386-bcdd-484c9a0de8bc",
-                    "number": "4",
+                    "number": "25",
                     "url": "https://amg00384-amg00384c1-freelivesports-emea-7308.playouts.now.amagi.tv/playlist/amg00384-pac12-pac12-freelivesportsemea/playlist.m3u8",
                     "epgId": "67e2fb3e548ae02169c017c4"
                 },
@@ -113,14 +113,14 @@
                 {
                     "name": "MTRSPT1",
                     "image": "https://media.unreel.me/prod/sportsplus/logo/c8a648c2-8962-4965-a4e7-603dc5df3add",
-                    "number": "7",
+                    "number": "16",
                     "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-sportstribal/playlist.m3u8",
                     "epgId": "6675bc0089524b38dbf58292"
                 },
                 {
                     "name": "AUTO ALLSTARS",
                     "image": "https://media.unreel.me/prod/sportsplus/logo/d97a2480-3d5e-41fe-8915-3a8d9643320a",
-                    "number": "22",
+                    "number": "24",
                     "url": "https://f959c2c3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X0Nhc3RpZnlBdXRvQWxsU3RhcnNfSExT/playlist.m3u8",
                     "epgId": "6675bb260b3aa44c6ed5f887"
                 },
@@ -194,13 +194,6 @@
             "image": "",
             "stations": [
                 {
-                    "name": "Lucha Plus",
-                    "image": "https://media.unreel.me/prod/freelivesports/logo/f4c215dc-e13f-4cd8-b800-db6781717d1d",
-                    "number": "6",
-                    "url": "https://amg17334-amg17334c1-freelivesports-emea-7386.playouts.now.amagi.tv/playlist/amg17334-luchalibrefast-luchalibre-freelivesportsemea/playlist.m3u8",
-                    "epgId": "67db1b3d8415591e5e093ef7"
-                },
-                {
                     "name": "Lights Out Xreme Fighting",
                     "image": "https://media.unreel.me/prod/freelivesports/logo/5d3a2aad-0cbe-4d62-b477-291185ecc4aa",
                     "number": "9",
@@ -210,16 +203,9 @@
                 {
                     "name": "GLORY Kickboxing",
                     "image": "https://media.unreel.me/prod/sportsplus/logo/0e0173e2-7dca-4b08-aa63-f0ea4c989405",
-                    "number": "21",
+                    "number": "23",
                     "url": "https://6ada88b3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8",
                     "epgId": "6675bcd1d8d389e6ed671402"
-                },
-                {
-                    "name": "MVMT Culture",
-                    "image": "https://media.unreel.me/prod/freelivesports/logo/91fa9dad-618e-4400-893d-35dfc0e34843",
-                    "number": "24",
-                    "url": "https://d15g7z5n3epv7t.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/TheGrapplingNetwork-SportsTribal/236.m3u8",
-                    "epgId": "6675bb584629276717291b17"
                 },
                 {
                     "name": "PFL",
@@ -236,32 +222,46 @@
                     "epgId": "6675bb562916d97ce3c66d67"
                 },
                 {
+                    "name": "Lucha Plus",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/f4c215dc-e13f-4cd8-b800-db6781717d1d",
+                    "number": "212",
+                    "url": "https://amg17334-amg17334c1-freelivesports-emea-7386.playouts.now.amagi.tv/playlist/amg17334-luchalibrefast-luchalibre-freelivesportsemea/playlist.m3u8",
+                    "epgId": "67db1b3d8415591e5e093ef7"
+                },
+                {
                     "name": "United Fight Alliance",
                     "image": "https://media.unreel.me/prod/freelivesports/logo/67a96d53-e9f4-4cbf-9037-b21490c7cce1",
-                    "number": "214",
+                    "number": "215",
                     "url": "https://9ab4bcc639c845d2b682105f4e9afbf8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_UnitedFightAlliance/playlist.m3u8",
                     "epgId": "670d36c9e90d6630c6c07f23"
                 },
                 {
                     "name": "Boxing TV",
                     "image": "https://media.unreel.me/prod/sportsplus/logo/f15d93b4-edde-4342-bbc6-af669fda2213",
-                    "number": "215",
+                    "number": "216",
                     "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00585-sportstribaltv-boxingtv-sportstribal/playlist.m3u8",
                     "epgId": "6675b7ca7620a64769e3a8c0"
                 },
                 {
                     "name": "FIGHT NETWORK",
                     "image": "https://media.unreel.me/prod/sportsplus/logo/7607dd92-7305-4bab-886e-c38fe745fff7",
-                    "number": "216",
+                    "number": "217",
                     "url": "https://amg00966-amg00966c10-amgplt0201.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0201/playlist.m3u8",
                     "epgId": "6675bbf37f512eb266c46c82"
                 },
                 {
                     "name": "Hard Knocks",
                     "image": "https://media.unreel.me/prod/sportsplus/logo/4b9c5132-9c96-4128-9f24-d0f63442515a",
-                    "number": "217",
+                    "number": "218",
                     "url": "https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-SportsTribalV2/121.m3u8",
                     "epgId": "6675b8b426d7aa9a5450a849"
+                },
+                {
+                    "name": "MVMT Culture",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/91fa9dad-618e-4400-893d-35dfc0e34843",
+                    "number": "219",
+                    "url": "https://d15g7z5n3epv7t.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/TheGrapplingNetwork-SportsTribal/236.m3u8",
+                    "epgId": "6675bb584629276717291b17"
                 },
                 {
                     "name": "Fite 24/7",
@@ -291,25 +291,25 @@
             "image": "",
             "stations": [
                 {
-                    "name": "Cricket Gold",
-                    "image": "https://media.unreel.me/prod/freelivesports/logo/81162d22-43a3-4ce4-a50f-76ecf4b14fba",
+                    "name": "European Football League",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/1bd6aed2-80a3-4a73-8b69-d6f8458701ca",
+                    "number": "7",
+                    "url": "https://amg00585-amg00585c19-freelivesports-emea-6831.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-elftv-freelivesportsemea/playlist.m3u8",
+                    "epgId": "67b79781eab92d6624ee0a33"
+                },
+                {
+                    "name": "Moonball Sports TV",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/2d1a84ea-05f7-420b-b6d0-1cd169d657da",
                     "number": "15",
-                    "url": "https://d1nj4u39ja4cn0.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FLS-MuxIP-CricketGold/418.m3u8",
-                    "epgId": "67d9e85646fbdd154c733552"
+                    "url": "https://amg18572-amg18572c1-freelivesports-emea-5549.playouts.now.amagi.tv/playlist/amg18572-moonballtv-moonballsportstv-freelivesportsemea/playlist.m3u8",
+                    "epgId": "672a6a6a8e0fe64b11198015"
                 },
                 {
                     "name": "K-Baseball TV (KBO)",
                     "image": "https://media.unreel.me/prod/freelivesports/logo/fa0433c0-eba1-442e-b42c-1394b0ed1612",
-                    "number": "16",
+                    "number": "17",
                     "url": "https://amg02040-amg02040c10-freelivesports-emea-7496.playouts.now.amagi.tv/playlist/amg02040-lguplus-kbo-freelivesportsemea/playlist.m3u8",
                     "epgId": "67daf9a75b812f089f86b42e"
-                },
-                {
-                    "name": "European Football League",
-                    "image": "https://media.unreel.me/prod/freelivesports/logo/1bd6aed2-80a3-4a73-8b69-d6f8458701ca",
-                    "number": "20",
-                    "url": "https://amg00585-amg00585c19-freelivesports-emea-6831.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-elftv-freelivesportsemea/playlist.m3u8",
-                    "epgId": "67b79781eab92d6624ee0a33"
                 },
                 {
                     "name": "Harlem Globetrotters",
@@ -319,18 +319,18 @@
                     "epgId": "67f41e06811b7e0fb25171d1"
                 },
                 {
+                    "name": "Cricket Gold",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/81162d22-43a3-4ce4-a50f-76ecf4b14fba",
+                    "number": "263",
+                    "url": "https://d1nj4u39ja4cn0.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FLS-MuxIP-CricketGold/418.m3u8",
+                    "epgId": "67d9e85646fbdd154c733552"
+                },
+                {
                     "name": "Perfect Game TV",
                     "image": "https://media.unreel.me/prod/sportsplus/logo/9f28b472-3256-49bc-b27e-32638ceff5ce",
                     "number": "265",
                     "url": "https://6ebc93db.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X1BlcmZlY3RHYW1lVFZfSExT/playlist.m3u8",
                     "epgId": "6675b8bb2916d97ce3c66c0f"
-                },
-                {
-                    "name": "Moonball Sports TV",
-                    "image": "https://media.unreel.me/prod/freelivesports/logo/2d1a84ea-05f7-420b-b6d0-1cd169d657da",
-                    "number": "266",
-                    "url": "https://amg18572-amg18572c1-freelivesports-emea-5549.playouts.now.amagi.tv/playlist/amg18572-moonballtv-moonballsportstv-freelivesportsemea/playlist.m3u8",
-                    "epgId": "672a6a6a8e0fe64b11198015"
                 },
                 {
                     "name": "Premier League Lacrosse (Int')",
@@ -367,18 +367,18 @@
             "image": "",
             "stations": [
                 {
-                    "name": "Court Sports Network",
-                    "image": "https://media.unreel.me/prod/sportsplus/logo/c78ebf2a-cb07-4a00-8129-acdb2d0a73c9",
-                    "number": "2",
-                    "url": "https://b01bd331ff0249b5a62e52ff0cd4104a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-627-COURT-SPORTS-NETWORK-SPORTSTRIBALTV/mt/sportstribaltv/627/hls/master/playlist.m3u8",
-                    "epgId": "6675bc9450bec7ad1dd144e8"
-                },
-                {
                     "name": "Pickle TV",
                     "image": "https://media.unreel.me/prod/freelivesports/logo/5d95b93e-e05d-4bd7-86b9-b79d0c41bd5f",
-                    "number": "5",
+                    "number": "19",
                     "url": "https://fce26776.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X1BpY2tsZVRWX0hMUw/playlist.m3u8",
                     "epgId": "6761ec319b691191bc706e39"
+                },
+                {
+                    "name": "Court Sports Network",
+                    "image": "https://media.unreel.me/prod/sportsplus/logo/c78ebf2a-cb07-4a00-8129-acdb2d0a73c9",
+                    "number": "20",
+                    "url": "https://b01bd331ff0249b5a62e52ff0cd4104a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-627-COURT-SPORTS-NETWORK-SPORTSTRIBALTV/mt/sportstribaltv/627/hls/master/playlist.m3u8",
+                    "epgId": "6675bc9450bec7ad1dd144e8"
                 }
             ]
         },
@@ -458,7 +458,7 @@
                 {
                     "name": "World Poker Tour",
                     "image": "https://media.unreel.me/prod/sportsplus/logo/c4779d42-4a0d-4a4d-a455-df67f3151d8f",
-                    "number": "25",
+                    "number": "190",
                     "url": "https://amg00218-wptenterprises-amg00218c1-sportstribal-emea-1900.playouts.now.amagi.tv/playlist/amg00218-wptenterprisesfast-worldpokertour-sportstribalemea/playlist.m3u8",
                     "epgId": "6675bddf08ff831167bd410d"
                 },
@@ -499,7 +499,7 @@
                 {
                     "name": "Billiard TV",
                     "image": "https://media.unreel.me/prod/sportsplus/logo/a7426856-4b2e-401c-b4a6-29086ef9cd5b",
-                    "number": "19",
+                    "number": "18",
                     "url": "https://1b29dd71cd5e4191a3eb26afff631ed3.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SportsTribal-BilliardTV/BILLIARDTV_SCTE.m3u8",
                     "epgId": "6675c105dfa6f735be514aea"
                 },
@@ -517,11 +517,11 @@
             "image": "",
             "stations": [
                 {
-                    "name": "Hunt Fish TV",
-                    "image": "https://media.unreel.me/prod/sportsplus/logo/3b03051b-d5ae-4e42-b41d-b2d338db5a91",
-                    "number": "18",
-                    "url": "https://amg00585-sportstribal-amg00585c3-sportstribal-emea-2177.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-huntfishtv-sportstribalemea/playlist.m3u8",
-                    "epgId": "6675c1ce0485604f67e34409"
+                    "name": "H20 TV",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/59987eb6-cbd7-4a38-b59f-597fc0f8ca45",
+                    "number": "22",
+                    "url": "https://1261a78709344810a5b834d397509879.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-738-H2OTV-SPORTSTRIBALTV/mt/sportstribaltv/738/hls/master/playlist.m3u8",
+                    "epgId": "66b0ebd5cd7808e59b6f35d6"
                 },
                 {
                     "name": "Outdoor America",
@@ -545,6 +545,13 @@
                     "epgId": "6740e672d77ace101bdc2d7b"
                 },
                 {
+                    "name": "Hunt Fish TV",
+                    "image": "https://media.unreel.me/prod/sportsplus/logo/3b03051b-d5ae-4e42-b41d-b2d338db5a91",
+                    "number": "344",
+                    "url": "https://amg00585-sportstribal-amg00585c3-sportstribal-emea-2177.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-huntfishtv-sportstribalemea/playlist.m3u8",
+                    "epgId": "6675c1ce0485604f67e34409"
+                },
+                {
                     "name": "Sports Fishing",
                     "image": "https://media.unreel.me/prod/freelivesports/logo/4f11d7b4-99e6-447e-b517-10dbb827a67c",
                     "number": "345",
@@ -557,13 +564,6 @@
                     "number": "346",
                     "url": "https://fca567973f1544d3b177a416690efb86.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-205-PURSUIT-CHANNEL-SPORTSTRIBALTV/mt/sportstribaltv/205/hls/master/playlist.m3u8",
                     "epgId": "6675be9aa139017a3242925e"
-                },
-                {
-                    "name": "H20 TV",
-                    "image": "https://media.unreel.me/prod/freelivesports/logo/59987eb6-cbd7-4a38-b59f-597fc0f8ca45",
-                    "number": "347",
-                    "url": "https://1261a78709344810a5b834d397509879.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-738-H2OTV-SPORTSTRIBALTV/mt/sportstribaltv/738/hls/master/playlist.m3u8",
-                    "epgId": "66b0ebd5cd7808e59b6f35d6"
                 }
             ]
         },
@@ -571,6 +571,13 @@
             "name": "Specialist",
             "image": "",
             "stations": [
+                {
+                    "name": "GINX TV",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/d6890122-68b7-41a1-ae3e-bb937d0e73d9",
+                    "number": "4",
+                    "url": "https://amg00348-amg00348c3-freelivesports-emea-7552.playouts.now.amagi.tv/playlist/amg00348-dooyamediagroupinc-ginxtv-freelivesportsemea/playlist.m3u8",
+                    "epgId": "68114951dc7bfd176ab1044f"
+                },
                 {
                     "name": "Teton Ridge TV",
                     "image": "https://media.unreel.me/prod/freelivesports/logo/4e9f2337-0fc3-46a0-8010-cd6330ca1f0b",
@@ -612,13 +619,6 @@
                     "number": "371",
                     "url": "https://amg13231-actve-amg13231c2-sportstribal-emea-1266.playouts.now.amagi.tv/playlist/amg13231-actvefast-skateboarding-sportstribalemea/playlist.m3u8",
                     "epgId": "6675ba64d6d7787f5ce97012"
-                },
-                {
-                    "name": "GINX TV",
-                    "image": "https://media.unreel.me/prod/freelivesports/logo/d6890122-68b7-41a1-ae3e-bb937d0e73d9",
-                    "number": "10000",
-                    "url": "https://amg00348-amg00348c3-freelivesports-emea-7552.playouts.now.amagi.tv/playlist/amg00348-dooyamediagroupinc-ginxtv-freelivesportsemea/playlist.m3u8",
-                    "epgId": "68114951dc7bfd176ab1044f"
                 }
             ]
         },
@@ -636,7 +636,7 @@
                 {
                     "name": "GCTV",
                     "image": "https://media.unreel.me/prod/sportsplus/logo/03aa563c-92e6-4bcb-8509-8760df887cb2",
-                    "number": "23",
+                    "number": "321",
                     "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00585-sportstribaltv-gctv-sportstribal/playlist.m3u8",
                     "epgId": "6675ba37b9ab4742a8a8cc85"
                 }
