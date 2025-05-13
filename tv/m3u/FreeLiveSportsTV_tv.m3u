@@ -75,7 +75,7 @@ https://amg00585-amg00585c10-sportstribal-emea-5519.playouts.now.amagi.tv/playli
 https://api-ott.aymsports.com.mx/loggingmediaurlpassthrough/a.m3u8
 
 #EXTINF:-1 tvg-id="6663152a9bdc6548499a2945" tvg-name="6663152a9bdc6548499a2945" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/13744f63-aec9-4c4e-a694-84ddc09a891d" group-title="Motorsports" tvg-chno="122", Motorsport.tv
-https://6b3b2599.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWdiX01vdG9yc3BvcnRUVl9ITFM/playlist.m3u8
+https://7daa9e4f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X01vdG9yc3BvcnR0dl9ITFM/playlist.m3u8
 
 #EXTINF:-1 tvg-id="675c767406563ac6560ae104" tvg-name="675c767406563ac6560ae104" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/08d6a1c5-fafe-44a3-8cf0-41e4963f3005" group-title="Motorsports" tvg-chno="123", SPEEDVISION
 https://2b5e9aec.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X1NwZWVkdmlzaW9uX0hMUw/playlist.m3u8
@@ -155,7 +155,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvemeaen-sportstri
 #EXTINF:-1 tvg-id="67ad38735451dfa36d3d3d1a" tvg-name="67ad38735451dfa36d3d3d1a" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/e6199791-2fe2-4290-8518-62d245a1476f" group-title="Action & Extreme" tvg-chno="243", GoPro
 https://3a1b4d927c02473b806350cc162d271f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-891-GOPRO-FREELIVESPORTS/mt/freelivesports/891/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="67b7c9a0d9391b69ebb03e1a" tvg-name="67b7c9a0d9391b69ebb03e1a" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/4e9f2337-0fc3-46a0-8010-cd6330ca1f0b" group-title="Specialist" tvg-chno="244", Teton Ridge TV
+#EXTINF:-1 tvg-id="67b7c9a0d9391b69ebb03e1a" tvg-name="67b7c9a0d9391b69ebb03e1a" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/b5e4d85f-30b9-4e45-b564-d1a6c26865c4" group-title="Specialist" tvg-chno="244", Cowboy Channel
 https://amg17292-amg17292c1-freelivesports-emea-6961.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-freelivesportsemea/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6675b9974c09eba5ff39e005" tvg-name="6675b9974c09eba5ff39e005" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/be5d5d67-3049-4ab3-829e-eadac9a1c986" group-title="Action & Extreme" tvg-chno="245", InTrouble
