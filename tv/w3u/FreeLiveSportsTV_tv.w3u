@@ -1,6 +1,6 @@
 {
     "name": "FreeLiveSportsTV by HL",
-    "author": "Actualizada 21/05/2025 12:17",
+    "author": "Actualizada 22/05/2025 00:17",
     "epg": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/epg/FreeLiveSportsTV.xml.gz",
     "image": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/freelivesports.png",
     "url": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/tv/w3u/FreeLiveSportsTV_tv.w3u",
@@ -473,7 +473,7 @@
                     "name": "Poker Night In America",
                     "image": "https://media.unreel.me/prod/sportsplus/logo/1d91fc37-a75c-4490-8739-f9c79a8f9432",
                     "number": "192",
-                    "url": "https://d2ac29vaob351i.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/PokerNight-SportsTribal/216.m3u8",
+                    "url": "https://linear-1068.frequency.stream/dist/freelivesports/1068/hls/master/playlist.m3u8",
                     "epgId": "6663176e6303503e39621403"
                 },
                 {
@@ -517,6 +517,13 @@
             "image": "",
             "stations": [
                 {
+                    "name": "Carbon TV",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/3ed5cfc1-24b7-428c-9a3e-6e29155f6bb4",
+                    "number": "1",
+                    "url": "https://amg00585-amg00585c15-freelivesports-emea-5932.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-carbontv-freelivesportsemea/playlist.m3u8",
+                    "epgId": "6740e672d77ace101bdc2d7b"
+                },
+                {
                     "name": "Outdoor America",
                     "image": "https://media.unreel.me/prod/freelivesports/logo/be2aa3b5-89ff-426a-ae3f-f4261e3b7f65",
                     "number": "340",
@@ -529,13 +536,6 @@
                     "number": "341",
                     "url": "https://b0530716d58747539cefbb49fbcf833c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-80-WIRED2FISH-SPORTSTRIBALTV/mt/sportstribaltv/80/hls/master/playlist.m3u8",
                     "epgId": "6675bcdd2916d97ce3c66e5b"
-                },
-                {
-                    "name": "Carbon TV",
-                    "image": "https://media.unreel.me/prod/freelivesports/logo/3ed5cfc1-24b7-428c-9a3e-6e29155f6bb4",
-                    "number": "343",
-                    "url": "https://amg00585-amg00585c15-freelivesports-emea-5932.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-carbontv-freelivesportsemea/playlist.m3u8",
-                    "epgId": "6740e672d77ace101bdc2d7b"
                 },
                 {
                     "name": "Hunt Fish TV",
@@ -564,6 +564,13 @@
                     "number": "347",
                     "url": "https://1261a78709344810a5b834d397509879.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-738-H2OTV-SPORTSTRIBALTV/mt/sportstribaltv/738/hls/master/playlist.m3u8",
                     "epgId": "66b0ebd5cd7808e59b6f35d6"
+                },
+                {
+                    "name": "Skull Bound TV",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/5c9bcf1d-fd5a-4297-a0fa-bdbb2d5329cd",
+                    "number": "10001",
+                    "url": "https://f570dedd03914e34a94fa4d318deddb5.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp_796/4QT2WMPRUUVGQ48G9KYQ/hls3/now,-1m/m.m3u8",
+                    "epgId": "681b9d6eb95e0938cb79e5be"
                 }
             ]
         },
