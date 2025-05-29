@@ -1,6 +1,6 @@
 {
     "name": "FreeLiveSportsTV by HL",
-    "author": "Actualizada 29/05/2025 12:17",
+    "author": "Actualizada 30/05/2025 00:17",
     "epg": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/epg/FreeLiveSportsTV.xml.gz",
     "image": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/freelivesports.png",
     "url": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/tv/w3u/FreeLiveSportsTV_tv.w3u",
@@ -27,13 +27,6 @@
                     "number": "173",
                     "url": "https://60c273eb866445249cc34a0c01556572.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-235-CAMPUSLORE-SPORTS-SPORTSTRIBALTV/mt/sportstribaltv/235/hls/master/playlist.m3u8",
                     "epgId": "6675bd20e1827c8af5d7a7c0"
-                },
-                {
-                    "name": "Origin Sports",
-                    "image": "https://media.unreel.me/prod/sportsplus/logo/880ab4cd-8033-4b1a-90a3-e2f2e59f8610",
-                    "number": "175",
-                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01258-raycomsports-raycomsports-ono/playlist.m3u8",
-                    "epgId": "6675b915b9ab4742a8a8cbce"
                 }
             ]
         },
@@ -147,9 +140,9 @@
                 },
                 {
                     "name": "Powersports World",
-                    "image": "https://media.unreel.me/prod/freelivesports/logo/1f8f5b1d-1c0b-4a76-824e-60ee2b80cc13",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/7a6ef117-9590-4c31-8ee1-6311a94973e3",
                     "number": "125",
-                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00585-sportstribaltv-motoamerica-sportstribal/playlist.m3u8",
+                    "url": "https://api-ott.tripleb.tv/loggingmediaurlpassthrough/a.m3u8",
                     "epgId": "6675b91de1827c8af5d7a544"
                 },
                 {
@@ -232,7 +225,7 @@
                     "name": "Boxing TV",
                     "image": "https://media.unreel.me/prod/sportsplus/logo/f15d93b4-edde-4342-bbc6-af669fda2213",
                     "number": "216",
-                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00585-sportstribaltv-boxingtv-sportstribal/playlist.m3u8",
+                    "url": "https://bbb-bxntv-freelivesports.otteravision.com/bbb/bxntv/bxntv.m3u8",
                     "epgId": "6675b7ca7620a64769e3a8c0"
                 },
                 {
@@ -350,7 +343,7 @@
                     "name": "Cornhole TV",
                     "image": "https://media.unreel.me/prod/sportsplus/logo/47355675-c7fe-49b7-943a-507b3fa938e4",
                     "number": "270",
-                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00585-sportstribaltv-cornholetv-sportstribal/playlist.m3u8",
+                    "url": "https://bbb-aclco-freelivesports.otteravision.com/bbb/aclco/aclco.m3u8",
                     "epgId": "6675b85a7620a64769e3a926"
                 },
                 {
@@ -379,6 +372,13 @@
                     "number": "24",
                     "url": "https://b01bd331ff0249b5a62e52ff0cd4104a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-627-COURT-SPORTS-NETWORK-SPORTSTRIBALTV/mt/sportstribaltv/627/hls/master/playlist.m3u8",
                     "epgId": "6675bc9450bec7ad1dd144e8"
+                },
+                {
+                    "name": "My Padel TV",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/1a25cdbc-b1bc-4974-ab62-8a7cd4a4b505",
+                    "number": "10000",
+                    "url": "https://daiconnect.com/live/hls/tvup/sportsstudios-mypadeltv/.m3u8",
+                    "epgId": "681a52869fef78f6ddd6753d"
                 }
             ]
         },
@@ -694,6 +694,13 @@
                     "number": "378",
                     "url": "https://amg13231-actve-amg13231c5-sportstribal-emea-1269.playouts.now.amagi.tv/playlist/amg13231-actvefast-powder-sportstribalemea/playlist.m3u8",
                     "epgId": "6675bde91de4405de4d48712"
+                },
+                {
+                    "name": "American Stories Network",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/aa347ec7-5aed-4f79-8712-edde4493addd",
+                    "number": "10005",
+                    "url": "https://linear-1016.frequency.stream/dist/freelivesports/1016/hls/master/playlist.m3u8",
+                    "epgId": "6838daeb7711e8dcf95d34c8"
                 }
             ]
         },
