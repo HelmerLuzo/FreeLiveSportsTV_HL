@@ -1,6 +1,6 @@
 {
     "name": "FreeLiveSportsTV by HL",
-    "author": "Actualizada 30/05/2025 00:17",
+    "author": "Actualizada 30/05/2025 12:17",
     "epg": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/epg/FreeLiveSportsTV.xml.gz",
     "image": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/freelivesports.png",
     "url": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/tv/w3u/FreeLiveSportsTV_tv.w3u",
@@ -694,13 +694,6 @@
                     "number": "378",
                     "url": "https://amg13231-actve-amg13231c5-sportstribal-emea-1269.playouts.now.amagi.tv/playlist/amg13231-actvefast-powder-sportstribalemea/playlist.m3u8",
                     "epgId": "6675bde91de4405de4d48712"
-                },
-                {
-                    "name": "American Stories Network",
-                    "image": "https://media.unreel.me/prod/freelivesports/logo/aa347ec7-5aed-4f79-8712-edde4493addd",
-                    "number": "10005",
-                    "url": "https://linear-1016.frequency.stream/dist/freelivesports/1016/hls/master/playlist.m3u8",
-                    "epgId": "6838daeb7711e8dcf95d34c8"
                 }
             ]
         },
