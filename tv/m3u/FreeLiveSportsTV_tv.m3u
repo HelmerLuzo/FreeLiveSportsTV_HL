@@ -1,4 +1,7 @@
 #EXTM3U url-tvg="https://helmerluzo.github.io/FreeLiveSportsTV_HL/epg/FreeLiveSportsTV.xml.gz"
+#EXTINF:-1 tvg-id="6789669c4e3c82d765843499" tvg-name="6789669c4e3c82d765843499" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/d67464ef-e603-4ec4-814a-b6fd48653091" group-title="Combat" tvg-chno="1", LIVE EVENT
+https://amg26268-amg26268c4-freelivesports-emea-8262.playouts.now.amagi.tv/playlist/amg26268-sportsstudio-ssdooyalive-freelivesportsemea/playlist.m3u8
+
 #EXTINF:-1 tvg-id="6675bc0089524b38dbf58292" tvg-name="6675bc0089524b38dbf58292" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/c8a648c2-8962-4965-a4e7-603dc5df3add" group-title="Motorsports" tvg-chno="2", MTRSPT1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-sportstribal/playlist.m3u8
 
