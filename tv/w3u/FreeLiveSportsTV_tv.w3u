@@ -1,6 +1,6 @@
 {
     "name": "FreeLiveSportsTV by HL",
-    "author": "Actualizada 16/06/2025 12:17",
+    "author": "Actualizada 17/06/2025 00:17",
     "epg": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/epg/FreeLiveSportsTV.xml.gz",
     "image": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/freelivesports.png",
     "url": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/tv/w3u/FreeLiveSportsTV_tv.w3u",
@@ -574,14 +574,14 @@
                 {
                     "name": "Cowboy Channel",
                     "image": "https://media.unreel.me/prod/freelivesports/logo/b5e4d85f-30b9-4e45-b564-d1a6c26865c4",
-                    "number": "244",
+                    "number": "8",
                     "url": "https://amg17292-amg17292c1-freelivesports-emea-6961.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-freelivesportsemea/playlist.m3u8",
                     "epgId": "67b7c9a0d9391b69ebb03e1a"
                 },
                 {
                     "name": "World Chase Tag",
                     "image": "https://media.unreel.me/prod/freelivesports/logo/f085410c-b942-4fa8-b794-58d6d61b1ed7",
-                    "number": "302",
+                    "number": "12",
                     "url": "https://ott-studio.telos.indicue.com/stream.m3u8",
                     "epgId": "6791791920266258e85e39a1"
                 },
@@ -647,18 +647,18 @@
             "image": "",
             "stations": [
                 {
-                    "name": "GCTV",
-                    "image": "https://media.unreel.me/prod/sportsplus/logo/03aa563c-92e6-4bcb-8509-8760df887cb2",
-                    "number": "8",
-                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00585-sportstribaltv-gctv-sportstribal/playlist.m3u8",
-                    "epgId": "6675ba37b9ab4742a8a8cc85"
-                },
-                {
                     "name": "Horse & Country",
                     "image": "https://media.unreel.me/prod/sportsplus/logo/403787aa-0d0a-440c-9056-84226a5c4a82",
                     "number": "320",
                     "url": "https://hncfree-sportstribal.amagi.tv/hls/amagi_hls_data_sportstri-hncfree-sportstribal/CDN/playlist.m3u8",
                     "epgId": "6675b51e33d0e31efc11febd"
+                },
+                {
+                    "name": "GCTV",
+                    "image": "https://media.unreel.me/prod/sportsplus/logo/03aa563c-92e6-4bcb-8509-8760df887cb2",
+                    "number": "321",
+                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00585-sportstribaltv-gctv-sportstribal/playlist.m3u8",
+                    "epgId": "6675ba37b9ab4742a8a8cc85"
                 }
             ]
         },
