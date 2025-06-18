@@ -42,7 +42,7 @@ https://api-ott.nhra.tv/loggingmediaurlpassthrough/a.m3u8
 https://6ebc93db.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X1BlcmZlY3RHYW1lVFZfSExT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6675c105dfa6f735be514aea" tvg-name="6675c105dfa6f735be514aea" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/a7426856-4b2e-401c-b4a6-29086ef9cd5b" group-title="Billiards" tvg-chno="22", Billiard TV
-https://1b29dd71cd5e4191a3eb26afff631ed3.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SportsTribal-BilliardTV/BILLIARDTV_SCTE.m3u8
+https://api-ott.tripleb.tv/loggingmediaurlpassthrough/a.m3u8
 
 #EXTINF:-1 tvg-id="6675bc0089524b38dbf58292" tvg-name="6675bc0089524b38dbf58292" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/c8a648c2-8962-4965-a4e7-603dc5df3add" group-title="Motorsports" tvg-chno="23", MTRSPT1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-sportstribal/playlist.m3u8
@@ -173,9 +173,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01866-mainstreammedia-freesportsinc
 #EXTINF:-1 tvg-id="6675bf48a2823e9a829edad2" tvg-name="6675bf48a2823e9a829edad2" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/20db3e4a-3ce4-4394-9e16-cc7a76076e6c" group-title="Action & Extreme" tvg-chno="247", Teton Gravity Research TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00585-sportstribaltv-tgrtetongravi-sportstribal/playlist.m3u8
 
-#EXTINF:-1 tvg-id="6675bf940b3aa44c6ed5fad9" tvg-name="6675bf940b3aa44c6ed5fad9" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/4d56a95c-9752-400d-8900-c94b900d641c" group-title="Action & Extreme" tvg-chno="249", Adventure Sports TV
-https://d1ez97pbrsx5ro.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SportsTribal-MuxIP-AdventureSportsTV/438.m3u8
-
 #EXTINF:-1 tvg-id="6675ba96b9ab4742a8a8ccb5" tvg-name="6675ba96b9ab4742a8a8ccb5" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/0df7beee-d547-48fb-8e71-6d37c6e6ec6f" group-title="Action & Extreme" tvg-chno="250", Unreel
 https://dd95c2f6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X0Nhc3RpZnlVbnJlZWxfSExT/playlist.m3u8
 
@@ -274,4 +271,7 @@ https://amg13231-actve-amg13231c5-sportstribal-emea-1269.playouts.now.amagi.tv/p
 
 #EXTINF:-1 tvg-id="682b8d834b0bb44bd5b74958" tvg-name="682b8d834b0bb44bd5b74958" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/1f132680-d7e1-41a3-8a3a-48434f36476a" group-title="Action & Extreme" tvg-chno="10004", Absiithe TV
 https://amg26268-amg26268c5-freelivesports-emea-8263.playouts.now.amagi.tv/playlist/amg26268-sportsstudio-ssabsynthetv-freelivesportsemea/playlist.m3u8
+
+#EXTINF:-1 tvg-id="6849b955d58379ecd0a5371e" tvg-name="6849b955d58379ecd0a5371e" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/b270da34-8682-4a93-84d3-264eb6f8f5f1" group-title="Team Sports" tvg-chno="10007", DFB Play
+https://api-ott.dfbplay.tv/loggingmediaurlpassthrough/a.m3u8
 

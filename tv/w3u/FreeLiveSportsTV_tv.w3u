@@ -1,6 +1,6 @@
 {
     "name": "FreeLiveSportsTV by HL",
-    "author": "Actualizada 18/06/2025 12:17",
+    "author": "Actualizada 19/06/2025 00:17",
     "epg": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/epg/FreeLiveSportsTV.xml.gz",
     "image": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/freelivesports.png",
     "url": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/tv/w3u/FreeLiveSportsTV_tv.w3u",
@@ -345,6 +345,13 @@
                     "number": "271",
                     "url": "https://amg00585-sportstribal-amg00585c2-sportstribal-emea-2176.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-foosballtv-sportstribalemea/playlist.m3u8",
                     "epgId": "6675c17f073469c082cb2b03"
+                },
+                {
+                    "name": "DFB Play",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/b270da34-8682-4a93-84d3-264eb6f8f5f1",
+                    "number": "10007",
+                    "url": "https://api-ott.dfbplay.tv/loggingmediaurlpassthrough/a.m3u8",
+                    "epgId": "6849b955d58379ecd0a5371e"
                 }
             ]
         },
@@ -415,13 +422,6 @@
                     "epgId": "6675bf48a2823e9a829edad2"
                 },
                 {
-                    "name": "Adventure Sports TV",
-                    "image": "https://media.unreel.me/prod/sportsplus/logo/4d56a95c-9752-400d-8900-c94b900d641c",
-                    "number": "249",
-                    "url": "https://d1ez97pbrsx5ro.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SportsTribal-MuxIP-AdventureSportsTV/438.m3u8",
-                    "epgId": "6675bf940b3aa44c6ed5fad9"
-                },
-                {
                     "name": "Unreel",
                     "image": "https://media.unreel.me/prod/sportsplus/logo/0df7beee-d547-48fb-8e71-6d37c6e6ec6f",
                     "number": "250",
@@ -486,7 +486,7 @@
                     "name": "Billiard TV",
                     "image": "https://media.unreel.me/prod/sportsplus/logo/a7426856-4b2e-401c-b4a6-29086ef9cd5b",
                     "number": "22",
-                    "url": "https://1b29dd71cd5e4191a3eb26afff631ed3.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SportsTribal-BilliardTV/BILLIARDTV_SCTE.m3u8",
+                    "url": "https://api-ott.tripleb.tv/loggingmediaurlpassthrough/a.m3u8",
                     "epgId": "6675c105dfa6f735be514aea"
                 },
                 {
