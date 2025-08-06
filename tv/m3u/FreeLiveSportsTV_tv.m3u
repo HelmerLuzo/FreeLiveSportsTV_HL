@@ -275,3 +275,6 @@ https://amg13231-actve-amg13231c5-sportstribal-emea-1269.playouts.now.amagi.tv/p
 #EXTINF:-1 tvg-id="68543f26a4a3e82dffc86da2" tvg-name="68543f26a4a3e82dffc86da2" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/a9063832-0462-484e-bf9f-a1d5426dd98c" group-title="News" tvg-chno="10008", Sports Connect
 https://d1jl8oqlli7412.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SportsStudio-Passthrough-SportsConnect/index.m3u8
 
+#EXTINF:-1 tvg-id="688295059924f9f6ea72dbe0" tvg-name="688295059924f9f6ea72dbe0" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/af323f32-15cf-4c11-9d97-178ab8963992" group-title="Action & Extreme" tvg-chno="10012", Red Bull TV (Spain)
+https://76eb25c25d284d038e4a785c7c982f9d.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORB-LATAM-ES-FAST-FREELIVESPORTS/957/freelivesports/hls/master/playlist.m3u8
+
