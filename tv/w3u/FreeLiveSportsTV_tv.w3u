@@ -1,6 +1,6 @@
 {
     "name": "FreeLiveSportsTV by HL",
-    "author": "Actualizada 07/08/2025 12:17",
+    "author": "Actualizada 08/08/2025 00:17",
     "epg": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/epg/FreeLiveSportsTV.xml.gz",
     "image": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/freelivesports.png",
     "url": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/tv/w3u/FreeLiveSportsTV_tv.w3u",
@@ -267,7 +267,7 @@
                     "name": "Inside Arm Wrestling",
                     "image": "https://media.unreel.me/prod/freelivesports/logo/2f902298-97ad-401b-b076-c3b8405dfa29",
                     "number": "224",
-                    "url": "https://ott-studio.telos.indicue.com/stream.m3u8",
+                    "url": "https://onestudio.telos.indicue.com/stream.m3u8",
                     "epgId": "6791796ab9c17f9469346be6"
                 },
                 {
@@ -446,7 +446,7 @@
                     "name": "Adventure Zone Sports Network",
                     "image": "https://media.unreel.me/prod/freelivesports/logo/ff01971a-cd73-44df-a2fb-d6b654e0fe87",
                     "number": "251",
-                    "url": "https://ott-studio.telos.indicue.com/stream.m3u8",
+                    "url": "https://onestudio.telos.indicue.com/stream.m3u8",
                     "epgId": "6793f38b28cc86e5b548fd1c"
                 },
                 {
@@ -589,7 +589,7 @@
                     "name": "World Chase Tag",
                     "image": "https://media.unreel.me/prod/freelivesports/logo/370dab72-9c75-4150-9fd5-59c7e9ae187f",
                     "number": "10",
-                    "url": "https://ott-studio.telos.indicue.com/stream.m3u8",
+                    "url": "https://onestudio.telos.indicue.com/stream.m3u8",
                     "epgId": "6791791920266258e85e39a1"
                 },
                 {
