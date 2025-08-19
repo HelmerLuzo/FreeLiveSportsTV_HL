@@ -278,3 +278,15 @@ https://amg13231-actve-amg13231c5-sportstribal-emea-1269.playouts.now.amagi.tv/p
 #EXTINF:-1 tvg-id="6675ba23a139017a32428faa" tvg-name="6675ba23a139017a32428faa" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/a88c79a7-4f11-451e-a62b-f295efb375f4" group-title="Action & Extreme" tvg-chno="999", FUEL TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvemeaen-sportstribal/playlist.m3u8
 
+#EXTINF:-1 tvg-id="68a3908836cf1d83afe34fbd" tvg-name="68a3908836cf1d83afe34fbd" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/f946df70-9fd4-4d1e-afcd-aa264b6e616e" group-title="Action & Extreme" tvg-chno="10010", Slopes TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg26268-sportsstudio-slopestv-freelivesport/playlist.m3u8
+
+#EXTINF:-1 tvg-id="68a391cf3cd2eadb9db6b0e8" tvg-name="68a391cf3cd2eadb9db6b0e8" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/5dd59d67-44ba-418f-9422-583ff3621fa1" group-title="Combat" tvg-chno="10011", Grasshoppa
+https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/Grasshoppa/index-grasshoppa.m3u8
+
+#EXTINF:-1 tvg-id="68a3918103086d7489aad8e2" tvg-name="68a3918103086d7489aad8e2" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/7f30ef5d-6562-4890-8bb1-70c41ad8c15c" group-title="Combat" tvg-chno="10012", XFC TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg26268-sportsstudio-xfctv-freelivesport/playlist.m3u8
+
+#EXTINF:-1 tvg-id="68a3a2dc90e4094f6286e55a" tvg-name="68a3a2dc90e4094f6286e55a" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/47d37893-a85d-41cd-bed9-d98ad8c9e0bf" group-title="Entertainment" tvg-chno="10013", Drone TV
+https://a480c1a918694b47b63f7ba07a0f1dc2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_DroneTV/playlist.m3u8
+
