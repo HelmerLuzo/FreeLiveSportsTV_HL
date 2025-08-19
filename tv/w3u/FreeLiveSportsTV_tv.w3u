@@ -1,6 +1,6 @@
 {
     "name": "FreeLiveSportsTV by HL",
-    "author": "Actualizada 19/08/2025 00:17",
+    "author": "Actualizada 19/08/2025 12:17",
     "epg": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/epg/FreeLiveSportsTV.xml.gz",
     "image": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/freelivesports.png",
     "url": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/tv/w3u/FreeLiveSportsTV_tv.w3u",
@@ -724,14 +724,14 @@
                 {
                     "name": "American Stories Network",
                     "image": "https://media.unreel.me/prod/freelivesports/logo/6bfb0b89-48e5-46fe-b4b3-ec6fef24e1fc",
-                    "number": "367",
+                    "number": "368",
                     "url": "https://linear-1016.frequency.stream/dist/freelivesports/1016/hls/master/playlist.m3u8",
                     "epgId": "6838daeb7711e8dcf95d34c8"
                 },
                 {
                     "name": "Greatest Sports Legends & Laughs",
                     "image": "https://media.unreel.me/prod/freelivesports/logo/23e783cc-61c9-4cc4-b30f-bd7203fa4f62",
-                    "number": "368",
+                    "number": "369",
                     "url": "https://3db084d1dd6f49ecbf809a40d8a446b2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_GreatestSportsLegendsandLaughs/playlist.m3u8",
                     "epgId": "6717da0636dc92fb49346e64"
                 },
