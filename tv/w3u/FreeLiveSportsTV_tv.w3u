@@ -1,6 +1,6 @@
 {
     "name": "FreeLiveSportsTV by HL",
-    "author": "Actualizada 20/08/2025 00:17",
+    "author": "Actualizada 20/08/2025 12:17",
     "epg": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/epg/FreeLiveSportsTV.xml.gz",
     "image": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/freelivesports.png",
     "url": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/tv/w3u/FreeLiveSportsTV_tv.w3u",
@@ -276,20 +276,6 @@
                     "number": "225",
                     "url": "https://api-ott.lightsoutsportstv.com/loggingmediaurlpassthrough/a.m3u8",
                     "epgId": "67fec250aad8e07622f57570"
-                },
-                {
-                    "name": "Grasshoppa",
-                    "image": "https://media.unreel.me/prod/freelivesports/logo/5dd59d67-44ba-418f-9422-583ff3621fa1",
-                    "number": "10011",
-                    "url": "https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/Grasshoppa/index-grasshoppa.m3u8",
-                    "epgId": "68a391cf3cd2eadb9db6b0e8"
-                },
-                {
-                    "name": "XFC TV",
-                    "image": "https://media.unreel.me/prod/freelivesports/logo/7f30ef5d-6562-4890-8bb1-70c41ad8c15c",
-                    "number": "10012",
-                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg26268-sportsstudio-xfctv-freelivesport/playlist.m3u8",
-                    "epgId": "68a3918103086d7489aad8e2"
                 }
             ]
         },
@@ -476,13 +462,6 @@
                     "number": "999",
                     "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvemeaen-sportstribal/playlist.m3u8",
                     "epgId": "6675ba23a139017a32428faa"
-                },
-                {
-                    "name": "Slopes TV",
-                    "image": "https://media.unreel.me/prod/freelivesports/logo/f946df70-9fd4-4d1e-afcd-aa264b6e616e",
-                    "number": "10010",
-                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg26268-sportsstudio-slopestv-freelivesport/playlist.m3u8",
-                    "epgId": "68a3908836cf1d83afe34fbd"
                 }
             ]
         },
@@ -772,7 +751,7 @@
                 },
                 {
                     "name": "Drone TV",
-                    "image": "https://media.unreel.me/prod/freelivesports/logo/47d37893-a85d-41cd-bed9-d98ad8c9e0bf",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/a3efa855-6f58-41ec-bc4a-1c62b54f4b58",
                     "number": "10013",
                     "url": "https://a480c1a918694b47b63f7ba07a0f1dc2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_DroneTV/playlist.m3u8",
                     "epgId": "68a3a2dc90e4094f6286e55a"
