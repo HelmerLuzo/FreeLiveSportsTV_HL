@@ -1,6 +1,6 @@
 {
     "name": "FreeLiveSportsTV by HL",
-    "author": "Actualizada 02/09/2025 12:17",
+    "author": "Actualizada 03/09/2025 00:17",
     "epg": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/epg/FreeLiveSportsTV.xml.gz",
     "image": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/freelivesports.png",
     "url": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/tv/w3u/FreeLiveSportsTV_tv.w3u",
@@ -20,13 +20,6 @@
                     "number": "172",
                     "url": "https://amg00384-amg00384c1-freelivesports-emea-7308.playouts.now.amagi.tv/playlist/amg00384-pac12-pac12-freelivesportsemea/playlist.m3u8",
                     "epgId": "67e2fb3e548ae02169c017c4"
-                },
-                {
-                    "name": "CampusLore",
-                    "image": "https://media.unreel.me/prod/sportsplus/logo/5e2bdcdc-9e78-4d1b-8b52-65cc9f31f63f",
-                    "number": "173",
-                    "url": "https://60c273eb866445249cc34a0c01556572.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-235-CAMPUSLORE-SPORTS-SPORTSTRIBALTV/mt/sportstribaltv/235/hls/master/playlist.m3u8",
-                    "epgId": "6675bd20e1827c8af5d7a7c0"
                 }
             ]
         },
@@ -34,6 +27,13 @@
             "name": "News",
             "image": "",
             "stations": [
+                {
+                    "name": "Sports Illustrated TV",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/093d2e50-386f-4b8b-bc9e-d6ed59b9c5bc",
+                    "number": "6",
+                    "url": "https://60c273eb866445249cc34a0c01556572.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-235-CAMPUSLORE-SPORTS-SPORTSTRIBALTV/mt/sportstribaltv/235/hls/master/playlist.m3u8",
+                    "epgId": "6675bd20e1827c8af5d7a7c0"
+                },
                 {
                     "name": "SportsGrid",
                     "image": "https://media.unreel.me/prod/sportsplus/logo/71403161-8f04-41b0-87dc-cd47d12767f2",
@@ -401,13 +401,6 @@
                     "epgId": "67ad38735451dfa36d3d3d1a"
                 },
                 {
-                    "name": "Absinthe TV",
-                    "image": "https://media.unreel.me/prod/freelivesports/logo/6d6eaa59-99a7-434f-b2e3-65c65afb4805",
-                    "number": "6",
-                    "url": "https://amg26268-amg26268c5-freelivesports-emea-8263.playouts.now.amagi.tv/playlist/amg26268-sportsstudio-ssabsynthetv-freelivesportsemea/playlist.m3u8",
-                    "epgId": "682b8d834b0bb44bd5b74958"
-                },
-                {
                     "name": "Red Bull TV (Spain)",
                     "image": "https://media.unreel.me/prod/freelivesports/logo/af323f32-15cf-4c11-9d97-178ab8963992",
                     "number": "6",
@@ -448,6 +441,13 @@
                     "number": "251",
                     "url": "https://onestudio.telos.indicue.com/stream.m3u8",
                     "epgId": "6793f38b28cc86e5b548fd1c"
+                },
+                {
+                    "name": "Absinthe TV",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/6d6eaa59-99a7-434f-b2e3-65c65afb4805",
+                    "number": "376",
+                    "url": "https://amg26268-amg26268c5-freelivesports-emea-8263.playouts.now.amagi.tv/playlist/amg26268-sportsstudio-ssabsynthetv-freelivesportsemea/playlist.m3u8",
+                    "epgId": "682b8d834b0bb44bd5b74958"
                 },
                 {
                     "name": "FUEL TV",
