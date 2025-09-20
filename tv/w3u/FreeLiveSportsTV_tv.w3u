@@ -1,6 +1,6 @@
 {
     "name": "FreeLiveSportsTV by HL",
-    "author": "Actualizada 20/09/2025 00:17",
+    "author": "Actualizada 20/09/2025 12:17",
     "epg": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/epg/FreeLiveSportsTV.xml.gz",
     "image": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/freelivesports.png",
     "url": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/tv/w3u/FreeLiveSportsTV_tv.w3u",
@@ -248,13 +248,6 @@
                     "number": "219",
                     "url": "https://d15g7z5n3epv7t.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/TheGrapplingNetwork-SportsTribal/236.m3u8",
                     "epgId": "6675bb584629276717291b17"
-                },
-                {
-                    "name": "Fite 24/7",
-                    "image": "https://media.unreel.me/prod/sportsplus/logo/3162b767-e063-4875-af8e-42faf418eb80",
-                    "number": "220",
-                    "url": "https://amg00348-amg00348c1-sportstribal-emea-4192.playouts.now.amagi.tv/playlist/amg00348-dooyamediagroupinc-fite24x7-sportstribalemea/playlist.m3u8",
-                    "epgId": "6675bfec4c09eba5ff39e479"
                 },
                 {
                     "name": "MMA TV",
@@ -621,13 +614,6 @@
                     "epgId": "673b785252254eb082e18520"
                 },
                 {
-                    "name": "GINX TV",
-                    "image": "https://media.unreel.me/prod/freelivesports/logo/ba4bf3ca-a9ec-47dd-a089-5c68e7bb4d54",
-                    "number": "370",
-                    "url": "https://amg00348-amg00348c3-freelivesports-emea-7552.playouts.now.amagi.tv/playlist/amg00348-dooyamediagroupinc-ginxtv-freelivesportsemea/playlist.m3u8",
-                    "epgId": "68114951dc7bfd176ab1044f"
-                },
-                {
                     "name": "Golf Network",
                     "image": "https://media.unreel.me/prod/freelivesports/logo/aef93e60-809c-4253-8a6f-012ad4a18842",
                     "number": "705",
@@ -687,13 +673,6 @@
             "name": "Wellness",
             "image": "",
             "stations": [
-                {
-                    "name": "Omstars TV",
-                    "image": "https://media.unreel.me/prod/sportsplus/logo/c4708210-a3aa-41d8-b77d-456f3e52f7d2",
-                    "number": "362",
-                    "url": "https://amg00348-amg00348c2-sportstribal-emea-3159.playouts.now.amagi.tv/playlist/amg00348-dooyamediagroupinc-omstars-sportstribalemea/playlist.m3u8",
-                    "epgId": "6675b93433d0e31efc120124"
-                },
                 {
                     "name": "MORE U",
                     "image": "https://media.unreel.me/prod/freelivesports/logo/dd0a200f-61af-4034-ac2e-0b338d583120",
