@@ -8,8 +8,14 @@ https://76eb25c25d284d038e4a785c7c982f9d.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="6675bddf08ff831167bd410d" tvg-name="6675bddf08ff831167bd410d" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/c4779d42-4a0d-4a4d-a455-df67f3151d8f" group-title="Poker" tvg-chno="6", World Poker Tour
 https://amg00218-wptenterprises-amg00218c1-sportstribal-emea-1900.playouts.now.amagi.tv/playlist/amg00218-wptenterprisesfast-worldpokertour-sportstribalemea/playlist.m3u8
 
+#EXTINF:-1 tvg-id="6675b7bda139017a32428e74" tvg-name="6675b7bda139017a32428e74" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/71403161-8f04-41b0-87dc-cd47d12767f2" group-title="News" tvg-chno="8", SportsGrid
+https://sportsgrid-tribal.amagi.tv/hls/amagi_hls_data_sportstri-sportsgrid-sportstribal/CDN/playlist.m3u8
+
 #EXTINF:-1 tvg-id="6675b9974c09eba5ff39e005" tvg-name="6675b9974c09eba5ff39e005" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/be5d5d67-3049-4ab3-829e-eadac9a1c986" group-title="Action & Extreme" tvg-chno="11", InTrouble
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-introuble-sportstribal/playlist.m3u8
+
+#EXTINF:-1 tvg-id="67b7c8b1f4706c72766e6e70" tvg-name="67b7c8b1f4706c72766e6e70" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/1a53b6f6-fe05-4354-9e41-40a5ef6f271f" group-title="News" tvg-chno="12", AYM Sports
+https://api-ott.aymsports.com.mx/loggingmediaurlpassthrough/a.m3u8
 
 #EXTINF:-1 tvg-id="67f41e06811b7e0fb25171d1" tvg-name="67f41e06811b7e0fb25171d1" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/ac0d344a-220e-4964-8c32-e75269827783" group-title="Team Sports" tvg-chno="16", Harlem Globetrotters
 https://32d0f0785a2a46d28117199f63ad73ea.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_TheHarlemGlobeTrotters/playlist.m3u8
@@ -44,9 +50,6 @@ https://b0530716d58747539cefbb49fbcf833c.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="6707d8a0e8c26b78203b9deb" tvg-name="6707d8a0e8c26b78203b9deb" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/48338028-9a53-4f65-ac05-1a48e5604ac9" group-title="Outdoors" tvg-chno="26", Outdoor America
 https://3100d8a6ad764beb9da3c6ebf285ba1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-600-OUTDOORAMERICA-FREELIVESPORTS/mt/freelivesports/600/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="6675b7bda139017a32428e74" tvg-name="6675b7bda139017a32428e74" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/71403161-8f04-41b0-87dc-cd47d12767f2" group-title="News" tvg-chno="103", SportsGrid
-https://sportsgrid-tribal.amagi.tv/hls/amagi_hls_data_sportstri-sportsgrid-sportstribal/CDN/playlist.m3u8
-
 #EXTINF:-1 tvg-id="6675c077b464f958050c8e7b" tvg-name="6675c077b464f958050c8e7b" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/e8c966f7-d28c-4bd9-822c-998e85489184" group-title="News" tvg-chno="104", BLEAV Football
 https://139cdd2c07204547aa4c184866d2d662.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/Linear-493-BLEAV-FOOTBALL-SPORTSTRIBALTV/mt/sportstribaltv/493/hls/master/playlist.m3u8
 
@@ -67,9 +70,6 @@ https://amg00585-amg00585c11-sportstribal-emea-5520.playouts.now.amagi.tv/playli
 
 #EXTINF:-1 tvg-id="671936aee4b561864c211127" tvg-name="671936aee4b561864c211127" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/a0198825-7700-4a3a-8399-338e8e1d9c64" group-title="News" tvg-chno="110", ACE TV
 https://amg00585-amg00585c10-sportstribal-emea-5519.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-acetv-sportstribalemea/playlist.m3u8
-
-#EXTINF:-1 tvg-id="67b7c8b1f4706c72766e6e70" tvg-name="67b7c8b1f4706c72766e6e70" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/1a53b6f6-fe05-4354-9e41-40a5ef6f271f" group-title="News" tvg-chno="112", AYM Sports
-https://api-ott.aymsports.com.mx/loggingmediaurlpassthrough/a.m3u8
 
 #EXTINF:-1 tvg-id="68543f26a4a3e82dffc86da2" tvg-name="68543f26a4a3e82dffc86da2" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/a9063832-0462-484e-bf9f-a1d5426dd98c" group-title="News" tvg-chno="113", Sports Connect
 https://d1jl8oqlli7412.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SportsStudio-Passthrough-SportsConnect/index.m3u8

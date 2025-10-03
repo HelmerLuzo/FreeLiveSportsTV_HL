@@ -1,6 +1,6 @@
 {
     "name": "FreeLiveSportsTV by HL",
-    "author": "Actualizada 03/10/2025 12:17",
+    "author": "Actualizada 04/10/2025 00:17",
     "epg": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/epg/FreeLiveSportsTV.xml.gz",
     "image": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/freelivesports.png",
     "url": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/tv/w3u/FreeLiveSportsTV_tv.w3u",
@@ -30,9 +30,16 @@
                 {
                     "name": "SportsGrid",
                     "image": "https://media.unreel.me/prod/sportsplus/logo/71403161-8f04-41b0-87dc-cd47d12767f2",
-                    "number": "103",
+                    "number": "8",
                     "url": "https://sportsgrid-tribal.amagi.tv/hls/amagi_hls_data_sportstri-sportsgrid-sportstribal/CDN/playlist.m3u8",
                     "epgId": "6675b7bda139017a32428e74"
+                },
+                {
+                    "name": "AYM Sports",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/1a53b6f6-fe05-4354-9e41-40a5ef6f271f",
+                    "number": "12",
+                    "url": "https://api-ott.aymsports.com.mx/loggingmediaurlpassthrough/a.m3u8",
+                    "epgId": "67b7c8b1f4706c72766e6e70"
                 },
                 {
                     "name": "BLEAV Football",
@@ -82,13 +89,6 @@
                     "number": "110",
                     "url": "https://amg00585-amg00585c10-sportstribal-emea-5519.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-acetv-sportstribalemea/playlist.m3u8",
                     "epgId": "671936aee4b561864c211127"
-                },
-                {
-                    "name": "AYM Sports",
-                    "image": "https://media.unreel.me/prod/freelivesports/logo/1a53b6f6-fe05-4354-9e41-40a5ef6f271f",
-                    "number": "112",
-                    "url": "https://api-ott.aymsports.com.mx/loggingmediaurlpassthrough/a.m3u8",
-                    "epgId": "67b7c8b1f4706c72766e6e70"
                 },
                 {
                     "name": "Sports Connect",
