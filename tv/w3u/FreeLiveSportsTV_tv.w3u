@@ -1,6 +1,6 @@
 {
     "name": "FreeLiveSportsTV by HL",
-    "author": "Actualizada 08/10/2025 12:17",
+    "author": "Actualizada 09/10/2025 00:17",
     "epg": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/epg/FreeLiveSportsTV.xml.gz",
     "image": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/freelivesports.png",
     "url": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/tv/w3u/FreeLiveSportsTV_tv.w3u",
@@ -38,7 +38,7 @@
                     "name": "AYM Sports",
                     "image": "https://media.unreel.me/prod/freelivesports/logo/1a53b6f6-fe05-4354-9e41-40a5ef6f271f",
                     "number": "12",
-                    "url": "https://api-ott.aymsports.com.mx/loggingmediaurlpassthrough/a.m3u8",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8",
                     "epgId": "67b7c8b1f4706c72766e6e70"
                 },
                 {
@@ -128,7 +128,7 @@
                     "name": "NHRA",
                     "image": "https://media.unreel.me/prod/sportsplus/logo/6e20323d-b1cb-4b6f-b149-434179404b50",
                     "number": "23",
-                    "url": "https://api-ott.nhra.tv/loggingmediaurlpassthrough/a.m3u8",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8",
                     "epgId": "666318a8a2498f66a3603397"
                 },
                 {
@@ -149,7 +149,7 @@
                     "name": "Powersports World",
                     "image": "https://media.unreel.me/prod/freelivesports/logo/7a6ef117-9590-4c31-8ee1-6311a94973e3",
                     "number": "125",
-                    "url": "https://api-ott.tripleb.tv/loggingmediaurlpassthrough/a.m3u8",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8",
                     "epgId": "6675b91de1827c8af5d7a544"
                 },
                 {
@@ -170,7 +170,7 @@
                     "name": "Motorvision",
                     "image": "https://media.unreel.me/prod/sportsplus/logo/8ab54914-7b55-44e7-8a17-614ccdda799a",
                     "number": "130",
-                    "url": "https://api-ott.motorvision.tv/loggingmediaurlpassthrough/a.m3u8",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8",
                     "epgId": "6675bed4a2823e9a829eda97"
                 },
                 {
@@ -253,7 +253,7 @@
                     "name": "Lights Out Xreme Fighting",
                     "image": "https://media.unreel.me/prod/freelivesports/logo/0a55bf25-a79a-44a0-bcdb-ca7f5d4f59fe",
                     "number": "225",
-                    "url": "https://api-ott.lightsoutsportstv.com/loggingmediaurlpassthrough/a.m3u8",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8",
                     "epgId": "67fec250aad8e07622f57570"
                 }
             ]
@@ -294,7 +294,7 @@
                     "name": "DFB Play",
                     "image": "https://media.unreel.me/prod/freelivesports/logo/57d1b830-bc09-482d-ae77-afe4477aabd8",
                     "number": "259",
-                    "url": "https://api-ott.dfbplay.tv/loggingmediaurlpassthrough/a.m3u8",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8",
                     "epgId": "6849b955d58379ecd0a5371e"
                 },
                 {
@@ -322,7 +322,7 @@
                     "name": "Premier League Lacrosse (Int')",
                     "image": "https://media.unreel.me/prod/freelivesports/logo/1fd98f1d-6c51-4dd7-bcfa-708b89d93a0d",
                     "number": "268",
-                    "url": "https://api-ott.tripleb.tv/loggingmediaurlpassthrough/a.m3u8",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8",
                     "epgId": "67193b14ebe91798e1df746e"
                 },
                 {
@@ -479,7 +479,7 @@
                     "name": "Billiard TV",
                     "image": "https://media.unreel.me/prod/sportsplus/logo/a7426856-4b2e-401c-b4a6-29086ef9cd5b",
                     "number": "3",
-                    "url": "https://api-ott.tripleb.tv/loggingmediaurlpassthrough/a.m3u8",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8",
                     "epgId": "6675c105dfa6f735be514aea"
                 },
                 {
