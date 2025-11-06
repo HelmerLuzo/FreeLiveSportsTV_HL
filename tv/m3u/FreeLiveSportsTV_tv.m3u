@@ -266,3 +266,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvemeaen-sportstri
 #EXTINF:-1 tvg-id="68a3a2dc90e4094f6286e55a" tvg-name="68a3a2dc90e4094f6286e55a" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/a3efa855-6f58-41ec-bc4a-1c62b54f4b58" group-title="Entertainment" tvg-chno="910", Drone TV
 https://a480c1a918694b47b63f7ba07a0f1dc2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_DroneTV/playlist.m3u8
 
+#EXTINF:-1 tvg-id="690bd93eb99006859752b2ac" tvg-name="690bd93eb99006859752b2ac" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/bd76bda5-899f-4f9a-99a0-94739afddde2" group-title="Specialist" tvg-chno="1003", Bowling TV
+https://stream.ads.ottera.tv/playlist.m3u8
+
