@@ -1,6 +1,6 @@
 {
     "name": "FreeLiveSportsTV by HL",
-    "author": "Actualizada 11/11/2025 00:17",
+    "author": "Actualizada 11/11/2025 12:17",
     "epg": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/epg/FreeLiveSportsTV.xml.gz",
     "image": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/freelivesports.png",
     "url": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/tv/w3u/FreeLiveSportsTV_tv.w3u",
@@ -111,13 +111,6 @@
             "image": "",
             "stations": [
                 {
-                    "name": "Motorvision",
-                    "image": "https://media.unreel.me/prod/sportsplus/logo/8ab54914-7b55-44e7-8a17-614ccdda799a",
-                    "number": "7",
-                    "url": "https://stream.ads.ottera.tv/playlist.m3u8",
-                    "epgId": "6675bed4a2823e9a829eda97"
-                },
-                {
                     "name": "Motorsport.tv",
                     "image": "https://media.unreel.me/prod/freelivesports/logo/d71e3c9a-681c-4dbd-b437-2a507b78b7f1",
                     "number": "16",
@@ -172,6 +165,13 @@
                     "number": "129",
                     "url": "https://amg02278-amg02278c1-freelivesports-emea-7535.playouts.now.amagi.tv/playlist/amg02278-flosports-floracing24x7-freelivesportsemea/playlist.m3u8",
                     "epgId": "66b0ebb38011e1206fab2931"
+                },
+                {
+                    "name": "Motorvision",
+                    "image": "https://media.unreel.me/prod/sportsplus/logo/8ab54914-7b55-44e7-8a17-614ccdda799a",
+                    "number": "130",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8",
+                    "epgId": "6675bed4a2823e9a829eda97"
                 },
                 {
                     "name": "Nitro Circus TV",

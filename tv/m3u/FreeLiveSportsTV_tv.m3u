@@ -5,9 +5,6 @@ https://stream.ads.ottera.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="6675bc9450bec7ad1dd144e8" tvg-name="6675bc9450bec7ad1dd144e8" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/c78ebf2a-cb07-4a00-8129-acdb2d0a73c9" group-title="Racquet" tvg-chno="6", Court Sports Network
 https://b01bd331ff0249b5a62e52ff0cd4104a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-627-COURT-SPORTS-NETWORK-SPORTSTRIBALTV/mt/sportstribaltv/627/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="6675bed4a2823e9a829eda97" tvg-name="6675bed4a2823e9a829eda97" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/8ab54914-7b55-44e7-8a17-614ccdda799a" group-title="Motorsports" tvg-chno="7", Motorvision
-https://stream.ads.ottera.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="6675bd5ba2823e9a829ed9d9" tvg-name="6675bd5ba2823e9a829ed9d9" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/50d85ea2-c58d-41e1-9e39-14b034323b99" group-title="Poker" tvg-chno="9", PokerGO
 https://ea14c91ee2fb4faea1f381e9c9e51173.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-426-POKERGO-SPORTSTRIBALTV/mt/sportstribaltv/426/hls/master/playlist.m3u8
 
@@ -94,6 +91,9 @@ https://d1phlc8te2m7db.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 
 #EXTINF:-1 tvg-id="66b0ebb38011e1206fab2931" tvg-name="66b0ebb38011e1206fab2931" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/3ae62aeb-63b4-4f70-966b-16b0c39dd0c2" group-title="Motorsports" tvg-chno="129", FloRacing
 https://amg02278-amg02278c1-freelivesports-emea-7535.playouts.now.amagi.tv/playlist/amg02278-flosports-floracing24x7-freelivesportsemea/playlist.m3u8
+
+#EXTINF:-1 tvg-id="6675bed4a2823e9a829eda97" tvg-name="6675bed4a2823e9a829eda97" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/8ab54914-7b55-44e7-8a17-614ccdda799a" group-title="Motorsports" tvg-chno="130", Motorvision
+https://stream.ads.ottera.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6675b898581c77d305af1545" tvg-name="6675b898581c77d305af1545" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/a1df54a3-e23a-4b0c-bf5e-158e7c02609e" group-title="Motorsports" tvg-chno="131", Nitro Circus TV
 https://amg13231-actve-amg13231c1-sportstribal-emea-1265.playouts.now.amagi.tv/playlist/amg13231-actvefast-bike-sportstribalemea/playlist.m3u8
