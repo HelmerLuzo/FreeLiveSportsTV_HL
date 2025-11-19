@@ -1,7 +1,4 @@
 #EXTM3U url-tvg="https://helmerluzo.github.io/FreeLiveSportsTV_HL/epg/FreeLiveSportsTV.xml.gz"
-#EXTINF:-1 tvg-id="67f41e06811b7e0fb25171d1" tvg-name="67f41e06811b7e0fb25171d1" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/ac0d344a-220e-4964-8c32-e75269827783" group-title="Team Sports" tvg-chno="3", Harlem Globetrotters
-https://32d0f0785a2a46d28117199f63ad73ea.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_TheHarlemGlobeTrotters/playlist.m3u8
-
 #EXTINF:-1 tvg-id="6675bddf08ff831167bd410d" tvg-name="6675bddf08ff831167bd410d" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/c4779d42-4a0d-4a4d-a455-df67f3151d8f" group-title="Poker" tvg-chno="4", World Poker Tour
 https://amg00218-wptenterprises-amg00218c1-sportstribal-emea-1900.playouts.now.amagi.tv/playlist/amg00218-wptenterprisesfast-worldpokertour-sportstribalemea/playlist.m3u8
 
@@ -169,6 +166,9 @@ https://onestudio.telos.indicue.com/stream.m3u8
 
 #EXTINF:-1 tvg-id="6849b955d58379ecd0a5371e" tvg-name="6849b955d58379ecd0a5371e" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/57d1b830-bc09-482d-ae77-afe4477aabd8" group-title="Team Sports" tvg-chno="259", DFB Play
 https://stream.ads.ottera.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="67f41e06811b7e0fb25171d1" tvg-name="67f41e06811b7e0fb25171d1" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/ac0d344a-220e-4964-8c32-e75269827783" group-title="Team Sports" tvg-chno="260", Harlem Globetrotters
+https://32d0f0785a2a46d28117199f63ad73ea.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_TheHarlemGlobeTrotters/playlist.m3u8
 
 #EXTINF:-1 tvg-id="67b79781eab92d6624ee0a33" tvg-name="67b79781eab92d6624ee0a33" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/deed3084-1593-4ad5-a398-d3ff653fcd51" group-title="Team Sports" tvg-chno="261", European Football League
 https://amg00585-amg00585c19-freelivesports-emea-6831.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-elftv-freelivesportsemea/playlist.m3u8
