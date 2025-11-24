@@ -1,6 +1,6 @@
 {
     "name": "FreeLiveSportsTV by HL",
-    "author": "Actualizada 24/11/2025 12:17",
+    "author": "Actualizada 25/11/2025 00:17",
     "epg": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/epg/FreeLiveSportsTV.xml.gz",
     "image": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/freelivesports.png",
     "url": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/tv/w3u/FreeLiveSportsTV_tv.w3u",
@@ -355,7 +355,7 @@
                 {
                     "name": "Tennis TV",
                     "image": "https://media.unreel.me/prod/freelivesports/logo/5db9d9c0-666f-4153-a55b-0de074aba0c7",
-                    "number": "150",
+                    "number": "7",
                     "url": "https://amg01470-amg01470c1-freelivesports-emea-9021.playouts.now.amagi.tv/playlist/amg01470-atpmediaoperationsltdfast-tennistvclassics-freelivesportsemea/playlist.m3u8",
                     "epgId": "687a783e928ee2ca866b7faa"
                 },
@@ -613,6 +613,13 @@
             "image": "",
             "stations": [
                 {
+                    "name": "Lucha Plus",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/2cf051b6-a8b1-46ed-ac4c-2d0ef812dc90",
+                    "number": "9",
+                    "url": "https://amg17334-amg17334c1-freelivesports-emea-7386.playouts.now.amagi.tv/playlist/amg17334-luchalibrefast-luchalibre-freelivesportsemea/playlist.m3u8",
+                    "epgId": "67db1b3d8415591e5e093ef7"
+                },
+                {
                     "name": "My Padel TV",
                     "image": "https://media.unreel.me/prod/freelivesports/logo/1a25cdbc-b1bc-4974-ab62-8a7cd4a4b505",
                     "number": "153",
@@ -625,13 +632,6 @@
                     "number": "194",
                     "url": "https://amg00218-wptenterprises-amg00218c2-sportstribal-emea-1901.playouts.now.amagi.tv/playlist/amg00218-wptenterprisesfast-worldpokertourespanol-sportstribalemea/playlist.m3u8",
                     "epgId": "6675c08cd0ea16d1c73ad39d"
-                },
-                {
-                    "name": "Lucha Plus",
-                    "image": "https://media.unreel.me/prod/freelivesports/logo/2cf051b6-a8b1-46ed-ac4c-2d0ef812dc90",
-                    "number": "212",
-                    "url": "https://amg17334-amg17334c1-freelivesports-emea-7386.playouts.now.amagi.tv/playlist/amg17334-luchalibrefast-luchalibre-freelivesportsemea/playlist.m3u8",
-                    "epgId": "67db1b3d8415591e5e093ef7"
                 }
             ]
         },
@@ -642,7 +642,7 @@
                 {
                     "name": "Horse & Country",
                     "image": "https://media.unreel.me/prod/sportsplus/logo/403787aa-0d0a-440c-9056-84226a5c4a82",
-                    "number": "7",
+                    "number": "320",
                     "url": "https://hncfree-sportstribal.amagi.tv/hls/amagi_hls_data_sportstri-hncfree-sportstribal/CDN/playlist.m3u8",
                     "epgId": "6675b51e33d0e31efc11febd"
                 },
