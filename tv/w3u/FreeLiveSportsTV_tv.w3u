@@ -1,6 +1,6 @@
 {
     "name": "FreeLiveSportsTV by HL",
-    "author": "Actualizada 26/11/2025 00:17",
+    "author": "Actualizada 26/11/2025 12:17",
     "epg": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/epg/FreeLiveSportsTV.xml.gz",
     "image": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/freelivesports.png",
     "url": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/tv/w3u/FreeLiveSportsTV_tv.w3u",
@@ -61,13 +61,6 @@
                     "number": "105",
                     "url": "https://887c98e7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X0dGTlNvY2Nlcl9ITFM/manifest.m3u8",
                     "epgId": "673b69a49d8c78e3561485b3"
-                },
-                {
-                    "name": "Golf News Network",
-                    "image": "https://media.unreel.me/prod/freelivesports/logo/53aee32e-de8f-4c66-b838-17fe2494d2d2",
-                    "number": "106",
-                    "url": "https://amg18570-amg18570c1-freelivesports-emea-5535.playouts.now.amagi.tv/playlist/amg18570-golfnewsnetwork-golfnewsnet-freelivesportsemea/playlist.m3u8",
-                    "epgId": "67194fc6034005e8aa716e3b"
                 },
                 {
                     "name": "HOOP TV",
