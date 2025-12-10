@@ -137,6 +137,9 @@ https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 #EXTINF:-1 tvg-id="6675bb584629276717291b17" tvg-name="6675bb584629276717291b17" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/98403785-3bba-4f7d-bee8-0eada4d790c8" group-title="Combat" tvg-chno="219", MVMT Culture
 https://d15g7z5n3epv7t.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/TheGrapplingNetwork-SportsTribal/236.m3u8
 
+#EXTINF:-1 tvg-id="6675bfec4c09eba5ff39e479" tvg-name="6675bfec4c09eba5ff39e479" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/3162b767-e063-4875-af8e-42faf418eb80" group-title="Combat" tvg-chno="220", Fite 24/7
+https://amg26268-amg26268c18-freelivesports-emea-10883.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg26268-sportsstudio-ssfite247-freelivesportsemea/playlist.m3u8
+
 #EXTINF:-1 tvg-id="67acd478af7d4a4aef9c3354" tvg-name="67acd478af7d4a4aef9c3354" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/9cb9b4ff-2958-4179-bd0b-bc9a44888cc7" group-title="Combat" tvg-chno="221", MMA TV
 https://streams2.sofast.tv/ptnr-sportstrible/title-MMA_Sportstrible/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/f6b049e4-885e-4551-85ac-8eef0b33d3a2/playlist.m3u8
 
@@ -227,6 +230,9 @@ https://f570dedd03914e34a94fa4d318deddb5.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="6675b734a3f2191ee5161c2d" tvg-name="6675b734a3f2191ee5161c2d" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/71a84f5d-8c67-4d54-8a82-7854b9227914" group-title="Specialist" tvg-chno="361", Choppertown
 https://7d8dc76d676946ec8d372d4ed7b22333.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-11-CHOPPERTOWN-SPORTSTRIBAL/mt/sportstribaltv/11/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-id="6675b93433d0e31efc120124" tvg-name="6675b93433d0e31efc120124" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/c4708210-a3aa-41d8-b77d-456f3e52f7d2" group-title="Wellness" tvg-chno="362", Omstars TV
+https://amg26268-amg26268c17-freelivesports-emea-10882.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg26268-sportsstudio-ssomstars-freelivesportsemea/playlist.m3u8
+
 #EXTINF:-1 tvg-id="6761eb6e560259210963313e" tvg-name="6761eb6e560259210963313e" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/dd0a200f-61af-4034-ac2e-0b338d583120" group-title="Wellness" tvg-chno="363", MORE U
 https://114933112aa649148b22f46d7798c6ce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_MoreU/playlist.m3u8
 
@@ -268,4 +274,7 @@ https://liveplay-g.instreamo.jio.com/hls/view-playlist/v2/886e80b9-28df-4508-9c2
 
 #EXTINF:-1 tvg-id="68a3a2dc90e4094f6286e55a" tvg-name="68a3a2dc90e4094f6286e55a" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/a3efa855-6f58-41ec-bc4a-1c62b54f4b58" group-title="Entertainment" tvg-chno="910", Drone TV
 https://a480c1a918694b47b63f7ba07a0f1dc2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_DroneTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="6938bc88a8faca8cb429f969" tvg-name="6938bc88a8faca8cb429f969" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/3db2d826-c03e-4b59-90c5-3ffc7b98b23b" group-title="Wellness" tvg-chno="1005", Joel Osteen network
+https://linear-860.frequency.stream/dist/freelivesports/860/hls/master/playlist.m3u8
 
