@@ -1,6 +1,6 @@
 {
     "name": "FreeLiveSportsTV by HL",
-    "author": "Actualizada 15/01/2026 12:17",
+    "author": "Actualizada 16/01/2026 00:17",
     "epg": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/epg/FreeLiveSportsTV.xml.gz",
     "image": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/freelivesports.png",
     "url": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/tv/w3u/FreeLiveSportsTV_tv.w3u",
@@ -543,6 +543,13 @@
                     "number": "1004",
                     "url": "https://amg26268-amg26268c13-freelivesports-emea-10224.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg26268-sportsstudio-rvtv-freelivesportsemea/playlist.m3u8",
                     "epgId": "69209b8b022b0830e186c96c"
+                },
+                {
+                    "name": "Waypoint TV",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/08aaf5dd-1c53-4129-8487-c1f2ac82e40d",
+                    "number": "1008",
+                    "url": "https://amg00381-amg00381c1-freelivesports-emea-11030.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00381-waypointcommunicationsfast-waypoint-freelivesportsemea/playlist.m3u8",
+                    "epgId": "695d764ad33a113e45a09c0c"
                 }
             ]
         },

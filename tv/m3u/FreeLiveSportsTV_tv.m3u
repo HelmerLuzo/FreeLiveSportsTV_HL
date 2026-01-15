@@ -275,3 +275,6 @@ https://amg26268-amg26268c13-freelivesports-emea-10224.playouts.now.amagi.tv/ts-
 #EXTINF:-1 tvg-id="6938bc88a8faca8cb429f969" tvg-name="6938bc88a8faca8cb429f969" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/3db2d826-c03e-4b59-90c5-3ffc7b98b23b" group-title="Wellness" tvg-chno="1005", Joel Osteen network
 https://linear-860.frequency.stream/dist/freelivesports/860/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-id="695d764ad33a113e45a09c0c" tvg-name="695d764ad33a113e45a09c0c" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/08aaf5dd-1c53-4129-8487-c1f2ac82e40d" group-title="Outdoors" tvg-chno="1008", Waypoint TV
+https://amg00381-amg00381c1-freelivesports-emea-11030.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00381-waypointcommunicationsfast-waypoint-freelivesportsemea/playlist.m3u8
+
