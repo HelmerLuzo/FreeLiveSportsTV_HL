@@ -83,6 +83,9 @@ https://7daa9e4f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3Bvcn
 #EXTINF:-1 tvg-id="675c767406563ac6560ae104" tvg-name="675c767406563ac6560ae104" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/76d71ef3-ac50-4d01-99d0-16b35a58235c" group-title="Motorsports" tvg-chno="123", SPEEDVISION
 https://2b5e9aec.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X1NwZWVkdmlzaW9uX0hMUw/playlist.m3u8
 
+#EXTINF:-1 tvg-id="67917ab78c569dd6bc2eb2c4" tvg-name="67917ab78c569dd6bc2eb2c4" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/cfc459ed-5207-4661-b4b1-9c273b365af9" group-title="Motorsports" tvg-chno="124", MotorRacing
+https://amg00585-amg00585c17-freelivesports-emea-6712.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-motorracing-freelivesportsemea/playlist.m3u8
+
 #EXTINF:-1 tvg-id="6675b91de1827c8af5d7a544" tvg-name="6675b91de1827c8af5d7a544" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/7a6ef117-9590-4c31-8ee1-6311a94973e3" group-title="Motorsports" tvg-chno="125", Powersports World
 https://stream.ads.ottera.tv/playlist.m3u8
 
@@ -163,6 +166,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-introuble-spo
 
 #EXTINF:-1 tvg-id="6675bbd47620a64769e3aaa7" tvg-name="6675bbd47620a64769e3aaa7" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/ef4c576d-49fb-4997-afe1-55f0b11d7982" group-title="Action & Extreme" tvg-chno="246", World of Freesports
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01866-mainstreammedia-freesportsinc-sportstribal/playlist.m3u8
+
+#EXTINF:-1 tvg-id="67917a6de0eff6898a8584ff" tvg-name="67917a6de0eff6898a8584ff" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/af78b66f-4130-413f-870f-dc98f6ed2888" group-title="Action & Extreme" tvg-chno="248", HorizonSports
+https://amg00585-amg00585c16-freelivesports-emea-6711.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-horizonsports-freelivesportsemea/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6793f38b28cc86e5b548fd1c" tvg-name="6793f38b28cc86e5b548fd1c" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/ff01971a-cd73-44df-a2fb-d6b654e0fe87" group-title="Action & Extreme" tvg-chno="251", Adventure Zone Sports Network
 https://onestudio.telos.indicue.com/stream.m3u8

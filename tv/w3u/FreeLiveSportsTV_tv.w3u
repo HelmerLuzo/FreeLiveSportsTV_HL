@@ -1,6 +1,6 @@
 {
     "name": "FreeLiveSportsTV by HL",
-    "author": "Actualizada 16/01/2026 00:17",
+    "author": "Actualizada 16/01/2026 12:17",
     "epg": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/epg/FreeLiveSportsTV.xml.gz",
     "image": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/freelivesports.png",
     "url": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/tv/w3u/FreeLiveSportsTV_tv.w3u",
@@ -137,6 +137,13 @@
                     "number": "123",
                     "url": "https://2b5e9aec.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X1NwZWVkdmlzaW9uX0hMUw/playlist.m3u8",
                     "epgId": "675c767406563ac6560ae104"
+                },
+                {
+                    "name": "MotorRacing",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/cfc459ed-5207-4661-b4b1-9c273b365af9",
+                    "number": "124",
+                    "url": "https://amg00585-amg00585c17-freelivesports-emea-6712.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-motorracing-freelivesportsemea/playlist.m3u8",
+                    "epgId": "67917ab78c569dd6bc2eb2c4"
                 },
                 {
                     "name": "Powersports World",
@@ -413,6 +420,13 @@
                     "number": "246",
                     "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01866-mainstreammedia-freesportsinc-sportstribal/playlist.m3u8",
                     "epgId": "6675bbd47620a64769e3aaa7"
+                },
+                {
+                    "name": "HorizonSports",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/af78b66f-4130-413f-870f-dc98f6ed2888",
+                    "number": "248",
+                    "url": "https://amg00585-amg00585c16-freelivesports-emea-6711.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-horizonsports-freelivesportsemea/playlist.m3u8",
+                    "epgId": "67917a6de0eff6898a8584ff"
                 },
                 {
                     "name": "Adventure Zone Sports Network",
