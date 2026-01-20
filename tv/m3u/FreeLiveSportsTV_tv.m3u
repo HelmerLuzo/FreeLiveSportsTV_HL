@@ -71,9 +71,6 @@ https://stream.ads.ottera.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="68543f26a4a3e82dffc86da2" tvg-name="68543f26a4a3e82dffc86da2" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/a9063832-0462-484e-bf9f-a1d5426dd98c" group-title="News" tvg-chno="113", Sports Connect
 https://d1jl8oqlli7412.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SportsStudio-Passthrough-SportsConnect/index.m3u8
 
-#EXTINF:-1 tvg-id="682f92f34202358e6e99c59e" tvg-name="682f92f34202358e6e99c59e" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/d71e3c9a-681c-4dbd-b437-2a507b78b7f1" group-title="Motorsports" tvg-chno="122", Motorsport.tv
-https://7daa9e4f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X01vdG9yc3BvcnR0dl9ITFM/playlist.m3u8
-
 #EXTINF:-1 tvg-id="675c767406563ac6560ae104" tvg-name="675c767406563ac6560ae104" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/76d71ef3-ac50-4d01-99d0-16b35a58235c" group-title="Motorsports" tvg-chno="123", SPEEDVISION
 https://2b5e9aec.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X1NwZWVkdmlzaW9uX0hMUw/playlist.m3u8
 
@@ -283,4 +280,10 @@ https://amg26268-amg26268c13-freelivesports-emea-10224.playouts.now.amagi.tv/ts-
 
 #EXTINF:-1 tvg-id="6938bc88a8faca8cb429f969" tvg-name="6938bc88a8faca8cb429f969" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/3db2d826-c03e-4b59-90c5-3ffc7b98b23b" group-title="Wellness" tvg-chno="1005", Joel Osteen network
 https://linear-860.frequency.stream/dist/freelivesports/860/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="6943e7dc182a4a3d2bcd3c10" tvg-name="6943e7dc182a4a3d2bcd3c10" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/3092f43f-1ef2-4357-be60-2706955b7018" group-title="Team Sports" tvg-chno="1006", Top Barca
+https://amg17560-amg17560c1-freelivesports-emea-10991.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17560-fcbarcelona-topbarcaenglish-freelivesportsemea/playlist.m3u8
+
+#EXTINF:-1 tvg-id="6943e94c4a975d542ea0d676" tvg-name="6943e94c4a975d542ea0d676" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/ba995e95-3461-4ecd-a748-4fcc13b349f5" group-title="Spanish" tvg-chno="1007", Top Barca en Espanyol
+https://amg17560-amg17560c2-freelivesports-emea-10992.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17560-fcbarcelona-topbarcaspanish-freelivesportsemea/playlist.m3u8
 

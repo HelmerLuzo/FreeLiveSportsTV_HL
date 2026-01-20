@@ -1,6 +1,6 @@
 {
     "name": "FreeLiveSportsTV by HL",
-    "author": "Actualizada 20/01/2026 12:17",
+    "author": "Actualizada 21/01/2026 00:17",
     "epg": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/epg/FreeLiveSportsTV.xml.gz",
     "image": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/freelivesports.png",
     "url": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/tv/w3u/FreeLiveSportsTV_tv.w3u",
@@ -123,13 +123,6 @@
                     "number": "20",
                     "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-sportstribal/playlist.m3u8",
                     "epgId": "6675bc0089524b38dbf58292"
-                },
-                {
-                    "name": "Motorsport.tv",
-                    "image": "https://media.unreel.me/prod/freelivesports/logo/d71e3c9a-681c-4dbd-b437-2a507b78b7f1",
-                    "number": "122",
-                    "url": "https://7daa9e4f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X01vdG9yc3BvcnR0dl9ITFM/playlist.m3u8",
-                    "epgId": "682f92f34202358e6e99c59e"
                 },
                 {
                     "name": "SPEEDVISION",
@@ -345,6 +338,13 @@
                     "number": "271",
                     "url": "https://amg00585-sportstribal-amg00585c2-sportstribal-emea-2176.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-foosballtv-sportstribalemea/playlist.m3u8",
                     "epgId": "6675c17f073469c082cb2b03"
+                },
+                {
+                    "name": "Top Barca",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/3092f43f-1ef2-4357-be60-2706955b7018",
+                    "number": "1006",
+                    "url": "https://amg17560-amg17560c1-freelivesports-emea-10991.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17560-fcbarcelona-topbarcaenglish-freelivesportsemea/playlist.m3u8",
+                    "epgId": "6943e7dc182a4a3d2bcd3c10"
                 }
             ]
         },
@@ -653,6 +653,13 @@
                     "number": "212",
                     "url": "https://amg17334-amg17334c1-freelivesports-emea-7386.playouts.now.amagi.tv/playlist/amg17334-luchalibrefast-luchalibre-freelivesportsemea/playlist.m3u8",
                     "epgId": "67db1b3d8415591e5e093ef7"
+                },
+                {
+                    "name": "Top Barca en Espanyol",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/ba995e95-3461-4ecd-a748-4fcc13b349f5",
+                    "number": "1007",
+                    "url": "https://amg17560-amg17560c2-freelivesports-emea-10992.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17560-fcbarcelona-topbarcaspanish-freelivesportsemea/playlist.m3u8",
+                    "epgId": "6943e94c4a975d542ea0d676"
                 }
             ]
         },
