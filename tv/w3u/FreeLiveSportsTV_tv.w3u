@@ -1,6 +1,6 @@
 {
     "name": "FreeLiveSportsTV by HL",
-    "author": "Actualizada 22/01/2026 16:02",
+    "author": "Actualizada 26/01/2026 13:25",
     "epg": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/epg/FreeLiveSportsTV.xml.gz",
     "image": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/freelivesports.png",
     "url": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/tv/w3u/FreeLiveSportsTV_tv.w3u",
@@ -251,11 +251,11 @@
             "image": "",
             "stations": [
                 {
-                    "name": "European Football League",
-                    "image": "https://media.unreel.me/prod/freelivesports/logo/deed3084-1593-4ad5-a398-d3ff653fcd51",
-                    "number": "9",
-                    "url": "https://amg00585-amg00585c19-freelivesports-emea-6831.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-elftv-freelivesportsemea/playlist.m3u8",
-                    "epgId": "67b79781eab92d6624ee0a33"
+                    "name": "Top Barca",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/3092f43f-1ef2-4357-be60-2706955b7018",
+                    "number": "8",
+                    "url": "https://amg17560-amg17560c1-freelivesports-emea-10991.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17560-fcbarcelona-topbarcaenglish-freelivesportsemea/playlist.m3u8",
+                    "epgId": "6943e7dc182a4a3d2bcd3c10"
                 },
                 {
                     "name": "K-Baseball TV (KBO)",
@@ -284,6 +284,13 @@
                     "number": "260",
                     "url": "https://32d0f0785a2a46d28117199f63ad73ea.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_TheHarlemGlobeTrotters/playlist.m3u8",
                     "epgId": "67f41e06811b7e0fb25171d1"
+                },
+                {
+                    "name": "European Football League",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/deed3084-1593-4ad5-a398-d3ff653fcd51",
+                    "number": "261",
+                    "url": "https://amg00585-amg00585c19-freelivesports-emea-6831.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-elftv-freelivesportsemea/playlist.m3u8",
+                    "epgId": "67b79781eab92d6624ee0a33"
                 },
                 {
                     "name": "Cricket Gold",
@@ -333,13 +340,6 @@
                     "number": "271",
                     "url": "https://amg00585-sportstribal-amg00585c2-sportstribal-emea-2176.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-foosballtv-sportstribalemea/playlist.m3u8",
                     "epgId": "6675c17f073469c082cb2b03"
-                },
-                {
-                    "name": "Top Barca",
-                    "image": "https://media.unreel.me/prod/freelivesports/logo/3092f43f-1ef2-4357-be60-2706955b7018",
-                    "number": "1006",
-                    "url": "https://amg17560-amg17560c1-freelivesports-emea-10991.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17560-fcbarcelona-topbarcaenglish-freelivesportsemea/playlist.m3u8",
-                    "epgId": "6943e7dc182a4a3d2bcd3c10"
                 }
             ]
         },
@@ -567,25 +567,18 @@
             "image": "",
             "stations": [
                 {
-                    "name": "eClutch Access",
-                    "image": "https://media.unreel.me/prod/freelivesports/logo/2f2099dc-39da-40f0-8958-fd36f6bc715f",
-                    "number": "11",
-                    "url": "https://liveplay-g.instreamo.jio.com/hls/view-playlist/v2/886e80b9-28df-4508-9c23-f12dd9f1550a/playlist.m3u8",
-                    "epgId": "68a3913636cf1d83afe35072"
-                },
-                {
-                    "name": "Cowboy Channel",
-                    "image": "https://media.unreel.me/prod/freelivesports/logo/bc7cc797-a20e-4ab4-b755-45cba4b82dc3",
-                    "number": "12",
-                    "url": "https://amg17292-amg17292c1-freelivesports-emea-6961.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-freelivesportsemea/playlist.m3u8",
-                    "epgId": "67b7c9a0d9391b69ebb03e1a"
-                },
-                {
                     "name": "Choppertown",
                     "image": "https://media.unreel.me/prod/sportsplus/logo/71a84f5d-8c67-4d54-8a82-7854b9227914",
                     "number": "21",
                     "url": "https://7d8dc76d676946ec8d372d4ed7b22333.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-11-CHOPPERTOWN-SPORTSTRIBAL/mt/sportstribaltv/11/hls/master/playlist.m3u8",
                     "epgId": "6675b734a3f2191ee5161c2d"
+                },
+                {
+                    "name": "Cowboy Channel",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/bc7cc797-a20e-4ab4-b755-45cba4b82dc3",
+                    "number": "244",
+                    "url": "https://amg17292-amg17292c1-freelivesports-emea-6961.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-freelivesportsemea/playlist.m3u8",
+                    "epgId": "67b7c9a0d9391b69ebb03e1a"
                 },
                 {
                     "name": "Bowling TV",
@@ -614,6 +607,13 @@
                     "number": "367",
                     "url": "https://b74b2c1067794724b288f2e6996c2dad.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_TheBoatShow/playlist.m3u8",
                     "epgId": "673b785252254eb082e18520"
+                },
+                {
+                    "name": "eClutch Access",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/2f2099dc-39da-40f0-8958-fd36f6bc715f",
+                    "number": "370",
+                    "url": "https://liveplay-g.instreamo.jio.com/hls/view-playlist/v2/886e80b9-28df-4508-9c23-f12dd9f1550a/playlist.m3u8",
+                    "epgId": "68a3913636cf1d83afe35072"
                 },
                 {
                     "name": "Golf Network",
@@ -665,7 +665,7 @@
                 {
                     "name": "Horse & Country",
                     "image": "https://media.unreel.me/prod/sportsplus/logo/403787aa-0d0a-440c-9056-84226a5c4a82",
-                    "number": "320",
+                    "number": "11",
                     "url": "https://hncfree-sportstribal.amagi.tv/hls/amagi_hls_data_sportstri-hncfree-sportstribal/CDN/playlist.m3u8",
                     "epgId": "6675b51e33d0e31efc11febd"
                 },
