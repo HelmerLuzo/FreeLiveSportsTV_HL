@@ -287,3 +287,6 @@ https://linear-860.frequency.stream/dist/freelivesports/860/hls/master/playlist.
 #EXTINF:-1 tvg-id="6943e94c4a975d542ea0d676" tvg-name="6943e94c4a975d542ea0d676" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/ba995e95-3461-4ecd-a748-4fcc13b349f5" group-title="Spanish" tvg-chno="1007", Top Barca en Espanyol
 https://amg17560-amg17560c2-freelivesports-emea-10992.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17560-fcbarcelona-topbarcaspanish-freelivesportsemea/playlist.m3u8
 
+#EXTINF:-1 tvg-id="6972a8e2e4de1b00c3cf2bb6" tvg-name="6972a8e2e4de1b00c3cf2bb6" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/7aa8dcbe-6345-4bce-ab74-83a4e197e99b" group-title="Motorsports" tvg-chno="1112", NASCAR
+https://amg00115-amg00115c1-freelivesports-emea-11215.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00115-nascar-nascar-freelivesportsemea/playlist.m3u8
+
