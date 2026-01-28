@@ -1,6 +1,6 @@
 {
     "name": "FreeLiveSportsTV by HL",
-    "author": "Actualizada 28/01/2026 00:17",
+    "author": "Actualizada 28/01/2026 12:17",
     "epg": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/epg/FreeLiveSportsTV.xml.gz",
     "image": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/freelivesports.png",
     "url": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/tv/w3u/FreeLiveSportsTV_tv.w3u",
@@ -99,6 +99,13 @@
             "image": "",
             "stations": [
                 {
+                    "name": "NASCAR",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/7aa8dcbe-6345-4bce-ab74-83a4e197e99b",
+                    "number": "2",
+                    "url": "https://amg00115-amg00115c1-freelivesports-emea-11215.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00115-nascar-nascar-freelivesportsemea/playlist.m3u8",
+                    "epgId": "6972a8e2e4de1b00c3cf2bb6"
+                },
+                {
                     "name": "MTRSPT1",
                     "image": "https://media.unreel.me/prod/sportsplus/logo/c8a648c2-8962-4965-a4e7-603dc5df3add",
                     "number": "16",
@@ -160,13 +167,6 @@
                     "number": "130",
                     "url": "https://stream.ads.ottera.tv/playlist.m3u8",
                     "epgId": "6675bed4a2823e9a829eda97"
-                },
-                {
-                    "name": "NASCAR",
-                    "image": "https://media.unreel.me/prod/freelivesports/logo/7aa8dcbe-6345-4bce-ab74-83a4e197e99b",
-                    "number": "1112",
-                    "url": "https://amg00115-amg00115c1-freelivesports-emea-11215.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00115-nascar-nascar-freelivesportsemea/playlist.m3u8",
-                    "epgId": "6972a8e2e4de1b00c3cf2bb6"
                 }
             ]
         },
