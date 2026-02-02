@@ -1,6 +1,6 @@
 {
     "name": "FreeLiveSportsTV by HL",
-    "author": "Actualizada 02/02/2026 12:17",
+    "author": "Actualizada 03/02/2026 00:17",
     "epg": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/epg/FreeLiveSportsTV.xml.gz",
     "image": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/freelivesports.png",
     "url": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/tv/w3u/FreeLiveSportsTV_tv.w3u",
@@ -23,6 +23,13 @@
             "image": "",
             "stations": [
                 {
+                    "name": "SportsGrid",
+                    "image": "https://media.unreel.me/prod/sportsplus/logo/71403161-8f04-41b0-87dc-cd47d12767f2",
+                    "number": "8",
+                    "url": "https://sportsgrid-tribal.amagi.tv/hls/amagi_hls_data_sportstri-sportsgrid-sportstribal/CDN/playlist.m3u8",
+                    "epgId": "6675b7bda139017a32428e74"
+                },
+                {
                     "name": "AYM Sports",
                     "image": "https://media.unreel.me/prod/freelivesports/logo/1a53b6f6-fe05-4354-9e41-40a5ef6f271f",
                     "number": "8",
@@ -35,13 +42,6 @@
                     "number": "22",
                     "url": "https://60c273eb866445249cc34a0c01556572.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-235-CAMPUSLORE-SPORTS-SPORTSTRIBALTV/mt/sportstribaltv/235/hls/master/playlist.m3u8",
                     "epgId": "6675bd20e1827c8af5d7a7c0"
-                },
-                {
-                    "name": "SportsGrid",
-                    "image": "https://media.unreel.me/prod/sportsplus/logo/71403161-8f04-41b0-87dc-cd47d12767f2",
-                    "number": "103",
-                    "url": "https://sportsgrid-tribal.amagi.tv/hls/amagi_hls_data_sportstri-sportsgrid-sportstribal/CDN/playlist.m3u8",
-                    "epgId": "6675b7bda139017a32428e74"
                 },
                 {
                     "name": "BLEAV Football",
@@ -106,25 +106,11 @@
                     "epgId": "6675bc0089524b38dbf58292"
                 },
                 {
-                    "name": "Motorvision",
-                    "image": "https://media.unreel.me/prod/sportsplus/logo/8ab54914-7b55-44e7-8a17-614ccdda799a",
-                    "number": "4",
-                    "url": "https://stream.ads.ottera.tv/playlist.m3u8",
-                    "epgId": "6675bed4a2823e9a829eda97"
-                },
-                {
                     "name": "FloRacing",
                     "image": "https://media.unreel.me/prod/freelivesports/logo/3ae62aeb-63b4-4f70-966b-16b0c39dd0c2",
                     "number": "20",
                     "url": "https://amg02278-amg02278c1-freelivesports-emea-7535.playouts.now.amagi.tv/playlist/amg02278-flosports-floracing24x7-freelivesportsemea/playlist.m3u8",
                     "epgId": "66b0ebb38011e1206fab2931"
-                },
-                {
-                    "name": "NHRA",
-                    "image": "https://media.unreel.me/prod/sportsplus/logo/6e20323d-b1cb-4b6f-b149-434179404b50",
-                    "number": "23",
-                    "url": "https://stream.ads.ottera.tv/playlist.m3u8",
-                    "epgId": "666318a8a2498f66a3603397"
                 },
                 {
                     "name": "NASCAR",
@@ -162,11 +148,25 @@
                     "epgId": "6675b91de1827c8af5d7a544"
                 },
                 {
+                    "name": "NHRA",
+                    "image": "https://media.unreel.me/prod/sportsplus/logo/6e20323d-b1cb-4b6f-b149-434179404b50",
+                    "number": "126",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8",
+                    "epgId": "666318a8a2498f66a3603397"
+                },
+                {
                     "name": "RPM Motorsport",
                     "image": "https://media.unreel.me/prod/sportsplus/logo/e1c40b46-8899-42be-9505-27431f558a9b",
                     "number": "127",
                     "url": "https://d1phlc8te2m7db.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/RPM-SportsTribal/playlist.m3u8",
                     "epgId": "6675bae1d823954d12bb5b44"
+                },
+                {
+                    "name": "Motorvision",
+                    "image": "https://media.unreel.me/prod/sportsplus/logo/8ab54914-7b55-44e7-8a17-614ccdda799a",
+                    "number": "130",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8",
+                    "epgId": "6675bed4a2823e9a829eda97"
                 }
             ]
         },
@@ -265,6 +265,13 @@
                     "epgId": "68b5f68ecce9c4384b9c1dc4"
                 },
                 {
+                    "name": "European Football League",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/deed3084-1593-4ad5-a398-d3ff653fcd51",
+                    "number": "10",
+                    "url": "https://amg00585-amg00585c19-freelivesports-emea-6831.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-elftv-freelivesportsemea/playlist.m3u8",
+                    "epgId": "67b79781eab92d6624ee0a33"
+                },
+                {
                     "name": "Moonball Sports TV",
                     "image": "https://media.unreel.me/prod/freelivesports/logo/961caf5f-0495-4bfa-a239-da3eaafe891e",
                     "number": "18",
@@ -291,13 +298,6 @@
                     "number": "260",
                     "url": "https://32d0f0785a2a46d28117199f63ad73ea.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_TheHarlemGlobeTrotters/playlist.m3u8",
                     "epgId": "67f41e06811b7e0fb25171d1"
-                },
-                {
-                    "name": "European Football League",
-                    "image": "https://media.unreel.me/prod/freelivesports/logo/deed3084-1593-4ad5-a398-d3ff653fcd51",
-                    "number": "261",
-                    "url": "https://amg00585-amg00585c19-freelivesports-emea-6831.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-elftv-freelivesportsemea/playlist.m3u8",
-                    "epgId": "67b79781eab92d6624ee0a33"
                 },
                 {
                     "name": "Cricket Gold",
@@ -451,6 +451,13 @@
             "image": "",
             "stations": [
                 {
+                    "name": "PokerGO",
+                    "image": "https://media.unreel.me/prod/sportsplus/logo/50d85ea2-c58d-41e1-9e39-14b034323b99",
+                    "number": "5",
+                    "url": "https://ea14c91ee2fb4faea1f381e9c9e51173.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-426-POKERGO-SPORTSTRIBALTV/mt/sportstribaltv/426/hls/master/playlist.m3u8",
+                    "epgId": "6675bd5ba2823e9a829ed9d9"
+                },
+                {
                     "name": "Poker Night In America",
                     "image": "https://media.unreel.me/prod/sportsplus/logo/1d91fc37-a75c-4490-8739-f9c79a8f9432",
                     "number": "23",
@@ -460,16 +467,9 @@
                 {
                     "name": "World Poker Tour",
                     "image": "https://media.unreel.me/prod/sportsplus/logo/c4779d42-4a0d-4a4d-a455-df67f3151d8f",
-                    "number": "24",
+                    "number": "190",
                     "url": "https://amg00218-wptenterprises-amg00218c1-sportstribal-emea-1900.playouts.now.amagi.tv/playlist/amg00218-wptenterprisesfast-worldpokertour-sportstribalemea/playlist.m3u8",
                     "epgId": "6675bddf08ff831167bd410d"
-                },
-                {
-                    "name": "PokerGO",
-                    "image": "https://media.unreel.me/prod/sportsplus/logo/50d85ea2-c58d-41e1-9e39-14b034323b99",
-                    "number": "191",
-                    "url": "https://ea14c91ee2fb4faea1f381e9c9e51173.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-426-POKERGO-SPORTSTRIBALTV/mt/sportstribaltv/426/hls/master/playlist.m3u8",
-                    "epgId": "6675bd5ba2823e9a829ed9d9"
                 },
                 {
                     "name": "WPT Live!",
@@ -574,16 +574,9 @@
             "image": "",
             "stations": [
                 {
-                    "name": "eClutch Access",
-                    "image": "https://media.unreel.me/prod/freelivesports/logo/2f2099dc-39da-40f0-8958-fd36f6bc715f",
-                    "number": "10",
-                    "url": "https://liveplay-g.instreamo.jio.com/hls/view-playlist/v2/886e80b9-28df-4508-9c23-f12dd9f1550a/playlist.m3u8",
-                    "epgId": "68a3913636cf1d83afe35072"
-                },
-                {
                     "name": "Cowboy Channel",
                     "image": "https://media.unreel.me/prod/freelivesports/logo/bc7cc797-a20e-4ab4-b755-45cba4b82dc3",
-                    "number": "25",
+                    "number": "244",
                     "url": "https://amg17292-amg17292c1-freelivesports-emea-6961.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-freelivesportsemea/playlist.m3u8",
                     "epgId": "67b7c9a0d9391b69ebb03e1a"
                 },
@@ -621,6 +614,13 @@
                     "number": "367",
                     "url": "https://b74b2c1067794724b288f2e6996c2dad.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_TheBoatShow/playlist.m3u8",
                     "epgId": "673b785252254eb082e18520"
+                },
+                {
+                    "name": "eClutch Access",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/2f2099dc-39da-40f0-8958-fd36f6bc715f",
+                    "number": "370",
+                    "url": "https://liveplay-g.instreamo.jio.com/hls/view-playlist/v2/886e80b9-28df-4508-9c23-f12dd9f1550a/playlist.m3u8",
+                    "epgId": "68a3913636cf1d83afe35072"
                 },
                 {
                     "name": "Golf Network",
