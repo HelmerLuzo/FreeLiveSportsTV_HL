@@ -293,3 +293,6 @@ https://linear-860.frequency.stream/dist/freelivesports/860/hls/master/playlist.
 #EXTINF:-1 tvg-id="6943e94c4a975d542ea0d676" tvg-name="6943e94c4a975d542ea0d676" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/ba995e95-3461-4ecd-a748-4fcc13b349f5" group-title="Spanish" tvg-chno="1007", Top Barca en Espanyol
 https://amg17560-amg17560c2-freelivesports-emea-10992.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17560-fcbarcelona-topbarcaspanish-freelivesportsemea/playlist.m3u8
 
+#EXTINF:-1 tvg-id="695d80af6bc7cedaa26a0bcb" tvg-name="695d80af6bc7cedaa26a0bcb" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/b81ff3ab-bd75-4ad0-850c-e61bd19be1e0" group-title="Motorsports" tvg-chno="1009", POWERtube TV
+https://streams2.sofast.tv/ptnr-sportstribal/genre-Automotive/lang-English/ctgr-Sport/title-Powertube/sofastplayout/restream/powertube/master.m3u8
+
