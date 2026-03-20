@@ -1,6 +1,6 @@
 {
     "name": "FreeLiveSportsTV by HL",
-    "author": "Actualizada 20/03/2026 12:17",
+    "author": "Actualizada 21/03/2026 00:17",
     "epg": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/epg/FreeLiveSportsTV.xml.gz",
     "image": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/freelivesports.png",
     "url": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/tv/w3u/FreeLiveSportsTV_tv.w3u",
@@ -12,7 +12,7 @@
                 {
                     "name": "Pac 12 Insider",
                     "image": "https://media.unreel.me/prod/freelivesports/logo/d16251f8-ff5b-4e36-be75-eb60aa43b0db",
-                    "number": "9",
+                    "number": "172",
                     "url": "https://amg00384-amg00384c1-freelivesports-emea-7308.playouts.now.amagi.tv/playlist/amg00384-pac12-pac12-freelivesportsemea/playlist.m3u8",
                     "epgId": "67e2fb3e548ae02169c017c4"
                 }
@@ -574,9 +574,16 @@
             "image": "",
             "stations": [
                 {
+                    "name": "eClutch Access",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/2f2099dc-39da-40f0-8958-fd36f6bc715f",
+                    "number": "12",
+                    "url": "https://liveplay-g.instreamo.jio.com/hls/view-playlist/v2/886e80b9-28df-4508-9c23-f12dd9f1550a/playlist.m3u8",
+                    "epgId": "68a3913636cf1d83afe35072"
+                },
+                {
                     "name": "Cowboy+ Sports",
                     "image": "https://media.unreel.me/prod/freelivesports/logo/0189def1-f444-40df-8fbf-5e45b0292bb6",
-                    "number": "11",
+                    "number": "244",
                     "url": "https://amg17292-amg17292c1-freelivesports-emea-6961.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-freelivesportsemea/playlist.m3u8",
                     "epgId": "67b7c9a0d9391b69ebb03e1a"
                 },
@@ -623,13 +630,6 @@
                     "epgId": "68114951dc7bfd176ab1044f"
                 },
                 {
-                    "name": "eClutch Access",
-                    "image": "https://media.unreel.me/prod/freelivesports/logo/2f2099dc-39da-40f0-8958-fd36f6bc715f",
-                    "number": "370",
-                    "url": "https://liveplay-g.instreamo.jio.com/hls/view-playlist/v2/886e80b9-28df-4508-9c23-f12dd9f1550a/playlist.m3u8",
-                    "epgId": "68a3913636cf1d83afe35072"
-                },
-                {
                     "name": "Golf Network",
                     "image": "https://media.unreel.me/prod/freelivesports/logo/aef93e60-809c-4253-8a6f-012ad4a18842",
                     "number": "705",
@@ -643,13 +643,6 @@
             "image": "",
             "stations": [
                 {
-                    "name": "Lucha Plus",
-                    "image": "https://media.unreel.me/prod/freelivesports/logo/2cf051b6-a8b1-46ed-ac4c-2d0ef812dc90",
-                    "number": "12",
-                    "url": "https://amg17334-amg17334c1-freelivesports-emea-7386.playouts.now.amagi.tv/playlist/amg17334-luchalibrefast-luchalibre-freelivesportsemea/playlist.m3u8",
-                    "epgId": "67db1b3d8415591e5e093ef7"
-                },
-                {
                     "name": "My Padel TV",
                     "image": "https://media.unreel.me/prod/freelivesports/logo/1a25cdbc-b1bc-4974-ab62-8a7cd4a4b505",
                     "number": "153",
@@ -662,6 +655,13 @@
                     "number": "194",
                     "url": "https://amg00218-wptenterprises-amg00218c2-sportstribal-emea-1901.playouts.now.amagi.tv/playlist/amg00218-wptenterprisesfast-worldpokertourespanol-sportstribalemea/playlist.m3u8",
                     "epgId": "6675c08cd0ea16d1c73ad39d"
+                },
+                {
+                    "name": "Lucha Plus",
+                    "image": "https://media.unreel.me/prod/freelivesports/logo/2cf051b6-a8b1-46ed-ac4c-2d0ef812dc90",
+                    "number": "212",
+                    "url": "https://amg17334-amg17334c1-freelivesports-emea-7386.playouts.now.amagi.tv/playlist/amg17334-luchalibrefast-luchalibre-freelivesportsemea/playlist.m3u8",
+                    "epgId": "67db1b3d8415591e5e093ef7"
                 },
                 {
                     "name": "Top Barca en Espanyol",
@@ -679,7 +679,7 @@
                 {
                     "name": "Horse & Country",
                     "image": "https://media.unreel.me/prod/sportsplus/logo/403787aa-0d0a-440c-9056-84226a5c4a82",
-                    "number": "320",
+                    "number": "11",
                     "url": "https://hncfree-sportstribal.amagi.tv/hls/amagi_hls_data_sportstri-hncfree-sportstribal/CDN/playlist.m3u8",
                     "epgId": "6675b51e33d0e31efc11febd"
                 },
