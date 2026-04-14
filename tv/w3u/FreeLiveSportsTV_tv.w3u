@@ -1,6 +1,6 @@
 {
     "name": "FreeLiveSportsTV by HL",
-    "author": "Actualizada 14/04/2026 12:17",
+    "author": "Actualizada 15/04/2026 00:17",
     "epg": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/epg/FreeLiveSportsTV.xml.gz",
     "image": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/freelivesports.png",
     "url": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/tv/w3u/FreeLiveSportsTV_tv.w3u",
@@ -440,7 +440,7 @@
                     "name": "PokerGO",
                     "image": "https://media.unreel.me/prod/sportsplus/logo/50d85ea2-c58d-41e1-9e39-14b034323b99",
                     "number": "191",
-                    "url": "https://ea14c91ee2fb4faea1f381e9c9e51173.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-426-POKERGO-SPORTSTRIBALTV/mt/sportstribaltv/426/hls/master/playlist.m3u8",
+                    "url": "https://amg16186-amg16186c1-amgplt0201.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg16186-amg16186c1-amgplt0201/playlist.m3u8",
                     "epgId": "6675bd5ba2823e9a829ed9d9"
                 },
                 {
