@@ -281,3 +281,6 @@ https://amg17560-amg17560c2-freelivesports-emea-10992.playouts.now.amagi.tv/ts-e
 #EXTINF:-1 tvg-id="695d80af6bc7cedaa26a0bcb" tvg-name="695d80af6bc7cedaa26a0bcb" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/b81ff3ab-bd75-4ad0-850c-e61bd19be1e0" group-title="Motorsports" tvg-chno="1009", POWERtube TV
 https://amg26268-amg26268c20-amgplt0201.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg26268-amg26268c20-amgplt0201/playlist.m3u8
 
+#EXTINF:-1 tvg-id="69c3106e68803d95a7d034d9" tvg-name="69c3106e68803d95a7d034d9" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/3ba85c0f-6f2c-471e-a144-ce9c3578c164" group-title="Combat" tvg-chno="1011", ProBox TV
+https://bbb-pbtv-freelivesports.otteravision.com/bbb/pbtv/pbtv.m3u8
+
