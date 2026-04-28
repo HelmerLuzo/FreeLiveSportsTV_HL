@@ -149,6 +149,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-introuble-spo
 #EXTINF:-1 tvg-id="6675bbd47620a64769e3aaa7" tvg-name="6675bbd47620a64769e3aaa7" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/ef4c576d-49fb-4997-afe1-55f0b11d7982" group-title="Action & Extreme" tvg-chno="246", World of Freesports
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01866-mainstreammedia-freesportsinc-sportstribal/playlist.m3u8
 
+#EXTINF:-1 tvg-id="67917a6de0eff6898a8584ff" tvg-name="67917a6de0eff6898a8584ff" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/af78b66f-4130-413f-870f-dc98f6ed2888" group-title="Action & Extreme" tvg-chno="248", HorizonSports
+https://horizonsports.b-cdn.net/horizonsports-global/playlist.m3u8
+
 #EXTINF:-1 tvg-id="6793f38b28cc86e5b548fd1c" tvg-name="6793f38b28cc86e5b548fd1c" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/ff01971a-cd73-44df-a2fb-d6b654e0fe87" group-title="Action & Extreme" tvg-chno="251", Adventure Zone Sports Network
 https://onestudio.telos.indicue.com/stream.m3u8
 
